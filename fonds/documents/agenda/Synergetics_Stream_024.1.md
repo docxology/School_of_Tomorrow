@@ -1,22 +1,3 @@
-🎥 Synergetics Livestream #024.1
-24 Point One and Two Dozen of The Other (Dark Knowledge Imaginaria)
-
-February 27, 2025, [[Daniel_Ari_Friedman]]
-
-📋 **Initial Action Items**
-- 🚀 Github push: Sync latest [[School_of_Tomorrow]] updates to @docxology fork. 
-	- https://github.com/docxology/School_of_Tomorrow/
-- 💫 [[Obsidian]] push: Update linked references and documentation
-	- https://publish.obsidian.md/synergetics/README
-- 📧 Send email to [[Trimtab_Mailing_List]] with session highlights
-	- https://groups.google.com/g/trimtab-book-club
-
-
-📝 **Stream Overview**
-Within the Dark Imaginarium ***, exploring [[Synergetics]] and methodologies.
-
-*** https://philarchive.org/rec/DOBDII "Dark Imaginarium: Infinity-Curiosity & Dark Consciousness" Shanna Dobson
-Abstract: "We investigate the idea of sleep as the protostate, and posit the idea of dark consciousness where dark is a 2-fold hybrid. We model dark consciousness as a 2-topos in p-adic time, and outline perfectoid and diamond-like versions. We then introduce and illustrate implications of Dark Imaginarium, which is a higher order Curiosity Artificial Intelligence, an Infinity-Curiosity Type, that thinks in infinity categories."
 
 🎭 **Key Discussion Topics**
 1. [[Dark_Imaginarium|Dark Imaginarium]] Concepts

@@ -9,10 +9,10 @@ creator: [[Fuller_Buckminster]]
 
 # Tetrahedron
 
-The tetrahedron represents the minimum structural system in Universe, embodying the principle of [[Four]] in its most fundamental geometric form. It is the simplest regular polyhedron and the foundation of [[Synergetics_Geometry]].
+The tetrahedron represents the minimum structural system in Universe, embodying the principle of [[4]] in its most fundamental geometric form. It is the simplest regular polyhedron and the foundation of [[Synergetics_Geometry]].
 
 Basic Properties:
-[[Tetrahedron]] has [[Four]] [[Face]].
+[[Tetrahedron]] has [[4]] [[Plane]].
 [[Tetrahedron]] has [[6]] [[Edge]].
 [[Tetrahedron]] encloses [[1]] [[Space]]
 
