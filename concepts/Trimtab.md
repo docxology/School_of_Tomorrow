@@ -11,7 +11,9 @@ aliases: [Trim Tab Principle, Leverage Effect]
 
 # Trimtab
 
-The Trimtab principle, derived from ship steering mechanisms, represents R. Buckminster Fuller's concept of achieving maximum change through minimum, well-placed effort.
+The Trimtab principle, derived from ship steering mechanisms, represents R. Buckminster Fuller's concept of achieving maximum change through minimum, well-placed effort. 
+
+Related to [[Trimtab_Reading_Group|Trimtab Readers]] and [[concepts/Cybernetics]]
 
 ## Overview
 

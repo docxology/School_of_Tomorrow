@@ -12,6 +12,8 @@ aliases: [Cuboctahedron, VE]
 
 The Vector Equilibrium (VE), also known as the cuboctahedron, represents the most symmetrical equilibrium relationship between forces in a spherical system. It is fundamental to [[concepts/Synergetics_Geometry|Synergetics Geometry]] and forms the basis of the [[concepts/Isotropic_Vector_Matrix|Isotropic Vector Matrix]] (IVM).
 
+This is [[Closest_Packing_of_Spheres|Close Packing]] of [[12]] [[spheres]] around [[1]]. 
+
 ## Geometric Properties
 
 ### Basic Characteristics

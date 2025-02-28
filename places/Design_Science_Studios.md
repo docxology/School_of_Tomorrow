@@ -224,6 +224,67 @@ mindmap
             Experts
 ```
 
+## Organization Structure
+
+### Core Stewards and Leadership
+
+**Current Core Stewards:**
+- [[people/Roxi_Shohadaee|Roxi Shohadaee]] (Co-Founder, Ecosystem Director + ARTchitect)
+- [[people/Marieam_Shohadaee|Marieam Shohadaee]]
+- [[people/Bliss_Alberts|Bliss Alberts]]
+- [[people/Stephen_Bau|Stephen Bau]]
+- [[people/Mark_Smith|Mark Smith]]
+- [[people/Dianne_Regisford|D-Empress Dr. Dianne Regisford]]
+- [[people/Mariette_Papic|Mariette Papic]]
+- [[people/Ari_Lazer|Ari Lazer]]
+- [[people/Eve_Rose|Eve Rose]]
+- [[people/John_Ash|Speaker John Ash]]
+- [[people/Julia_Russotti|Julia Russotti]]
+
+**Founding Team:**
+- [[people/Roxi_Shohadaee|Roxi Shohadaee]] (Co-Founder, Ecosystem Director + ARTchitect)
+- [[people/Faith_Flanigan|Faith Flanigan]] (Co-Founder, Advisor)
+- [[people/Nicolas_Alcala|Nicolás Alcalá]] (Co-Founder, Studio Imagineer, Advisor)
+- [[people/Amanda_Joy_Ravenhill|Amanda Joy Ravenhill]] (Co-Founder, Advisor)
+
+### Additional Team Members and Contributors
+
+**Active Contributors:**
+- [[people/Tyler_Hanson|Tyler Hanson]]
+- [[people/Veronica_Anderson|Veronica Anderson]]
+- [[people/Ceci|Ceci]]
+
+**Pod Leaders and Participants:**
+- [[people/Ganga_Devi_Braun|Ganga Devi Braun]] (Regenerative Counselor and Systems Change Consultant)
+- MetaBau Pod (POD9) Members:
+  - [[people/Marieam_Shohadaee|Marieam Shohadaee]]
+  - [[people/Casey_House|Casey House]]
+  - [[people/Carson_Linforth_Bowley|Carson Linforth Bowley]]
+  - [[people/Peter_Lokken|Peter Lokken]]
+  - [[people/Stephen_Bau|Stephen Bau]] (Pod Captain)
+
+**Collaborators:**
+- [[people/Ilaria_Forte|Ilaria Forte]] (Plenum: A Collective Story of Regeneration)
+- [[people/Michael_Saup|Michael Saup]] (Orbis Lumen project)
+- [[people/Maxinne_Leighton|Maxinne Leighton, PhD]] (Leadership and Change)
+- [[people/Agathe_Basset|Agathe Basset]]
+
+### Partner Organizations
+
+The Design Science Studio has partnerships with several organizations:
+- [[organizations/Gray_Area|Gray Area]]
+- [[organizations/Future_of_Cities|Future of Cities]]
+- [[organizations/Climate_Designers|Climate Designers]]
+- [[organizations/nRhythm|nRhythm]]
+- [[organizations/Rebuild|Re:build]]
+- [[organizations/Buckminster_Fuller_Institute|Buckminster Fuller Institute (BFI)]]
+- [[organizations/habRitual|habRitual]]
+- [[organizations/GDC|Graphic Designers of Canada (GDC)]] - BC Chapter:
+  - [[people/Carolina_Becerra|Carolina Becerra]] (President)
+  - [[people/Marga_Lopez|Marga Lopez]] (Partnership Chair)
+  - [[people/Stephen_Bau|Stephen Bau]] (Web Communications Chair)
+- [[organizations/Emergent_Media_DesignLab|The Emergent Media DesignLab]] at the University of California, Irvine
+
 ## References
 
 ### Primary Sources
