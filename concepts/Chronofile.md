@@ -13,7 +13,7 @@ aliases: [Fuller Archive, Dymaxion Chronolog, Life Documentation]
 
 # The Chronofile
 
-The Chronofile represents Fuller's systematic approach to documenting his life and work from 1915 until 1983, creating what may be the most detailed self-documented life in history.
+The [[Chronofile]] represents [[Buckminster_Fuller|Bucky Fuller]]'s systematic approach to documenting his life and work from [[1915]] until [[1983]], creating what may be the most detailed self-documented life in history.
 
 ## Core Framework
 

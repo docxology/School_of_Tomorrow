@@ -41,7 +41,7 @@ graph TD
 ```
 
 ### Key Elements
-1. Holistic Vision
+1. Holistic Vision ([[1]] and related topics). 
    - Unity of existence
    - Natural harmony
    - Pattern recognition

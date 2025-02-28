@@ -521,7 +521,7 @@ historical_artifacts:
 ```mermaid
 graph TD
     A[Common Law OS] -->|Forked| B[Colonial System]
-    B -->|Revolutionary Branch| C[USA OS v1.0]
+    B -->|Revolutionary Branch| C[USA OS v1.1]
     C -->|Constitution Update| D[USA OS v2.0]
     
     subgraph "Legacy Systems"

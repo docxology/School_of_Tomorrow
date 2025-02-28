@@ -11,7 +11,9 @@ aliases: [Q-Coordinates, Quadray System]
 
 # Quadray Coordinates
 
-Quadray Coordinates represent a four-dimensional coordinate system that provides an alternative to traditional [[concepts/XYZ_Coordinates|XYZ coordinates]] for describing three-dimensional space. The system uses four basis vectors emanating from the origin to the vertices of a regular [[forms/Tetrahedron|tetrahedron]], providing a more natural framework for certain geometric and structural calculations.
+Quadray Coordinates represent a [[4]]-dimensional coordinate system that provides an alternative to traditional [[concepts/XYZ_Coordinates|XYZ coordinates]] for describing three-dimensional space. The system uses four basis vectors emanating from the origin to the vertices of a regular [[forms/Tetrahedron|tetrahedron]], providing a more natural framework for certain geometric and structural calculations. Related to [[mathematics/Isotropic_Vector_Matrix|IVM]] and [[IVM_XYZ]]
+
+Developed by [[Kirby_Urner]] and others. 
 
 ## Mathematical Foundation
 

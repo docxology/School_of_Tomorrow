@@ -15,6 +15,7 @@ aliases: [Fuller Projection, Airocean Map, Fuller Map]
 
 The Dymaxion Map represents Fuller's revolutionary approach to global visualization, using an icosahedral projection to minimize distortion and present Earth's continents as a single connected island in a world ocean.
 
+![[Pasted image 20250227181534.png]]
 ## Core Principles
 
 ### Mathematical Foundation

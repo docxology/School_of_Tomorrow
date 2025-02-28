@@ -57,28 +57,80 @@ graph TD
 
 ### Philosophical Networks
 ```mermaid
-mindmap
-    root((Pragmatism))
-        Operating Systems
-            [[USA_OS|Democratic Framework]]
-            [[World_Game|Resource Management]]
-            [[Digital_Democracy|Network Systems]]
-            [[Global_University|Knowledge Distribution]]
-        Design Methods
-            [[Design_Science|Practical Solutions]]
-            [[Anticipatory_Design|Forward Planning]]
-            [[System_Innovation|Continuous Improvement]]
-            [[Pattern_Recognition|System Understanding]]
-        Verification Systems
-            [[Operationalism|Measurement Methods]]
-            [[System_Analysis|Analysis Tools]]
-            [[Pattern_Formation|Development Process]]
-            [[System_Behavior|Dynamic Response]]
-        Implementation Framework
-            [[Resource_Distribution|Resource Management]]
-            [[Energy_Systems|Flow Networks]]
-            [[Space_Frames|Structural Systems]]
-            [[Tensegrity|Force Networks]]
+graph TD
+    P((Pragmatism)) --> OS[Operating Systems]
+    P --> DM[Design Methods]
+    P --> VS[Verification Systems]
+    P --> IF[Implementation Framework]
+
+    %% Operating Systems Details
+    OS --> |Democratic Framework| USA[USA OS]
+    OS --> |Resource Management| WG[World Game]
+    OS --> |Network Systems| DD[Digital Democracy]
+    OS --> |Knowledge Distribution| GU[Global University]
+
+    %% Nested OS Details
+    USA --> USA1[Participatory Systems]
+    USA --> USA2[Governance Models]
+    USA --> USA3[Decision Frameworks]
+    
+    WG --> WG1[Resource Allocation]
+    WG --> WG2[Global Simulation]
+    WG --> WG3[Scenario Planning]
+    
+    DD --> DD1[Digital Voting]
+    DD --> DD2[Network Governance]
+    DD --> DD3[Distributed Systems]
+    
+    GU --> GU1[Knowledge Networks]
+    GU --> GU2[Learning Systems]
+    GU --> GU3[Educational Platforms]
+
+    %% Design Methods Details
+    DM --> |Practical Solutions| DS[Design Science]
+    DM --> |Forward Planning| AD[Anticipatory Design]
+    DM --> |Continuous Improvement| SI[System Innovation]
+    DM --> |System Understanding| PR[Pattern Recognition]
+
+    %% Nested Design Details
+    DS --> DS1[Solution Framework]
+    DS --> DS2[Design Principles]
+    DS --> DS3[Implementation Methods]
+    
+    AD --> AD1[Future Modeling]
+    AD --> AD2[Predictive Systems]
+    AD --> AD3[Planning Tools]
+    
+    SI --> SI1[Innovation Cycles]
+    SI --> SI2[System Evolution]
+    SI --> SI3[Improvement Methods]
+    
+    PR --> PR1[Pattern Analysis]
+    PR --> PR2[Recognition Systems]
+    PR --> PR3[Learning Models]
+
+    %% Verification Systems Details
+    VS --> |Measurement Methods| OP[Operationalism]
+    VS --> |Analysis Tools| SA[System Analysis]
+    VS --> |Development Process| PF[Pattern Formation]
+    VS --> |Dynamic Response| SB[System Behavior]
+
+    %% Implementation Framework Details
+    IF --> |Resource Management| RD[Resource Distribution]
+    IF --> |Flow Networks| ES[Energy Systems]
+    IF --> |Structural Systems| SF[Space Frames]
+    IF --> |Force Networks| TN[Tensegrity]
+
+    %% Styling
+    classDef mainNode fill:#f9f,stroke:#333,stroke-width:2px
+    classDef subNode fill:#aaf,stroke:#333
+    classDef detailNode fill:#afa,stroke:#333
+    classDef leafNode fill:#faa,stroke:#333
+
+    class P mainNode
+    class OS,DM,VS,IF subNode
+    class USA,WG,DD,GU,DS,AD,SI,PR,OP,SA,PF,SB,RD,ES,SF,TN detailNode
+    class USA1,USA2,USA3,WG1,WG2,WG3,DD1,DD2,DD3,GU1,GU2,GU3,DS1,DS2,DS3,AD1,AD2,AD3,SI1,SI2,SI3,PR1,PR2,PR3 leafNode
 ```
 
 ### System Weaving
@@ -180,28 +232,98 @@ pragmatic_networks:
 
 ### USA OS Integration
 ```mermaid
-mindmap
-    root((USA OS Integration))
-        Verification Methods
-            [[System_Analysis|Analysis Protocols]]
-            [[Pattern_Recognition|Pattern Verification]]
-            [[System_Behavior|Behavior Testing]]
-            [[Energy_Systems|Flow Validation]]
-        Implementation Tools
-            [[Resource_Distribution|Resource Protocols]]
-            [[Digital_Democracy|Network Protocols]]
-            [[World_Game|Simulation Tools]]
-            [[Global_University|Education Protocols]]
-        Design Framework
-            [[Design_Science|Method Protocols]]
-            [[Anticipatory_Design|Planning Protocols]]
-            [[System_Innovation|Evolution Protocols]]
-            [[Pattern_Formation|Development Protocols]]
-        Philosophical Base
-            [[Operationalism|Measurement Framework]]
-            [[Transcendentalism|Unity Framework]]
-            [[Systems_Philosophy|Systems Framework]]
-            [[Phenomenology|Experience Framework]]
+graph TD
+    %% Main Integration Hub
+    ROOT((USA OS Integration)) --> VM[Verification Methods]
+    ROOT --> IT[Implementation Tools]
+    ROOT --> DF[Design Framework]
+    ROOT --> PB[Philosophical Base]
+
+    %% Verification Methods Detail
+    VM --> |Analysis Protocols| SA[System Analysis]
+    VM --> |Pattern Verification| PR[Pattern Recognition]
+    VM --> |Behavior Testing| SB[System Behavior]
+    VM --> |Flow Validation| ES[Energy Systems]
+
+    %% Nested Verification Details
+    SA --> SA1[Data Analysis]
+    SA --> SA2[System Metrics]
+    SA --> SA3[Validation Tools]
+
+    PR --> PR1[Pattern Detection]
+    PR --> PR2[Recognition Models]
+    PR --> PR3[Learning Systems]
+
+    SB --> SB1[Behavior Models]
+    SB --> SB2[Testing Frameworks]
+    SB --> SB3[Response Analysis]
+
+    ES --> ES1[Energy Flow]
+    ES --> ES2[System Efficiency]
+    ES --> ES3[Resource Optimization]
+
+    %% Implementation Tools Detail
+    IT --> |Resource Protocols| RD[Resource Distribution]
+    IT --> |Network Protocols| DD[Digital Democracy]
+    IT --> |Simulation Tools| WG[World Game]
+    IT --> |Education Protocols| GU[Global University]
+
+    %% Nested Implementation Details
+    RD --> RD1[Resource Allocation]
+    RD --> RD2[Distribution Networks]
+    RD --> RD3[Management Systems]
+
+    DD --> DD1[Digital Governance]
+    DD --> DD2[Network Systems]
+    DD --> DD3[Participation Tools]
+
+    WG --> WG1[Simulation Models]
+    WG --> WG2[Game Theory]
+    WG --> WG3[Strategic Planning]
+
+    GU --> GU1[Learning Networks]
+    GU --> GU2[Knowledge Systems]
+    GU --> GU3[Educational Tools]
+
+    %% Design Framework Detail
+    DF --> |Method Protocols| DS[Design Science]
+    DF --> |Planning Protocols| AD[Anticipatory Design]
+    DF --> |Evolution Protocols| SI[System Innovation]
+    DF --> |Development Protocols| PF[Pattern Formation]
+
+    %% Nested Design Details
+    DS --> DS1[Design Methods]
+    DS --> DS2[Solution Framework]
+    DS --> DS3[Implementation]
+
+    AD --> AD1[Future Planning]
+    AD --> AD2[Predictive Models]
+    AD --> AD3[Strategy Development]
+
+    SI --> SI1[Innovation Systems]
+    SI --> SI2[Evolution Framework]
+    SI --> SI3[Improvement Cycles]
+
+    PF --> PF1[Pattern Development]
+    PF --> PF2[Formation Models]
+    PF --> PF3[Growth Systems]
+
+    %% Philosophical Base Detail
+    PB --> |Measurement Framework| OP[Operationalism]
+    PB --> |Unity Framework| TR[Transcendentalism]
+    PB --> |Systems Framework| SP[Systems Philosophy]
+    PB --> |Experience Framework| PH[Phenomenology]
+
+    %% Styling
+    classDef mainNode fill:#f9f,stroke:#333,stroke-width:2px
+    classDef subNode fill:#aaf,stroke:#333
+    classDef detailNode fill:#afa,stroke:#333
+    classDef leafNode fill:#faa,stroke:#333
+
+    class ROOT mainNode
+    class VM,IT,DF,PB subNode
+    class SA,PR,SB,ES,RD,DD,WG,GU,DS,AD,SI,PF,OP,TR,SP,PH detailNode
+    class SA1,SA2,SA3,PR1,PR2,PR3,SB1,SB2,SB3,ES1,ES2,ES3,RD1,RD2,RD3,DD1,DD2,DD3,WG1,WG2,WG3,GU1,GU2,GU3,DS1,DS2,DS3,AD1,AD2,AD3,SI1,SI2,SI3,PF1,PF2,PF3 leafNode
 ```
 
 ## Integration with Fuller's Work
