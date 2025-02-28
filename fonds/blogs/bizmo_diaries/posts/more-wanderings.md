@@ -1,0 +1,11 @@
+---
+title: More Wanderings
+id: 110927853748783173
+author: Kirby Urner
+published: 2005-02-24T13:26:00.000-08:00
+updated: 2006-11-15T11:43:42.659-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+This is February? asks the front page of The Oregonian today. Indeed this is weird weather for us, but not unenjoyable. I've just been sitting out at a favorite cafe with Nick, getting briefed on the Amory Lovins talk of two nights ago.  Fabik, freshly back from Mexico, joined us for lunch.Biofuels could be big in Oregon, especially considering how many trucks we make. OSU has already done a lot of the planning. Lovins is a 787 fan, sounds like (new Boeing model). Speaking of Boeing, another headline in today's paper: JetBlue is to start a nonstop service from PDX to JFK, using state of the art Airbuses (every seat has its own DVD LCD).Last night we watched the full moon rise over the Columbia, anchored off PDX. At dusk, that tower looks like something straight out of a science fiction novel, or maybe Lord of the Rings.  So what's with those billowing black smoke fires again?  They've been happening for years.Last Friday night, Dr. Philip Clayton did the [ISEPP lecture](http://www.isepp.org/Pages/04-05%20Pages/Clayton.html), talking about the levels of discourse separating emergent levels of complexity. Philosophy floats atop science, with a lot of value-laden verbiage, and that's OK. As human beings, we're entitled to traffic at a higher level than reductionism might justify and nail down within empirical simulations. Life at the [edge of chaos](http://controlroom.blogspot.com/2005/02/on-edge-of-chaos.html) is just like that.After wine and dinner, I asked him about the Tower of Babel i.e. isn't it part of the design that we don't get totalitarian closure i.e. Universe always seems to escape complete systematization? It's a question I didn't get to bring up with Lyn & Dorion in the Hawthorne Pauling House that time (Terry did most the talking) -- was thinking about them cuz Clayton played us a DVD clip from [Contact](http://www.imdb.com/title/tt0118884/) during his multimedia presentation (also a clip from [2001: A Space Odysseey](http://www.imdb.com/title/tt0062622/) -- the chimps' meetup with the obelisk).  Anyway, yes, Philip thinks the Tower of Babel is semi-real.

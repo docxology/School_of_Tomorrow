@@ -1,0 +1,11 @@
+---
+title: Memo re The Map
+id: 113200516646593141
+author: Kirby Urner
+published: 2005-11-14T13:23:00.000-08:00
+updated: 2006-11-15T11:44:10.563-08:00
+blog: control_room
+tags: 
+---
+
+In my view, Snyder is a damned good cartographer and I have no problem using his algorithm to populate global data displays making use of Fuller's preferred layout, with uninterrupted landmasses (one layout among many).I'm aware of cheap imitations of the [Dymaxion or Fuller Projection](http://images.google.com/images?q=fuller+projection&hl=en&btnG=Search+Images), which slice into Japan or wherever, and I know would-be World Game players would be dismayed by such a dumbing down. Competent players want access to the real deal, I understand that.I'm also aware that Fuller's algorithm, as computerized by Bob Gray starting with Fuller's simulations, expressed with [Polynesian-style artifacts](http://www.rwgrayprojects.com/synergetics/s11/figs/f0102.html), might be used to replace Snyder's in some contexts, giving different gaussians (i.e. the triangles are still distorted, but in a different way).Mostly, I'm interested in just cutting through the BS, such that open source global data displays, of relevance to NGOs especially, don't involve diverting precious resources from field offices and control rooms already fully engaged in serious-minded service on the front lines.We don't have the time/energy to spare to ensure compliance with a lot of complicated EULAs. That's why we use Ubuntu/Gnome and like that: we're short of money on paper, and yet we're performing vital high tech services on behalf of omnihumanity nevertheless.The Fuller Projection should be immediately accessible to such remotely deployed individuals, as well as to school kids in their safe 'n secure classrooms, complete with relevant data overlays.Our school's objective is to foster competent planning and collaboration skills, such as we've been learning and benefitting from in the open source community more generally. Let's keep up the good work while making GIS/GPS more integral to our thinking.

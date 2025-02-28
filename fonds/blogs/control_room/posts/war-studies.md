@@ -1,0 +1,23 @@
+---
+title: War Studies
+id: 1977322431912609912
+author: Kirby Urner
+published: 2017-01-16T11:22:00.000-08:00
+updated: 2017-01-20T21:38:32.314-08:00
+blog: control_room
+tags: 
+---
+
+[](https://www.flickr.com/photos/kirbyurner/32311318036/in/dateposted-public/)
+
+That famous folk song that goes "ain't gonna study war no more" seems clearly in the back of the mind of our writer, Friend Wolf Mendl, as he opens with a defense: "Why would a Quaker, a subclass of Pacifist, study and/or play war games?"  Obviously, in order to end it (outward war), in favor of world game instead, he says in translation to 2017-speak.
+
+Lets remember George Fox was looked up to as a leader of the type you'd want to follow in battle. England found it frustrating that some of its bravest had a strong penchant for non-violence, but as the pamphlet points out, that's more the Chinese way, of Sun Tzu. Overt force is just gross, compared to the subtle thrusts of his martial art.
+
+Friend Mendl, then quotes Clausewitz (more often cited than read) in saying the political has to guide the military is a truism, as "the political" is simply what thoughts go through our minds as we set about with our planning. What's the ideological glue that coheres this massive attempt at cooperation? What follows is almost robotic, and gets faster and more precise with practice, which is what drilling is all about.  Martial artists are always looping through their moves in various hypertoon scenarios.
+
+We get to Kissinger and ample citations to a dogma that military might makes for influence on the world stage. That truism, combined with a lot of zero sum game misassumptions endemic to English speakers, but not only English speakers, has led us to the threshold of mutually assured destruction, a cliffhanger for sure.
+
+Back to my point about George Fox as cut from cloth similar to that of a military leader, I think Quakers around Oliver Cromwell's time, on through William Penn, got some appreciation from the war rooms for at least having done some homework. They didn't walk in and immediately start kneeling or handing out pamphlets or other inappropriate behaviors (pouring lamb's blood on everything). They speak knowingly of the chessboard (if not a go board) and have constructive things to say.
+
+This Pendle Hill Pamphlet (#247) contributes in that tradition. Having come out several decades ago, there's no hint of our curriculum changes in the lower grades around geometry, bringing the context of world game to [American literature](https://medium.com/@kirbyurner/american-literature-101-224489c26f19), as [E. J. Applewhite](http://mybizmo.blogspot.com/2005/02/ayatollah-of-tetrahedron.html) predicted and helped make happen. I'm not saying every public or private school shares anything about all of the [focal points](http://mybizmo.blogspot.com/2006/09/focal-points.html) my own students all know about. Not in early 2017.  However the garden had been planted, the memes released, much earlier in the 1900s. Osmosis takes time. At least Quakers were doing their homework.

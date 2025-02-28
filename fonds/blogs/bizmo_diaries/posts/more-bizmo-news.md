@@ -1,0 +1,11 @@
+---
+title: More BizMo News
+id: 111420940012698469
+author: Kirby Urner
+published: 2005-04-22T15:36:00.000-07:00
+updated: 2006-12-20T16:57:58.507-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](http://photos1.blogger.com/img/254/1836/640/bizmo1.jpg) For sale on eBayTrevor found this [bizmo on eBay](http://cgi.ebay.com/ebaymotors/ws/eBayISAPI.dll?ViewItem&rd=1&item=4543494713), complete with 7 workstations and externally viewable video wall. I could see dispatch sending a vehicle like this to some curriculum/circus event, to which I might be sent as well, in a bizmo we could actually sleep in. Coordinating resources is key.The general Project Renaissance philosophy involves government working with NGOs, because they're on the cutting edge, pioneering new technologies in ways corporate R&D budgets might never directly support. Yet usable, commercializable ideas derive from such pioneering, so the money is in theory well spent (in practice there'll be some waste).When humanity is hurt or damaged, control rooms spring into action and provide relief, which makes for good reality TV. Of course historically, humans haven't really worked as a body, as large groups typify other groups as pathogenic, and teach their children to perpetuate these views. Humanity has some kind of auto-immune disorder, like lupus or something, causing it to keep attacking itself. Project Renaissance attempts to overcome this disorder. The tsunami relief effort was a step in the right direction.Speaking of bizmo-based reality TV, I was watching [Pat Croce Moving In](http://www.sonypictures.com/tv/shows/patcroce/index.php) on the monitor at the gym today, close captioned, as I burned calories on a [Precor EFX546i](http://www.precor.com/comm/en/efx/546i/). This guy travels around in a bizmo, parking next to homes and getting involved in family dynamics, trying to help out and fix stuff. I'd call that prototypical of what I'm scheming to see -- I'd just like more of a geek channel overlay, i.e. a focus on technology and engineering, in addition to whatever soap opera family dynamics. Plus Croce's bizmo's interior is too much the suburban ranch style home for my taste (not my American dream).

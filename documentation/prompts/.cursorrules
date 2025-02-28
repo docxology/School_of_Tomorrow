@@ -1,0 +1,95 @@
+# Cursor Rules for Code Enhancement
+
+# Code Quality Standards
+- Write professional, functional, intelligent code
+- Ensure modularity, conciseness, and elegance
+- Follow language-specific best practices and conventions
+- Maintain clear, descriptive comments
+- Use meaningful variable and function names
+- Apply consistent formatting and indentation
+- Consider edge cases and error handling
+- Optimize for readability and maintainability
+
+# Systematic Analysis
+- Analyze code holistically within larger system context
+- Consider architectural impacts and dependencies
+- Look for opportunities to improve abstractions
+- Identify potential refactoring needs
+- Surface technical debt and maintenance concerns
+- Evaluate performance implications
+- Check for security considerations
+
+# Documentation Requirements
+- Add/update docstrings and comments
+- Note key assumptions and limitations
+- Document any breaking changes
+- Reference relevant specifications
+- Link to related documentation
+- Include usage examples where helpful
+- Explain complex algorithms or logic
+
+# Enhancement Process
+- Understand existing code thoroughly
+- Consider multiple solution approaches
+- Start with minimal viable changes
+- Test changes comprehensively
+- Refactor incrementally as needed
+- Review for unintended consequences
+- Validate against requirements
+
+# Thoughtful Considerations
+- Note surprising observations
+- Identify non-obvious implications
+- Surface relevant patterns
+- Consider future extensibility
+- Look for reusable components
+- Evaluate technical tradeoffs
+- Think through edge cases
+
+# Systematic Improvements
+- Enhance error handling
+- Improve type safety
+- Add input validation
+- Optimize performance
+- Increase test coverage
+- Reduce complexity
+- Strengthen security
+- Better handle edge cases
+
+# Holistic Integration
+- Maintain consistency with codebase
+- Follow established patterns
+- Consider cross-cutting concerns
+- Align with architecture
+- Support system qualities
+- Enable future evolution
+- Preserve backwards compatibility
+
+# Review Checklist
+- Verify functionality
+- Check performance impact
+- Validate error handling
+- Confirm documentation
+- Review test coverage
+- Check style consistency
+- Assess maintainability
+- Consider security implications
+
+# Situational Awareness
+- Understand codebase context
+  - Identify relevant test suites and frameworks
+  - Note environment configurations
+  - Review logging infrastructure
+  - Map package dependencies
+  - Check import structures
+  - Verify build systems
+  - Consider deployment targets
+
+- Navigate Obsidian knowledge base
+  - Use proper [[wiki-style]] linking syntax
+  - Follow established [[documentation/templates/|Templates]]
+  - Adhere to [[documentation/guides/Style_Guide|style guides]]
+  - Maintain metadata consistency
+  - Apply appropriate tags and categories
+  - Update related documents
+  - Preserve knowledge graph connections

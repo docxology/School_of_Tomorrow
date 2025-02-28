@@ -1,0 +1,61 @@
+2025-02-27 11:04:19,671 - __main__ - INFO - Starting test suite execution
+2025-02-27 11:04:19,671 - __main__ - INFO - Running unit tests...
+2025-02-27 11:04:19,683 - __main__ - INFO - Running file system analysis tests...
+2025-02-27 11:04:19,685 - test_file_system_analysis - INFO - 
+Starting test: test_directory_statistics
+2025-02-27 11:04:19,685 - test_file_system_analysis - INFO - Testing directory statistics...
+2025-02-27 11:04:20,009 - test_file_system_analysis - INFO - Analyzing directory: tools
+2025-02-27 11:04:20,010 - test_file_system_analysis - DEBUG - Stats for tools: {'file_count': 328, 'dir_count': 19, 'total_size': 44450562, 'extensions': {'.txt': 89, '.md': 86, '.py': 25, '.sh': 4, '.json': 28, '.yaml': 34, '.log': 62}, 'newest_file': {'path': '/home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/logs/test_run_20250227_110419.log', 'modified': datetime.datetime(2025, 2, 27, 11, 4, 19, 683846)}}
+2025-02-27 11:04:20,010 - test_file_system_analysis - INFO - 
+Starting test: test_file_type_analysis
+2025-02-27 11:04:20,010 - test_file_system_analysis - INFO - Testing file type analysis...
+2025-02-27 11:04:21,222 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: 'int' object has no attribute 'strip'
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: text/markdown (Count: 6448)
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: application/json (Count: 6205)
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: application/xml (Count: 260)
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: application/octet-stream (Count: 101)
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: text/plain (Count: 93)
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-python (Count: 25)
+2025-02-27 11:04:25,491 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-sh (Count: 5)
+2025-02-27 11:04:25,499 - test_file_system_analysis - INFO - 
+Starting test: test_tree_generation
+2025-02-27 11:04:25,499 - test_file_system_analysis - INFO - Testing tree generation...
+2025-02-27 11:04:25,636 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:04:25,694 - test_file_system_analysis - INFO - Generated text tree with depth 2
+2025-02-27 11:04:25,807 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:04:26,042 - test_file_system_analysis - INFO - Generated text tree with depth 3
+2025-02-27 11:04:29,516 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: 'int' object has no attribute 'strip'
+2025-02-27 11:04:31,126 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:04:31,369 - test_file_system_analysis - INFO - Generated text tree with depth 5
+2025-02-27 11:04:34,672 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: 'int' object has no attribute 'strip'
+2025-02-27 11:04:36,213 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:04:36,448 - test_file_system_analysis - INFO - Generated markdown tree
+2025-02-27 11:04:36,449 - test_file_system_analysis - INFO - 
+Starting test: test_visualization_data_generation
+2025-02-27 11:04:36,449 - test_file_system_analysis - INFO - Testing visualization data generation...
+2025-02-27 11:04:37,757 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: 'int' object has no attribute 'strip'
+2025-02-27 11:04:43,342 - test_file_system_analysis - INFO - Generated visualization data: /home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/visualization_data_20250227_110419.json
+2025-02-27 11:04:43,347 - test_file_system_analysis - INFO - 
+Test suite completed
+2025-02-27 11:04:43,347 - __main__ - INFO - Starting index generation...
+2025-02-27 11:04:43,348 - __main__ - INFO - Scanning vault directory...
+2025-02-27 11:04:49,024 - __main__ - INFO - Generating index files...
+2025-02-27 11:04:49,030 - __main__ - INFO - Validating generated files...
+2025-02-27 11:04:49,031 - __main__ - WARNING - Failed to generate index for books
+2025-02-27 11:04:49,031 - __main__ - INFO - Successfully generated index for mathematics
+2025-02-27 11:04:49,031 - __main__ - INFO - Successfully generated index for formalisms
+2025-02-27 11:04:49,031 - __main__ - INFO - Successfully generated index for people
+2025-02-27 11:04:49,031 - __main__ - INFO - Successfully generated index for places
+2025-02-27 11:04:49,031 - __main__ - INFO - Successfully generated index for concepts
+2025-02-27 11:04:49,031 - __main__ - WARNING - Failed to generate index for guides
+2025-02-27 11:04:49,031 - __main__ - WARNING - Failed to generate index for meta
+2025-02-27 11:04:49,031 - __main__ - WARNING - Failed to generate index for systems
+2025-02-27 11:04:49,031 - __main__ - INFO - Successfully generated index for documentation
+2025-02-27 11:04:49,031 - __main__ - WARNING - Failed to generate index for prompts
+2025-02-27 11:04:49,031 - __main__ - WARNING - Failed to generate index for workflows
+2025-02-27 11:04:49,032 - __main__ - WARNING - Failed to generate index for schemas
+2025-02-27 11:04:49,032 - __main__ - WARNING - Failed to generate index for streams
+2025-02-27 11:04:49,032 - __main__ - WARNING - Failed to generate index for repos
+2025-02-27 11:04:49,032 - __main__ - WARNING - Failed to generate index for examples
+2025-02-27 11:04:49,032 - __main__ - WARNING - Failed to generate index for templates
+2025-02-27 11:04:49,039 - __main__ - INFO - Test suite completed successfully

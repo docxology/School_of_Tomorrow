@@ -1,0 +1,10 @@
+{
+  "id": "7206571140288651409",
+  "title": "From The Open Bastion",
+  "published": "2012-07-12T20:38:00.003-07:00",
+  "updated": "2012-07-14T22:55:53.583-07:00",
+  "content": "The Open Bastion's CEO is [back in PDX](http://worldgame.blogspot.com/2011/02/open-secrets.html), just in time for OSCON.\u00a0 In his luggage, the brand new and newly branded Raspberry Pi.\n\nA first order of business today, his first back, was to hook up the full size projector via HDMI cable, attach keyboard and mouse the the USB jacks, and hit On.\n\nThe Linux bootstrapping process percolated across the console to login, thence to startx, thence to the RaspberryPi desktop, this one with two versions of Python in IDLE, Scratch, a few games.\u00a0 It's a minimal world, what some might call \"structured\", and ideal for kids.\n\nOK, there might have been a bit more fumbling about.\u00a0 For one, we needed a nonwireless USB keyboard, and for that I needed to walk a short distance to a second floor of a supplier.\n\nThe model I chose, for about $13, has extra large letters on the keys, which makes it look both kid and old people friendly at the same time.\n\nIt's a US keyboard layout of course, whereas this device is from the UK.\u00a0 Need a double-quotes?\u00a0 Try Shift-2.\u00a0 Wild. \n\nNor have we gotten audio out at the time of this writing, choosing Force HDMI but maybe not having the right settings on the peripheral, a work in progress.\n\nOf course I was looking for photo ops, as Raspberry Pi is still quite a new item.\n\nHere are some pictures (click through to Photostream):\n\n[](http://www.flickr.com/photos/kirbyurner/7559588772/)\n\n:: raspberry pi ::\n\n[](http://www.flickr.com/photos/kirbyurner/7559586518/)\n\n:: a tiny device ::\n\n[](http://www.flickr.com/photos/kirbyurner/7559748942/)\n\n:: back in rose city ::\n\n[](http://www.flickr.com/photos/kirbyurner/7559589566/)\n:: projected desktop ::",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "control_room"
+}

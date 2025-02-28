@@ -1,0 +1,11 @@
+---
+title: Blind Spots
+id: 2974264680959431694
+author: Kirby Urner
+published: 2007-11-07T07:11:00.000-08:00
+updated: 2007-11-26T08:15:50.852-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B3obW-1a_2B8Pnn6RI3q4UZO1ZZm6Yco4mu5xA6bt0eL4L1XsSdaMWFckYLhruajl4ubCfjgrW9DbqhEBljYmlaLs6izFzk9bkVg7CJMZa9ePpeQJSYJmXbQGlpT1abcsvIq/s1600-h/bishops.jpg):: from [Cryptography with Python](http://www.4dsolutions.net/ocn/rsa.html) ::I was mentally surveying my little neighborhood the other night, thinking of store fronts, other establishments, in which I'd never set foot, despite having lived here (Richmond / Sunnyside) for over a decade.This barbershop named bishops, for example -- looks like a fun place, and I actually take visitors to look through the window, because of certain artwork on the east wall -- but I've never gotten a haircut there."For no good reason" I feel like saying.At least I finally got around to The Space Room right around Halloween, for a couple of drinks with my friend Patrick (still no beer since [Lithuania](http://worldgame.blogspot.com/2007/07/slow-food-nation.html) though -- I've shed a few pounds).  That's kind of a retro '50s place, back when the future seemed more like The Jetsons.Speaking of retro futurism, I often think back to Kenneth Snelson's [excellent collection](http://worldgame.blogspot.com/2007/01/gingerbread-dome.html), which he shared with me in [his studio](http://worldgame.blogspot.com/2006/10/supine-dragon.html) during one of my visits.  Old magazine covers and like that.  By 2000, we'd all be wearing jet packs or riding trains powered by Tesla coils.  And there's this book I recall from the Princeton Book Store:  Wasn't the Future Wonderful?I should go buy that now (self indulgent?).This new [electric car dealership](http://www.flickr.com/photos/17157315@N00/sets/72157602209081561/) on Sandy has a similar retro flavor (by design), with the added benefit of being less speculative and hypothetical.  I still don't see many on the streets of Portland yet.  But I do see them.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbcjeo_tUgadHijs5Q7x1JlfYolFKW8w_2EiAFmY9LEHXpGEvrHYM9L6necCkurQv6B6Lv6vgtNIOjvC4CKxQUhwLq00aMTe2NWOMInHsGfyAb86J15k7TpofQrezD0u8sAhTj/s1600-h/wonderful_future.jpg)

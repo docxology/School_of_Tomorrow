@@ -1,0 +1,10 @@
+{
+  "id": "9189732738562851699",
+  "title": "More MVC Talk",
+  "published": "2007-10-08T12:09:00.000-07:00",
+  "updated": "2007-10-08T12:11:23.958-07:00",
+  "content": "Per a [recent blog post](http://controlroom.blogspot.com/2007/09/more-curriculum-writing-re-mvc.html), the multi-user application, typified by the game server (e.g. Quake's by id Software), has given our Models new levels of complexity to handle.Traditionally, a Model just reflected some target knowledge domain (say an ecosystem) and didn't care about the (one?) user, interacting through a Controller.  The visualizations weren't about users and their subjective selections, but about some objective 3rd party vista, typically seen from some god's eye viewpoint.Today, the state of each user must often be modeled in quite a bit of detail, in Second Life for example, where avatars need attention right down to clothing selection, even facial expression.Visualizations are likewise customized per user,  with none having special god-like powers relative to any other (a seemingly omniscient \"bird's eye view\" is perhaps just an ordinary bird's in your typical computer game / simulation).The convergence of observers within a shared matrix or model seems to be the ascendant design pattern of late, thanks especially to advances in network and grid computing.CS departments would do well to focus student attention on \"[cave paintings](http://mail.python.org/pipermail/edu-sig/2007-May/007926.html)\" of our enhanced MVC paradigm to help them prepare for their future careers, as authors of new Controllers or whatever.  I've found Python to be appropriately expressive in this context.Of course in my own case I'm thinking ahead to tomorrow's bizmo fleet control centers, cyber- centers helping busy utility vehicles intelligently coordinate disaster relief or whatever, like [Lara Logan](http://controlroom.blogspot.com/2006/11/peer-group-networking.html) uses [in Baghdad](http://mybizmo.blogspot.com/2006/05/bizmos-in-baghdad.html).",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "bizmo_diaries"
+}

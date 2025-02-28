@@ -1,0 +1,11 @@
+---
+title: Hamlet 2 (movie review)
+id: 4287873802957784017
+author: Kirby Urner
+published: 2008-08-30T22:38:00.001-07:00
+updated: 2008-08-31T17:57:08.417-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_JGZb4vmpDTIluPvOcGnbfR_bgXLihMCLLFyx4YVMdaLqy-F5OdKTBBcx4Nh64rO2_wjebjya9bXtW20rZ9IV2Q6LeK_kbXeZoN-wmZXrDXesDRiuZtpNtYJ-gQWnhMtXd7pR/s1600-h/silliness.png)click for larger view?I came to Fox Tower with my own fantasy of working under cover in some [Eastern European capital](http://controlroom.blogspot.com/2008/08/conspirators-of-pleasure-movie-review.html), posing as some [fat cat](http://worldgame.blogspot.com/2007/07/slow-food-nation.html) in training for some "old guy Olympics," my hot personal trainer and I getting in on faux credentials or whatever, meanwhile gathering [intelligence for HQS](http://worldgame.blogspot.com/2006/08/drinking-liberally.html) back home.[Hamlet 2](http://www.imdb.com/title/tt1104733/) took me out of my world and dropped me in some Arizona high school snackatorium, with lots of trauma and drama, including an [ACLU princess](http://controlroom.blogspot.com/2005/01/total-information-awareness.html), hammy actors, and a great [drill sergeant type](http://worldgame.blogspot.com/2008/04/national-standards.html) principal, the kind who threatens you with a pickup truck if you get obscene like he does, but in the wrong way.New York City signs its name on the end, reminding us that big city culture is still pretty powerful, even out here in the Wild West (not called Empire State for no reason).  The principal forgave his father, so powerful was the final performance (involving a time machine, shades of [Idiocracy](http://worldgame.blogspot.com/2007/04/idiocracy-movie-review.html)).I noticed the salutes to [Dead Poets Society](http://www.imdb.com/title/tt0097165/) (logical as a double feature) and [Robin Williams](http://controlroom.blogspot.com/2007/04/night-at-museum-movie-review.html) in particular.

@@ -1,0 +1,10 @@
+---
+title: Computer Scientist
+id: 1887271747034115627
+author: Kirby Urner
+published: 2010-07-24T11:07:00.000-07:00
+updated: 2010-07-24T11:11:23.986-07:00
+blog: world_game
+tags: 
+---
+

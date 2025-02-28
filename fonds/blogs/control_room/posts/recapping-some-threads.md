@@ -1,0 +1,11 @@
+---
+title: Recapping Some Threads
+id: 7723273642320846697
+author: Kirby Urner
+published: 2010-01-28T16:58:00.000-08:00
+updated: 2010-01-28T19:13:14.410-08:00
+blog: control_room
+tags: 
+---
+
+I brewed up a tempest in a teapot last year, on both math-teach and math-thinking-l, focusing a lot of attention on what I was calling a "digital math" (DM).Then I'd wonder somewhat wryly if we were really up to implementing such changes in "the lower 48", implying Alaska and Hawaii might be leading the pack in this regard.I also campaigned for using more electronic media in place of wood pulp textbooks, as more environmentally friendly and easier to correct (update, fix, otherwise improve).Well, I certainly got some feedback, and I've needed to revise my approach.For one thing, "digital math" is just not conservative enough for most teachers.  "Discrete math" sounds dry as bones maybe, but at least it's a recognized topic.I filed [an update to math-teach](http://mathforum.org/kb/thread.jspa?threadID=2032769&tstart=0) earlier today, with a note to PSF members just to let them know I'd mentioned Python Software Foundation in passing.My little media campaigns aren't widely reported on or repeated in any case, so chances are none of this was on your radar (dear reader) unless you've been tracking these blogs for some reason, or dove in through Twitter or Facebook.Getting more computer-savvy math courses, both inside and outside [the 50 star states](http://mybizmo.blogspot.com/2008/09/nation-of-writers.html), remains on the agenda for lots of groups of course.A goal is to reach out through teachers to a lot of underprivileged, not make this just be about elite schools pulling even further ahead.Experimentation and innovation is the name of the game.  Will we be able to engender the right spirit?  What gets people in the mood to try new approaches?What sponsors want to step up to the plate, put their brands on the line?  Is this really about the government doing everything, while private industry kibitzes from the sidelines?Anyone with semi-romantic ideas about capitalism should be arguing otherwise no?  Industry leaders are wanted and needed on this one, both domestically and overseas.

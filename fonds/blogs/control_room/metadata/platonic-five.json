@@ -1,0 +1,10 @@
+{
+  "id": "7986851163239331242",
+  "title": "Platonic Five",
+  "published": "2018-07-07T20:17:00.001-07:00",
+  "updated": "2018-07-07T22:27:11.419-07:00",
+  "content": "The curriculum we're working on restores polyhedrons to their rightful place, which does not mean we're confined to only Euclidean approaches.\n\nDebate teams understand that mathematics evolves as a dialectic.\u00a0 It's not all there already, to be chiseled out from stone.\u00a0 We need those communications.\n\nAn issue facing some curriculum writers is where and what to censor.\u00a0 Do we need the Real Numbers as currently defined?\u00a0 A computational thinking course spends less time on those, given numbers have [discrete digital representations](https://worldgame.blogspot.com/2018/06/upsetting-sets.html), with symbols like the Greek letter pi suggesting algorithms we might set running indefinitely.\n\nWe do want the Platonic Five, that much is obvious, starting early.\u00a0 V + F == E + 2.\u00a0 The concept of Duality.\u00a0 The Platonics are closed under this operation of taking the dual.\u00a0 However we may also combine duals by criss-crossing edges, begetting new polyhedrons by this process.\n\nCube + Dual(Cube) == Cube + Octahedron = Rhombic Dodecahedron (RD).\n\nDual(RD) = Cuboctahedron (1, 12, 42, 92...)\n\nIcosahedron + Dual(Icosahedron) = Icosa + Pentagonal Dodeca = Rhombic Triacontahedron (RT).\n\nThese transformations, along with [the Jitterbug](http://4dsolutions.net/ocn/numeracy0.html#jitterbug), are familiar to all our young pretty early.\u00a0 We'll be sharing these animations in kindergarten in the form of wallpaper and screen savers.\n\nWhat says [Shiraz](http://shirazu.ac.ir/en/node/1510#Technology)?",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "control_room"
+}

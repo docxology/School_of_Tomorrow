@@ -1,0 +1,1521 @@
+2025-02-27 10:19:59,289 - __main__ - INFO - Starting test suite execution
+2025-02-27 10:19:59,290 - __main__ - INFO - Running unit tests...
+2025-02-27 10:19:59,307 - __main__ - INFO - Running file system analysis tests...
+2025-02-27 10:19:59,309 - test_file_system_analysis - INFO - 
+Starting test: test_directory_statistics
+2025-02-27 10:19:59,309 - test_file_system_analysis - INFO - Testing directory statistics...
+2025-02-27 10:19:59,476 - test_file_system_analysis - INFO - Analyzing directory: tools
+2025-02-27 10:19:59,476 - test_file_system_analysis - DEBUG - Stats for tools: {'file_count': 88, 'dir_count': 19, 'total_size': 8789654, 'extensions': {'.txt': 17, '.md': 14, '.py': 25, '.sh': 4, '.json': 4, '.yaml': 10, '.log': 14}, 'newest_file': {'path': '/home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/logs/test_run_20250227_101959.log', 'modified': datetime.datetime(2025, 2, 27, 10, 19, 59, 307802)}}
+2025-02-27 10:19:59,476 - test_file_system_analysis - INFO - 
+Starting test: test_file_type_analysis
+2025-02-27 10:19:59,476 - test_file_system_analysis - INFO - Testing file type analysis...
+2025-02-27 10:19:59,828 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Active Inference Institute'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+Problematic frontmatter:
+
+title: Active Inference Institute
+type: organization
+tags: [research-institute, active-inference, systems-science, education, non-profit]
+created: 2024-03-21
+updated: 2024-03-21
+status: active
+location: [[places/Crescent_City|Crescent City]], California
+founder: [[people/Daniel_Ari_Friedman|Daniel Ari Friedman]] and team
+related: [Active_Inference, Systems_Science, Education, Research]
+aliases: [ActInfLab, The Institute]
+
+2025-02-27 10:20:04,574 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Media Guidelines'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+Problematic frontmatter:
+
+title: Media Guidelines
+type: guide
+tags: [media, images, files, guidelines]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Content_Guidelines]]
+
+2025-02-27 10:20:04,576 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Contribution Guide'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+Problematic frontmatter:
+
+title: Contribution Guide
+type: guide
+tags: [contribution, guidelines, documentation]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Documentation_Map]]
+
+2025-02-27 10:20:04,581 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: book
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+author: 
+publication_date: 
+publisher: 
+isbn: 
+editions: []
+translations: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,584 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: tool
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+purpose: 
+methodology: []
+usage: []
+examples: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,587 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: formalism
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+framework: 
+principles: []
+applications: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,592 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: mathematics
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+principles: []
+prerequisites: []
+applications: []
+proofs: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,595 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: concept
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+creator: 
+principle: 
+related: []
+aliases: []
+
+2025-02-27 10:20:04,599 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: place
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+location: 
+coordinates: 
+period: 
+status: active
+related: []
+aliases: []
+
+2025-02-27 10:20:04,602 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: technical
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+category: 
+components: []
+specifications: {}
+materials: []
+tools: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,605 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: person
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+birth_date: 
+death_date: 
+nationality: 
+occupation: []
+known_for: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: text/markdown (Count: 6376)
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: application/json (Count: 6181)
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: application/xml (Count: 260)
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: application/octet-stream (Count: 29)
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-python (Count: 25)
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: text/plain (Count: 21)
+2025-02-27 10:20:04,618 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-sh (Count: 5)
+2025-02-27 10:20:04,623 - test_file_system_analysis - INFO - 
+Starting test: test_tree_generation
+2025-02-27 10:20:04,623 - test_file_system_analysis - INFO - Testing tree generation...
+2025-02-27 10:20:04,730 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Contribution Guide'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+Problematic frontmatter:
+
+title: Contribution Guide
+type: guide
+tags: [contribution, guidelines, documentation]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Documentation_Map]]
+
+2025-02-27 10:20:04,737 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Media Guidelines'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+Problematic frontmatter:
+
+title: Media Guidelines
+type: guide
+tags: [media, images, files, guidelines]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Content_Guidelines]]
+
+2025-02-27 10:20:04,746 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: book
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+author: 
+publication_date: 
+publisher: 
+isbn: 
+editions: []
+translations: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,749 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: concept
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+creator: 
+principle: 
+related: []
+aliases: []
+
+2025-02-27 10:20:04,753 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: formalism
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+framework: 
+principles: []
+applications: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,756 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: mathematics
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+principles: []
+prerequisites: []
+applications: []
+proofs: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,759 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: person
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+birth_date: 
+death_date: 
+nationality: 
+occupation: []
+known_for: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,762 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: place
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+location: 
+coordinates: 
+period: 
+status: active
+related: []
+aliases: []
+
+2025-02-27 10:20:04,767 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: technical
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+category: 
+components: []
+specifications: {}
+materials: []
+tools: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,771 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: tool
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+purpose: 
+methodology: []
+usage: []
+examples: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,788 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:20:04,816 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Active Inference Institute'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+Problematic frontmatter:
+
+title: Active Inference Institute
+type: organization
+tags: [research-institute, active-inference, systems-science, education, non-profit]
+created: 2024-03-21
+updated: 2024-03-21
+status: active
+location: [[places/Crescent_City|Crescent City]], California
+founder: [[people/Daniel_Ari_Friedman|Daniel Ari Friedman]] and team
+related: [Active_Inference, Systems_Science, Education, Research]
+aliases: [ActInfLab, The Institute]
+
+2025-02-27 10:20:04,864 - test_file_system_analysis - INFO - Generated text tree with depth 2
+2025-02-27 10:20:04,971 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Contribution Guide'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+Problematic frontmatter:
+
+title: Contribution Guide
+type: guide
+tags: [contribution, guidelines, documentation]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Documentation_Map]]
+
+2025-02-27 10:20:04,978 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Media Guidelines'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+Problematic frontmatter:
+
+title: Media Guidelines
+type: guide
+tags: [media, images, files, guidelines]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Content_Guidelines]]
+
+2025-02-27 10:20:04,986 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: book
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+author: 
+publication_date: 
+publisher: 
+isbn: 
+editions: []
+translations: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,989 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: concept
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+creator: 
+principle: 
+related: []
+aliases: []
+
+2025-02-27 10:20:04,992 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: formalism
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+framework: 
+principles: []
+applications: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,996 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: mathematics
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+principles: []
+prerequisites: []
+applications: []
+proofs: []
+related: []
+aliases: []
+
+2025-02-27 10:20:04,999 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: person
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+birth_date: 
+death_date: 
+nationality: 
+occupation: []
+known_for: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,002 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: place
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+location: 
+coordinates: 
+period: 
+status: active
+related: []
+aliases: []
+
+2025-02-27 10:20:05,007 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: technical
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+category: 
+components: []
+specifications: {}
+materials: []
+tools: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,011 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: tool
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+purpose: 
+methodology: []
+usage: []
+examples: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,029 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:20:05,058 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Active Inference Institute'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+Problematic frontmatter:
+
+title: Active Inference Institute
+type: organization
+tags: [research-institute, active-inference, systems-science, education, non-profit]
+created: 2024-03-21
+updated: 2024-03-21
+status: active
+location: [[places/Crescent_City|Crescent City]], California
+founder: [[people/Daniel_Ari_Friedman|Daniel Ari Friedman]] and team
+related: [Active_Inference, Systems_Science, Education, Research]
+aliases: [ActInfLab, The Institute]
+
+2025-02-27 10:20:05,129 - test_file_system_analysis - INFO - Generated text tree with depth 3
+2025-02-27 10:20:05,240 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Contribution Guide'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+Problematic frontmatter:
+
+title: Contribution Guide
+type: guide
+tags: [contribution, guidelines, documentation]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Documentation_Map]]
+
+2025-02-27 10:20:05,246 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Media Guidelines'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+Problematic frontmatter:
+
+title: Media Guidelines
+type: guide
+tags: [media, images, files, guidelines]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Content_Guidelines]]
+
+2025-02-27 10:20:05,257 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: book
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+author: 
+publication_date: 
+publisher: 
+isbn: 
+editions: []
+translations: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,259 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: concept
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+creator: 
+principle: 
+related: []
+aliases: []
+
+2025-02-27 10:20:05,263 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: formalism
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+framework: 
+principles: []
+applications: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,267 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: mathematics
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+principles: []
+prerequisites: []
+applications: []
+proofs: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,270 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: person
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+birth_date: 
+death_date: 
+nationality: 
+occupation: []
+known_for: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,273 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: place
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+location: 
+coordinates: 
+period: 
+status: active
+related: []
+aliases: []
+
+2025-02-27 10:20:05,279 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: technical
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+category: 
+components: []
+specifications: {}
+materials: []
+tools: []
+related: []
+aliases: []
+
+2025-02-27 10:20:05,283 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: tool
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+purpose: 
+methodology: []
+usage: []
+examples: []
+related: []
+aliases: []
+
+2025-02-27 10:20:09,961 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:20:09,989 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Active Inference Institute'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+Problematic frontmatter:
+
+title: Active Inference Institute
+type: organization
+tags: [research-institute, active-inference, systems-science, education, non-profit]
+created: 2024-03-21
+updated: 2024-03-21
+status: active
+location: [[places/Crescent_City|Crescent City]], California
+founder: [[people/Daniel_Ari_Friedman|Daniel Ari Friedman]] and team
+related: [Active_Inference, Systems_Science, Education, Research]
+aliases: [ActInfLab, The Institute]
+
+2025-02-27 10:20:10,064 - test_file_system_analysis - INFO - Generated text tree with depth 5
+2025-02-27 10:20:10,163 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Contribution Guide'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+Problematic frontmatter:
+
+title: Contribution Guide
+type: guide
+tags: [contribution, guidelines, documentation]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Documentation_Map]]
+
+2025-02-27 10:20:10,169 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Media Guidelines'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+Problematic frontmatter:
+
+title: Media Guidelines
+type: guide
+tags: [media, images, files, guidelines]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Content_Guidelines]]
+
+2025-02-27 10:20:10,178 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: book
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+author: 
+publication_date: 
+publisher: 
+isbn: 
+editions: []
+translations: []
+related: []
+aliases: []
+
+2025-02-27 10:20:10,181 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: concept
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+creator: 
+principle: 
+related: []
+aliases: []
+
+2025-02-27 10:20:10,184 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: formalism
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+framework: 
+principles: []
+applications: []
+related: []
+aliases: []
+
+2025-02-27 10:20:10,188 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: mathematics
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+principles: []
+prerequisites: []
+applications: []
+proofs: []
+related: []
+aliases: []
+
+2025-02-27 10:20:10,190 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: person
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+birth_date: 
+death_date: 
+nationality: 
+occupation: []
+known_for: []
+related: []
+aliases: []
+
+2025-02-27 10:20:10,193 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: place
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+location: 
+coordinates: 
+period: 
+status: active
+related: []
+aliases: []
+
+2025-02-27 10:20:10,198 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: technical
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+category: 
+components: []
+specifications: {}
+materials: []
+tools: []
+related: []
+aliases: []
+
+2025-02-27 10:20:10,202 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: tool
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+purpose: 
+methodology: []
+usage: []
+examples: []
+related: []
+aliases: []
+
+2025-02-27 10:20:14,875 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:20:14,903 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Active Inference Institute'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+Problematic frontmatter:
+
+title: Active Inference Institute
+type: organization
+tags: [research-institute, active-inference, systems-science, education, non-profit]
+created: 2024-03-21
+updated: 2024-03-21
+status: active
+location: [[places/Crescent_City|Crescent City]], California
+founder: [[people/Daniel_Ari_Friedman|Daniel Ari Friedman]] and team
+related: [Active_Inference, Systems_Science, Education, Research]
+aliases: [ActInfLab, The Institute]
+
+2025-02-27 10:20:14,975 - test_file_system_analysis - INFO - Generated markdown tree
+2025-02-27 10:20:14,976 - test_file_system_analysis - INFO - 
+Starting test: test_visualization_data_generation
+2025-02-27 10:20:14,976 - test_file_system_analysis - INFO - Testing visualization data generation...
+2025-02-27 10:20:15,385 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Active Inference Institute'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+Problematic frontmatter:
+
+title: Active Inference Institute
+type: organization
+tags: [research-institute, active-inference, systems-science, education, non-profit]
+created: 2024-03-21
+updated: 2024-03-21
+status: active
+location: [[places/Crescent_City|Crescent City]], California
+founder: [[people/Daniel_Ari_Friedman|Daniel Ari Friedman]] and team
+related: [Active_Inference, Systems_Science, Education, Research]
+aliases: [ActInfLab, The Institute]
+
+2025-02-27 10:20:20,747 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Media Guidelines'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+Problematic frontmatter:
+
+title: Media Guidelines
+type: guide
+tags: [media, images, files, guidelines]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Content_Guidelines]]
+
+2025-02-27 10:20:20,749 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: 'Contribution Guide'
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+Problematic frontmatter:
+
+title: Contribution Guide
+type: guide
+tags: [contribution, guidelines, documentation]
+created: 2024-02-26
+updated: 2024-02-26
+status: active
+related: [[Style_Guide]], [[Documentation_Map]]
+
+2025-02-27 10:20:20,754 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: book
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+author: 
+publication_date: 
+publisher: 
+isbn: 
+editions: []
+translations: []
+related: []
+aliases: []
+
+2025-02-27 10:20:20,757 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: tool
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+purpose: 
+methodology: []
+usage: []
+examples: []
+related: []
+aliases: []
+
+2025-02-27 10:20:20,760 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: formalism
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+framework: 
+principles: []
+applications: []
+related: []
+aliases: []
+
+2025-02-27 10:20:20,766 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: mathematics
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+domain: 
+principles: []
+prerequisites: []
+applications: []
+proofs: []
+related: []
+aliases: []
+
+2025-02-27 10:20:20,769 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: concept
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+creator: 
+principle: 
+related: []
+aliases: []
+
+2025-02-27 10:20:20,774 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: place
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+location: 
+coordinates: 
+period: 
+status: active
+related: []
+aliases: []
+
+2025-02-27 10:20:20,778 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: technical
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+category: 
+components: []
+specifications: {}
+materials: []
+tools: []
+related: []
+aliases: []
+
+2025-02-27 10:20:20,781 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+Problematic frontmatter:
+
+title: {{title}}
+type: person
+tags: []
+created: {{date}}
+updated: {{date}}
+status: draft
+birth_date: 
+death_date: 
+nationality: 
+occupation: []
+known_for: []
+related: []
+aliases: []
+
+2025-02-27 10:20:20,801 - test_file_system_analysis - INFO - Generated visualization data: /home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/visualization_data_20250227_101959.json
+2025-02-27 10:20:20,809 - test_file_system_analysis - INFO - 
+Test suite completed
+2025-02-27 10:20:20,809 - __main__ - INFO - Starting index generation...
+2025-02-27 10:20:20,809 - __main__ - INFO - Scanning vault directory...
+2025-02-27 10:20:25,640 - __main__ - INFO - Generating index files...
+2025-02-27 10:20:25,646 - __main__ - INFO - Validating generated files...
+2025-02-27 10:20:25,646 - __main__ - WARNING - Failed to generate index for books
+2025-02-27 10:20:25,646 - __main__ - INFO - Successfully generated index for mathematics
+2025-02-27 10:20:25,646 - __main__ - INFO - Successfully generated index for formalisms
+2025-02-27 10:20:25,646 - __main__ - INFO - Successfully generated index for people
+2025-02-27 10:20:25,646 - __main__ - INFO - Successfully generated index for places
+2025-02-27 10:20:25,646 - __main__ - INFO - Successfully generated index for concepts
+2025-02-27 10:20:25,646 - __main__ - WARNING - Failed to generate index for guides
+2025-02-27 10:20:25,646 - __main__ - WARNING - Failed to generate index for meta
+2025-02-27 10:20:25,646 - __main__ - WARNING - Failed to generate index for systems
+2025-02-27 10:20:25,646 - __main__ - INFO - Successfully generated index for documentation
+2025-02-27 10:20:25,646 - __main__ - WARNING - Failed to generate index for prompts
+2025-02-27 10:20:25,647 - __main__ - WARNING - Failed to generate index for workflows
+2025-02-27 10:20:25,647 - __main__ - WARNING - Failed to generate index for schemas
+2025-02-27 10:20:25,647 - __main__ - WARNING - Failed to generate index for streams
+2025-02-27 10:20:25,647 - __main__ - WARNING - Failed to generate index for repos
+2025-02-27 10:20:25,647 - __main__ - WARNING - Failed to generate index for examples
+2025-02-27 10:20:25,647 - __main__ - WARNING - Failed to generate index for templates
+2025-02-27 10:20:25,652 - __main__ - INFO - Test suite completed successfully

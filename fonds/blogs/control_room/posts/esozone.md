@@ -1,0 +1,11 @@
+---
+title: Esozone
+id: 7506525346604546581
+author: Kirby Urner
+published: 2007-08-12T06:15:00.000-07:00
+updated: 2008-11-15T02:36:35.150-08:00
+blog: control_room
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzEAT-xFr3OO24obSAdUkPpJDIswxX8kxqTyhQ34itkXDXtXH9cZjx_RARsO8ytZss3KnlgFDUraBRI3FFToa2be107Cr-HY2HZaT8xEhDqjzXqe1rC5ixtGSKDyp_EEr5-LX9/s1600-h/laffoley.jpg):: Paul Laffoley delivering his keynote ::I inadvertently woke Trevor to come to this, originally hyped by him as worth catching, and we were both glad we attended.This artist, [Paul Laffoley](http://laffoleyarchive.com/), was able to enthrall for four hours, working off some bottled water and a defibrillator.  His visuals were simply stunning -- deeply alchemical, occult, weird.  That's what [his audience](http://www.pdxocculture.com/) is into, and that's what he delivers.  His speech, on the other hand, is first person "been there, done that" with improvised science fiction.He's argued for eight hours with Bucky about the Mobius Strip, had that mind-blowing phone call with [Kenneth Snelson](http://www.grunch.net/snelson/), did Claude Bragdon's 4D house, a basis for Heinlein's crooked one, as if Bragdon had had the time, builds space elevator time machines in his head and paints them... Gurdjieff, Ouspensky.A walking compendium of some of the 20th Century's best circus magic, with intimations of what's coming in the 21st.  An earnest student of utopia. Shades of Hieronymus Bosch.  Many allusions to Dante.Complete with self-interruptions over others' voices, coke bottle shadows, stories of assistants he'd driven insane.  Oh, and a Gaudi version of the World Trade Center, post-911.  Wants to live in a Klein Bottle house, grown from some philosophical vegetable matter.Got my 50 dollars' worth, that's for sure.OK, time for Bridge Pedal.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzBDH8niMBxejx-MHUbrlC457SDu-9TDLWgBCbQ8Sz8gIG7yqhldTnHdGU8uyHfGJurWp6zs_bgTY3icQCa0evg2HbLiHtgyDFYWC-YeXYVTGN5vT45DBm6SDa_sT31z0dtNr/s1600-h/trevor_comics.jpg):: trevor's comics @ [backspace](http://www.backspace.bz/) ::

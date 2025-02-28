@@ -1,0 +1,11 @@
+---
+title: Explaining Group Theory
+id: 8153205466415693519
+author: Kirby Urner
+published: 2007-11-25T09:31:00.000-08:00
+updated: 2008-04-22T14:23:29.365-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+In idiocracies of yore, a simple substitution code might seem unbreakable, so we start with those as "cryptography," simply mapping A to Q, J to Z or whatever (don't forget the space character).That kind of mapping is called a "permutation" in the literature, and you can "multiply" permutations (string them together, as in A to Q to M) providing us with a golden opportunity to discuss operator overloading in some computer language that permits same (Python's __mul__ for example).A subclass of permutation is a polytope rotating (however-many dimensional), where you make sure the permitted ops keep the polytope self-identical in some clearly defined way.  It's easy to start with the axes of a tetrahedron, octahedron, cube and so on, tracing out their corresponding spherical great circle maps.  These become LCD triangles in some nomenclatures, including our own [buckaneer](http://www.rwgrayprojects.com/synergetics/findex/fx0900.html) (as per our [Python modules](http://www.4dsolutions.net/ocn/crypto1.html) etc.).Internal to group theory is this concept of "orbit" wherein, if you go long enough, you come back to where you started, like a classic electric train around a Christmas Tree (Norman Rockwell type department store imagery, likewise the genesis of [Santa Claus](http://www.grunch.net/synergetics/aphiloview2.html)), or per the movie [Polar Express](http://worldgame.blogspot.com/2005/01/national-treasure-movie-review.html).In [RSA](http://controlroom.blogspot.com/2006/05/rsa-using-pythonic-notation.html), we send your plaintext a little way around the track, per some public N as the modulus.  Then N's owner, our recipient, uses a secret number d to bring the train back around to the station, where the message pops out, very readable.  RSA only works because mathematicians have figured no efficient means to deduce d from N, so N can afford to be public (hence the term "public key cryptography").Follow-up:[RSA a h.s. topic?](http://mathforum.org/kb/thread.jspa?threadID=1732295&tstart=0) (April 2008)

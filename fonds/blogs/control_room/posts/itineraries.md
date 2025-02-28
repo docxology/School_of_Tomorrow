@@ -1,0 +1,11 @@
+---
+title: Itineraries
+id: 715286812714752129
+author: Kirby Urner
+published: 2007-03-14T14:45:00.000-07:00
+updated: 2007-03-19T16:30:29.450-07:00
+blog: control_room
+tags: 
+---
+
+Kudos to Southwest Airlines for juggling Alexia (and to Alexia for being a willing pin). The Chicago connection was about to fall through, and Seattle is too far to taxi, but an alert desk clerk realized a certain aircraft ended the day in Portland, so if Alexia just sat it out, passing through places like San Diego and Phoenix, she'd make it after all, which she did.No bag though. It came through Chicago, and I picked it up this morning with Larry, blathering in both directions about geeky stuff (they'd've delivered but why not a $50 voucher, a chance to catch up with a friend?). Anyway, great airline work. And kudos to Greg by the way.The mercy care team is also in high gear, performing its services. I just got off the phone with Ellen where she talked me through resetting the pump. Any TPN during hospice is a matter of landing the craft slowly and comfortably, less of a crash -- a shot of whiskey on the deck of The Titanic is how I put it (except Dawn was more a tequila fan, had given up drinking by the time I met her).Gayle and Elizabeth were her two pilgrimmage sisters on that trip to Ireland's holy wells that time. She also flew on her own to Glastonbury and those parts, that other time, meeting up with sisters there.Dawn was first introduced to the Kirby concept in the abstract. She was shown a small closet like room, told it was my office, while meanwhile Kirby himself was in Bhutan. Which was all true. Later, she and Alexia went to Bhutan with me, by way of Chang Mai (Thailand) and Calcutta (India).As for the [Math Wars](http://mathforum.org/kb/thread.jspa?threadID=1547143&tstart=0), they're always ongoing. Our side is winning these days, which hasn't always been the case. I prefer ending careers to real battlefield bloodshed -- more civilized by a long shot.Wanderers enjoyed some dynamite presentation by a Mercy Corps powerhouse this morning. I missed it, but all reports were positive. Glad to meet over Thai food with "our" Japanese exchange student (just turning 23) and her friend (same age -- I guessed right), bound for San Francisco today.

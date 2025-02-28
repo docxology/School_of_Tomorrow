@@ -1,0 +1,11 @@
+---
+title: The Internet is Broken
+id: 23114731672679552
+author: Kirby Urner
+published: 2010-09-12T15:51:00.001-07:00
+updated: 2010-09-12T17:22:51.328-07:00
+blog: control_room
+tags: 
+---
+
+Many have said this before ([including me](http://worldgame.blogspot.com/2005/12/big-foot-strikes.html)), and the truth is, in the wild and woolly world of the free Internet, so-called consumers are fair game, for every kind of spam, scam, [virus](http://www.geek.com/articles/chips/dealing-with-the-windows-security-suite-2009113/), you name it.  The sign should read:  prey enter here.If you're behind a well-maintained firewall, using free protocols and well-thought-out systems to engineer from within, then this same technology feels robust and secure to you.  You're not just out there by your lonesome, a hapless Windows user with a new laptop.Why are schools leery of the Internet?  They lack sysops.  Those making money, sometimes the very scammers mentioned above, pay the top talent to work for them, leaving the public sector somewhat undefended, in a vulnerable position.  I know what you're thinking:  Pentagon to the rescue.  When it comes to protecting the security of ordinary civilians from predatory attack, isn't that what our homeland security forces are for? This is a touchingly innocent way of thinking, and school administrators [have every right](http://mail.python.org/pipermail/edu-sig/2010-September/010076.html), on paper at least, to be thinking that way.  Like of course your government is here to protect you.In [the next chapter](http://controlroom.blogspot.com/2009/04/school-spirit.html), more students will master the necessary skills and help their schools build up safe and protected domains.  Champions will step forward, helping young people fortify their minds and bodies, and sharing the necessary memes to not fall prey so easily as their adult forbearers, from when the Internet was still new.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOry0iEYPI-_hZR55IunnkKKJLnaggmU5AZYT2uhSQcY6JmCSda4_aXtw7hbocqZq78bK8pfDpDX3g9GZ347sNImntwzys6QusKqoCIPXgcUbBDKMrrja36imYgGjppu4FLQ8E/s1600/security-suite.jpg):: predators R us ::

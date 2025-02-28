@@ -1,0 +1,11 @@
+---
+title: Diversity / Python Nation
+id: 6985869641178460471
+author: Kirby Urner
+published: 2011-07-13T00:45:00.001-07:00
+updated: 2011-07-13T02:17:36.426-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+Excerpt from one of my posts from earlier today (I added some hyperlinks for the blogged edition):A lot of people go by "hurt feelings" as their guide and naturally aim fora world, by whatever means necessary, wherein their feelings arebetter protected.  A kind of truce is trucked out:  "I promise to nothurt your feelings if you promise not to hurt mine".  Those who apparentlycontinue to hurt others feelings are in abrogation of this truce and areworthy of punishment to make them stop.There's an imperiousness to this however, in that you will look forand expect people to automatically change their behavior whenthey see you're offended.  The missionary shows up and is offendedthat people are not covered up, not modest, in the way God ordains.Will there be consequences if the locals refuse to modify theirdress codes?  What if they continue to school their young in howto use various weapons?  Does it hurt your feelings that they won'taccept the new edicts (e.g. the so-called "[Bremer Edicts](http://worldgame.blogspot.com/2005/01/rebuilding-iraq.html)" in Iraq --which hardly anyone remembers anymore).What offends people *a lot* is when they are not *obeyed*.  Theymay feel deeply hurt, quivering lip and everything, because theservant says "no, I must take care of my sick child".The flip side of "you must not hurt my feelings" is "you must obeymy will, within reason" (but who defines "reason"?).So, yeah, I'm very suspicious of ethnicities that use "hurt feelings"as a guide.  Americans do this a lot, but they inherit so much fromthose Anglo-Euros when it comes to an imperial mindset.  Not agood guide for the future.  Behind those "hurt feelings" is ahypocritical willingness to use force.  They whine they're notgetting enough health care, but are in no hurry to stop manufacturingdrones and cruise missiles, and using those on others, becausethat means jobs jobs jobs.  I wonder how we might use Python tofurther reduce the influence of such people.

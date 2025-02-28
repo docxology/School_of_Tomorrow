@@ -1,0 +1,28 @@
+2025-02-27 10:23:17,926 - test_file_system_analysis - INFO - 
+Starting test: test_directory_statistics
+2025-02-27 10:23:17,926 - test_file_system_analysis - INFO - Testing directory statistics...
+2025-02-27 10:23:18,068 - test_file_system_analysis - INFO - Analyzing directory: tools
+2025-02-27 10:23:18,068 - test_file_system_analysis - DEBUG - Stats for tools: {'file_count': 108, 'dir_count': 19, 'total_size': 11773390, 'extensions': {'.txt': 23, '.md': 20, '.py': 25, '.sh': 4, '.json': 6, '.yaml': 12, '.log': 18}, 'newest_file': {'path': '/home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/directory_stats_20250227_102317.md', 'modified': datetime.datetime(2025, 2, 27, 10, 23, 17, 926431)}}
+2025-02-27 10:23:18,069 - test_file_system_analysis - INFO - 
+Starting test: test_file_type_analysis
+2025-02-27 10:23:18,069 - test_file_system_analysis - INFO - Testing file type analysis...
+2025-02-27 10:23:22,723 - test_file_system_analysis - INFO - Analyzed MIME type: text/markdown (Count: 6382)
+2025-02-27 10:23:22,723 - test_file_system_analysis - INFO - Analyzed MIME type: application/json (Count: 6183)
+2025-02-27 10:23:22,723 - test_file_system_analysis - INFO - Analyzed MIME type: application/xml (Count: 260)
+2025-02-27 10:23:22,724 - test_file_system_analysis - INFO - Analyzed MIME type: application/octet-stream (Count: 35)
+2025-02-27 10:23:22,724 - test_file_system_analysis - INFO - Analyzed MIME type: text/plain (Count: 27)
+2025-02-27 10:23:22,724 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-python (Count: 25)
+2025-02-27 10:23:22,724 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-sh (Count: 5)
+2025-02-27 10:23:22,731 - test_file_system_analysis - INFO - 
+Starting test: test_tree_generation
+2025-02-27 10:23:22,732 - test_file_system_analysis - INFO - Testing tree generation...
+2025-02-27 10:23:22,952 - test_file_system_analysis - INFO - Generated text tree with depth 2
+2025-02-27 10:23:23,234 - test_file_system_analysis - INFO - Generated text tree with depth 3
+2025-02-27 10:23:27,589 - test_file_system_analysis - INFO - Generated text tree with depth 5
+2025-02-27 10:23:32,056 - test_file_system_analysis - INFO - Generated markdown tree
+2025-02-27 10:23:32,056 - test_file_system_analysis - INFO - 
+Starting test: test_visualization_data_generation
+2025-02-27 10:23:32,056 - test_file_system_analysis - INFO - Testing visualization data generation...
+2025-02-27 10:23:37,332 - test_file_system_analysis - INFO - Generated visualization data: /home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/visualization_data_20250227_102317.json
+2025-02-27 10:23:37,336 - test_file_system_analysis - INFO - 
+Test suite completed

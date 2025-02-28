@@ -1,0 +1,11 @@
+---
+title: Geeking Out
+id: 7773478854393916258
+author: Kirby Urner
+published: 2007-06-17T00:26:00.000-07:00
+updated: 2007-06-17T10:20:39.208-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+I'm feeling like quite the lucky lab, in terms of my geek quotient: it's not every year one gets to both EuroPython and OSCON, as a speaker at both venues, including with sponsorships. Sure, DWA still has plenty of expenses (I just nailed the hotel in Vilnius, looks like a good one), but that's all in our spirit of collaboration in this one big happy circus family of ours. Pass the [chicken heads](http://worldgame.blogspot.com/2007/06/nightmare-alley-movie-review.html) please (joke).These purchases are career moves, investments, also risks.Earlier today, I was on a [trip down memory lane](http://mail.python.org/pipermail/edu-sig/2007-June/007977.html) regarding my collaboration with Jerritt, under the auspices of [Saturday Academy](http://controlroom.blogspot.com/2007/06/sa.html), and working with [HPD](http://worldgame.blogspot.com/2004/10/busy-day.html). That got me thinking about doing tcp/ip stuff with Python, leading me to scour the web for relevant resources. Then I [came up against](http://oss.coresecurity.com/projects/pcapy.html) not having a [free C++ compiler](http://gcc.gnu.org/), nor Visual Studio at all (I use Visual FoxPro, licensed and everything). That got me lusting for Linux again, Ubuntu in particular (which I'm already using).So I went all the way this time, perhaps against my better judgment, and got one of these new Dell jobbers, an Inspiron E1505, somewhat customized, for like $768 after discounts and free shipping.I did get XP to ping in Python though, and it's not like I'm unhappy with my Toshiba all of a sudden. More it's like having two pairs of shoes (but laptops in this case). I'll be able to dress more appropriately for the occasion, plus these costumes contain tools (like [batgrrl](http://bat-time.blogspot.com/2006/11/invisible-bat-detectors.html) has these utility baskets or whatever).Think of Redmond as a style of [hat](http://worldgame.blogspot.com/2006/10/accessorized-quaker.html), quite handsome but not always worn.A new favorite web site:  [Forbidden-places.be](http://www.forbidden-places.be/explo1.php).

@@ -1,0 +1,10 @@
+{
+  "id": "377695011794174004",
+  "title": "NYPM IT Comm Business",
+  "published": "2014-11-19T18:46:00.004-08:00",
+  "updated": "2014-11-19T19:44:19.481-08:00",
+  "content": "I was cracking some jokes with the IT Committee about our retro, largely spreadsheet-based record keeping practices within NPYM.\n\nWe're not universally using such scatter-brained tech, as M3 uses Quickbooks, which is at least database based, what you need where monetary transactions are happening.\u00a0 Keeping track of money on spreadsheets is not especially professional, though they're great for \"what if\" planning and doodling.\n\nImagine a futuristic NPYM wherein the Secretary, wanting a list of current M&O clerks throughout the region, simply runs a reporting routine that polls the MM servers behind the scenes.\u00a0 These Meetings of Record, the Monthly Business Meetings, are where the real action is and their servers are on-line 24/7.\n\nNPYM is just about gathering together a few summary reports and providing Directory Services, in addition to producing Annual Session, our roaming conference, like a circus.\n\nIn reality though, in 2014, we use only a few SQL engines, let alone [NoSQL engines](http://mybizmo.blogspot.com/2014/10/graphing-relationships.html), for member tracking and there's no uniform API allowing the central office to send HTTP requests to any of them, for a list of current members.\u00a0 They're not on-line in the first place.\n\nMeetings do not host CMFs and/or depend on FGC Cloud Services, even though NPYM is technically not within FGC.\u00a0 Friends tend to use Facebook instead, which I'm not saying is terrible, but the data then goes to Facebook, not to our offices.\n\nI've set a target of 2016 for having at least two Monthly Meetings able to demonstrate an ability to let households maintain their own records on-line.\u00a0 Our NPYM Directory would then practice polling them in answer to NPYM Secretary queries.\u00a0 Worth a try anyway.",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "control_room"
+}

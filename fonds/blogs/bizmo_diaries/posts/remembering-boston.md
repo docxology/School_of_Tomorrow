@@ -1,0 +1,11 @@
+---
+title: Remembering Boston
+id: 4177312898114163192
+author: Kirby Urner
+published: 2010-02-17T18:24:00.000-08:00
+updated: 2010-02-17T19:23:28.044-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+Carol, my mom, phoned from her airplane seat this afternoon, having landed in Boston.  She got there early, to prep for a meeting she's co-organizing.  Her aim is to be catalytic and effective, not be some kind of dictator or boss.  She's pretty good at her job.AFSC flew me out to Boston many years ago, to (a) attend the Manhattan Project II meetings and (b) research the AFSC's youth program in that city.Daniel Ellsberg was a keynote on (a), sharing his vision of massive cleanup efforts, rivaling Manhattan Project I in terms of commitment and scope.  The OMSI exhibit on Hanford, site of Manhatten I, or parts of it, relayed the huge and ongoing investment, as people work to [save the Columbia Gorge](http://worldgame.blogspot.com/2009/01/columbia-gorge-recent-history.html) from even higher levels of contamination.  Other cleanups are also underway, with no end in sight at the moment.  So Daniel Ellsberg was right.My research on (b) helped me envision programs for Portland, on which LAAP and UV were later based.  I don't take all the credit, as my role was to help locate and hire staff.  The staff (Don, MaryAnn, Pam... Marco) then implemented some of the many of the proposals.  Those were some golden years.  I treasure my few momentos, such as two Certificates of Appreciation on the wall of my office.During that same visit, [I took in the Mapparium](http://controlroom.blogspot.com/2005/02/mapparium.html), noted the control room.  The need for reliable global data, in close connection with decision-making, is a theme now as much as then.  Wherever the headquarters may be, one needs timely and relevant input, otherwise one just works in the dark.  Satellites have greatly improved matters.  So have individual travelers, uploading to Flickr, Picassa or wherever else.  [My thanks to Nirel](http://coffeeshopsnet.blogspot.com/2010/02/cto-in-paris.html) for the India pix.

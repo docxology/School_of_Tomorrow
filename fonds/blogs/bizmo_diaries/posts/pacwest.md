@@ -1,0 +1,11 @@
+---
+title: Pacwest
+id: 7524774358219383600
+author: Kirby Urner
+published: 2025-01-22T06:55:00.000-08:00
+updated: 2025-01-22T06:55:27.794-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2q5CBsjOxPg_0sLZoYpoUs1eBlZrxaEfP2O1o66yTHK1BNYyqz257HeMiklvv3gyXBpc0a9MKE5aMj2kfSbt39OqE7BDHJ-HCgFf_t1Fzbw3mvPA3Aj-5vgaeDjNQT7V9AtIHlckDJkinfyRvUQjKCffupV5UT9wX1NyDR0I9PTB1v6QcG21S/s1024/pacwest.png)

@@ -1,0 +1,11 @@
+---
+title: Coffee Shop Schooling
+id: 669270599332670730
+author: Kirby Urner
+published: 2007-10-26T07:45:00.000-07:00
+updated: 2007-10-28T06:55:08.261-07:00
+blog: control_room
+tags: 
+---
+
+Given the plummeting price of laptops and ubiquity of wifi, some of our Portland students have started formulating a position against wastefulness:  why burn precious fuel, adding to global warming, just to get to math class, when math class could just come to us (me 'n my friends) via the [corner coffee shop](http://mybizmo.blogspot.com/2006/12/caf-philosophique.html), which is also a kind of library (lots of print media, for those so inclined)?Of course many of these students have no voting rights (yes, age discrimination -- but no, I'm not saying "discrimination" is something to "not do," quite the contrary, just not too stupidly, OK? (and developing one's sense of judgment is a life time process, somewhat defines your maturation into some kind of animal (and no, we don't all  "end up the same" -- aren't supposed to (we have different tastes)))).But their parents do, and are asking the same question.Yes, of course some need brick and mortar public schools for their day care function, others for their organized sports.  But it's not "either/or" is it?  Join a team, build a schedule, exercise discipline (your peers are competitive), make good and efficient use of what all you've got.  That's all we're saying (plus we practice what we preach -- don't wanna be hypocrites).Don't forget how many families live in [extremely isolated conditions](http://controlroom.blogspot.com/2007/04/extremely-remote-living-xrl_10.html) in Oregon, oft times by choice, and oft times with bandwidth to spare.And yes, I'm thinking specifically of [Warm Springs](http://www.warmsprings.com/) and places like that, eager to cut loose from the ambient monoculture, yet willing to preserve ties with the feds, with the State of Oregon, in games of quid pro quo around taxes, tourism, gambling, fishing, [health care](http://www.salem-news.com/articles/october172007/tribes_meth_101707.php) or [whatever](http://worldgame.blogspot.com/2007/06/yesterday.html).Relevant reading:  ["Reinventing the wheel of education"](http://mathforum.org/kb/thread.jspa?threadID=1644275&tstart=0) (thread @ Math Forum)

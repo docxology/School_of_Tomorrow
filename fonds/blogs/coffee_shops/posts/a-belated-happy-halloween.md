@@ -1,0 +1,11 @@
+---
+title: A Belated Happy Halloween
+id: 5882564785641604732
+author: Kirby Urner
+published: 2010-11-04T21:14:00.000-07:00
+updated: 2010-11-04T22:16:01.115-07:00
+blog: coffee_shops
+tags: 
+---
+
+[](http://www.flickr.com/photos/17157315@N00/5066235896/)[](http://www.flickr.com/photos/17157315@N00/5066235896/):: click for larger view ::Family and friends, including businessman / adventurer Sam Lanahan and chairman of Python Software Foundation Steve Holden, shared a Halloween dinner on Hawthorne Blvd (aka Asylum Avenue).  We then adjourned to our respective digs.  Kids came to our door.Say, that Visible Warrior campaign and/or student exercise at Cleveland High, was enticingly relevant to our digital portfolio/transcripts, where you log what you're for (pro) and against (anti) -- not that those are the only two possibilities (segue to "precession" in Synergetics).  Imagine a transcript that said you were "checking out" (as in "examining") an issue or cause. That doesn't define whether you're pro or anti, just that you cared enough to delve into it.  In terms of game play, instead of a high score, you might just have a "played it" check box (a short experience of some kind, perhaps interactive).  Yes, I'm somewhat implying your transcript is human-readable, which for the most part it probably would be. That doesn't mean you can have encrypted parts, or levels of access.  You have some control over who sees what, a feature of the environment called privacy which we value in other contexts as well.Since my last entry, I've been attending GOSCON, which was some about the new Electronic Medical Record.  I yakked about my NoSQL "scrap book", with lots of meta records by doctors in "connect the dots" mode.What I noticed at Free Geek was a paucity of open source fund accounting software.  You'd think a Foundation or two would have gotten together and made it a reality by now.  It'd save so much on charities, if they didn't have to keep buying the same bookkeeping software over and over.  There's probably a lot of political pressure to keep an OSS solution from gaining traction, d'ya think?Anyway, we're getting there.  Launch date is still quite a ways away and we're already connected to plenty of game companies.

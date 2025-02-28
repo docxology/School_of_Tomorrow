@@ -1,0 +1,11 @@
+---
+title: An Immersion Experience
+id: 6592836985872499162
+author: Kirby Urner
+published: 2008-06-02T20:44:00.000-07:00
+updated: 2008-06-03T18:27:13.195-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd4IiY61R3G4Hs9jUmaUVRA1q3U8fALNHHSmVx-GWv10iZzDuBynZuVfpIB0uT8yu7BLuNB9PiOrsO0byD3y-14tfay0DY5yWW2Pb3I7Kw7vjLp0_hRaNhrMVDUUKsUW6lCyMW/s1600-h/immersive.png)I forgot the Afghan place was closed Mondays so Jon and I ended up at the Indian buffet on Hawthorne for lunch, then adjourned for a brief workshop on Google's [SketchUp](http://sketchup.google.com/), which I hadn't realized sports a [Ruby API](http://code.google.com/apis/sketchup/docs/gsrubyapi_examples.html), lower level than [VPython's](http://www.vpython.org/), yet quite usable.Dr. Jon Schull of the Rochester Institute of Technology has been exploring immersive projection technologies using off the shelf components, with an eye towards designing useful interfaces, not just new passive viewing modalities.In joining Jon's touring of noteworthy sites, I got to visit with Immersive Media's CTO and check out their local office. [Immersive](http://www.immersivemedia.com/) fields those VW Bugs equipped with 360 x 300 degree movie cameras, which simulate looking out through eleven of twelve windows of a pentagonal dodecahedron (the twelfth window is reserved for the pedestal).The views have their seams sewn together by software to give real time recordings of actual geographies.  GPS gets synched with the frames, so you get a well defined world line (scenario, point of view) from hard drives filled in the field, currently at a rate of about a gigabyte per minute mas o meno.The player ([controller](http://mybizmo.blogspot.com/2007/10/more-mvc-talk.html)) typically gives the user the freedom to look around at will, viewing the surroundings as if from within [a geoscope](http://controlroom.blogspot.com/2006/07/hexapent.html).  Some models of player give more powers yet.Then it was on to the Pearl and Powell's. Much in Portland had changed since Jon had attended Reed College in the 1970s.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4kEp2hNjtLicvhs7RgYMNMmfqP92ZPWOhsHKmue91fkLejjSTc6-nN81xHgtMcresU1jCbHXbEY4yr9L3HBV3BKZ36Y6T_35Kqa0aTa9xz24odlqQs4c1GGdBwd8DLXtdxSF3/s1600-h/cropped.jpg)

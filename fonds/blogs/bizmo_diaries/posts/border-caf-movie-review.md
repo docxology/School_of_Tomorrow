@@ -1,0 +1,14 @@
+---
+title: Border Café (movie review)
+id: 7994735805143398701
+author: Kirby Urner
+published: 2025-02-22T11:01:00.000-08:00
+updated: 2025-02-22T17:02:39.328-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://www.flickr.com/photos/kirbyurner/54344008133/in/dateposted/)
+
+:: visitor center; Asylum City ::  
+I just saw [Border Café](https://www.imdb.com/title/tt0477585/), originally Cafe Transit, you can see why I'd be into it: [Trucker Exchange Program](https://worldgame.blogspot.com/2022/08/trucker-exchange-program-promotional.html). The movie is set around a little roadside cafe in the hinterlands bordering Turkey, Syria and Iran. We have a Russian homeless teen hoping to reach Italy, and a lonely Greek seeking his missing wife.I could see screening this for the elite early birds wanting to get those initial anthropology requirements out of the way. The movie is all aboard borders and social customs and the ethics around women working, but with few compunctions about child labor.We should remember that not long before [the Roaring 20s,](https://worldgame.blogspot.com/2024/11/roaring-20s.html) women in the North American states had few opportunities outside the home. Jealous men kept them "protected" as prize possessions, as trophies. Then came the two world wars and an ongoing labor shortage. Not only did women come into the office, they started operating heavy equipment, more like Sigourney Weaver in the Aliens movies.The Trucker Exchange Program is not about "in your face" challenging everyone's cultural norms in a disruptive manner.  That's happening anyway, through TV, radio, and streaming. Some parts of the globe are already comfortable with female drivers. Others might accept a long hauler married couple. The movie is about the thermodynamics of gossip, and what spreads. If there's nothing scandalous happening, how is it clickbait?  Ordinary news tends to be relatively dry, an acquired taste.The movie is also about cuisine. The female principal is obviously a genius cook and what brings in the truckers in droves is her excellent homemade food. She has a profession, a calling. The males around her have a hard time handling the idea that a woman could have any profession outside of homemaker. Somehow someone's honor is at stake.My point is: it wasn't that long ago before only "loose women" (of the kind you'd meet in bars) could have any profession and then they all seemed to have the same one. Margaret Fuller helped women break into journalism, starting with cultural columns, then branching out into hard news.Traveling to far off lands may be like going back in time, which in turn means that, coming the other way, is like going forward in time. But let's not forget about going sideways. Sometimes culture shock doesn't come in the form of a time shift, as what alters is not the time but the space, the vibe, the atmospherics. Said vibes tend to be timeless a lot of the time, archetypal.

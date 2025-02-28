@@ -1,0 +1,57 @@
+2025-02-27 10:56:13,382 - __main__ - INFO - Starting test suite execution
+2025-02-27 10:56:13,382 - __main__ - INFO - Running unit tests...
+2025-02-27 10:56:13,393 - __main__ - INFO - Running file system analysis tests...
+2025-02-27 10:56:13,394 - test_file_system_analysis - INFO - 
+Starting test: test_directory_statistics
+2025-02-27 10:56:13,394 - test_file_system_analysis - INFO - Testing directory statistics...
+2025-02-27 10:56:13,662 - test_file_system_analysis - INFO - Analyzing directory: tools
+2025-02-27 10:56:13,662 - test_file_system_analysis - DEBUG - Stats for tools: {'file_count': 288, 'dir_count': 19, 'total_size': 38474742, 'extensions': {'.txt': 77, '.md': 74, '.py': 25, '.sh': 4, '.json': 24, '.yaml': 30, '.log': 54}, 'newest_file': {'path': '/home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_results/test_report_20250227_105613.yaml', 'modified': datetime.datetime(2025, 2, 27, 10, 56, 13, 393337)}}
+2025-02-27 10:56:13,662 - test_file_system_analysis - INFO - 
+Starting test: test_file_type_analysis
+2025-02-27 10:56:13,662 - test_file_system_analysis - INFO - Testing file type analysis...
+2025-02-27 10:56:18,582 - test_file_system_analysis - INFO - Analyzed MIME type: text/markdown (Count: 6436)
+2025-02-27 10:56:18,582 - test_file_system_analysis - INFO - Analyzed MIME type: application/json (Count: 6201)
+2025-02-27 10:56:18,582 - test_file_system_analysis - INFO - Analyzed MIME type: application/xml (Count: 260)
+2025-02-27 10:56:18,582 - test_file_system_analysis - INFO - Analyzed MIME type: application/octet-stream (Count: 89)
+2025-02-27 10:56:18,582 - test_file_system_analysis - INFO - Analyzed MIME type: text/plain (Count: 81)
+2025-02-27 10:56:18,582 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-python (Count: 25)
+2025-02-27 10:56:18,583 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-sh (Count: 5)
+2025-02-27 10:56:18,590 - test_file_system_analysis - INFO - 
+Starting test: test_tree_generation
+2025-02-27 10:56:18,591 - test_file_system_analysis - INFO - Testing tree generation...
+2025-02-27 10:56:18,704 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:56:18,759 - test_file_system_analysis - INFO - Generated text tree with depth 2
+2025-02-27 10:56:18,864 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:56:19,062 - test_file_system_analysis - INFO - Generated text tree with depth 3
+2025-02-27 10:56:24,151 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:56:24,384 - test_file_system_analysis - INFO - Generated text tree with depth 5
+2025-02-27 10:56:29,567 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:56:29,800 - test_file_system_analysis - INFO - Generated markdown tree
+2025-02-27 10:56:29,801 - test_file_system_analysis - INFO - 
+Starting test: test_visualization_data_generation
+2025-02-27 10:56:29,801 - test_file_system_analysis - INFO - Testing visualization data generation...
+2025-02-27 10:56:36,455 - test_file_system_analysis - INFO - Generated visualization data: /home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/visualization_data_20250227_105613.json
+2025-02-27 10:56:36,470 - test_file_system_analysis - INFO - 
+Test suite completed
+2025-02-27 10:56:36,475 - __main__ - INFO - Starting index generation...
+2025-02-27 10:56:36,475 - __main__ - INFO - Scanning vault directory...
+2025-02-27 10:56:42,115 - __main__ - INFO - Generating index files...
+2025-02-27 10:56:42,121 - __main__ - INFO - Validating generated files...
+2025-02-27 10:56:42,121 - __main__ - WARNING - Failed to generate index for books
+2025-02-27 10:56:42,121 - __main__ - INFO - Successfully generated index for mathematics
+2025-02-27 10:56:42,121 - __main__ - INFO - Successfully generated index for formalisms
+2025-02-27 10:56:42,121 - __main__ - INFO - Successfully generated index for people
+2025-02-27 10:56:42,121 - __main__ - INFO - Successfully generated index for places
+2025-02-27 10:56:42,121 - __main__ - INFO - Successfully generated index for concepts
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for guides
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for meta
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for systems
+2025-02-27 10:56:42,122 - __main__ - INFO - Successfully generated index for documentation
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for prompts
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for workflows
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for schemas
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for streams
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for repos
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for examples
+2025-02-27 10:56:42,122 - __main__ - WARNING - Failed to generate index for templates
+2025-02-27 10:56:42,130 - __main__ - INFO - Test suite completed successfully

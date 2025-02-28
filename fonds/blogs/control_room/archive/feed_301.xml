@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:blogger='http://schemas.google.com/blogger/2008' xmlns:georss='http://www.georss.org/georss' xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr='http://purl.org/syndication/thread/1.0'><id>tag:blogger.com,1999:blog-10436423</id><updated>2025-02-25T12:10:50.607-08:00</updated><category term="clojure"/><category term="FOSS"/><category term="http://www.blogger.com/img/blank.gif"/><title type='text'>Control Room</title><subtitle type='html'>Operation Spaceship Earth </subtitle><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://controlroom.blogspot.com/feeds/posts/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default?start-index=301'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/'/><link rel='hub' href='http://pubsubhubbub.appspot.com/'/><link rel='previous' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default?start-index=276&amp;max-results=25'/><link rel='next' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default?start-index=326&amp;max-results=25'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><generator version='7.00' uri='http://www.blogger.com'>Blogger</generator><openSearch:totalResults>1777</openSearch:totalResults><openSearch:startIndex>301</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry><id>tag:blogger.com,1999:blog-10436423.post-6888092320327944897</id><published>2019-07-17T12:39:00.003-07:00</published><updated>2019-07-17T13:48:06.337-07:00</updated><title type='text'>Back from the Future</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+I&#39;m taking the view, here at OSCON, that I&#39;m visiting from the future, looking for signs that we might be choosing a smart way forward, and not choosing a dystopian future.&lt;br /&gt;
+&lt;br /&gt;
+The movie &lt;i&gt;12 Monkeys&lt;/i&gt; follows this plot line.&amp;nbsp; They sent a guy into the past to figure out what went wrong.&amp;nbsp; The premise of that movie is we already knew the future, and it was dark indeed.&lt;br /&gt;
+&lt;br /&gt;
+Currently, I&#39;m learning about how the mega-fires in California last year were a result of grid failures.&lt;br /&gt;
+&lt;br /&gt;
+A frequency control algorithm running on the edge (at the end user end i.e. on the client), as well as on the server side (generator) is supposed to deal with the spikes.&amp;nbsp; In short, the plan is to escape vendor lock in and go open source with the IoT smart grid.&amp;nbsp; California is allocating a lot of money to this plan.&lt;br /&gt;
+&lt;br /&gt;
+The old grids are incapable of dealing with reverse flow energy coming from the DERs, or distributed energy resources (wind, solar...).&amp;nbsp; The challenge with these energy sources, of course, is they&#39;re highly variable, like the price of bitcoin.&amp;nbsp; The original distribution networks were never engineered to accept a lot of power from such sources.&lt;br /&gt;
+&lt;br /&gt;
+CalTech is supposed to save us with calculus.&amp;nbsp; Open &lt;a href=&quot;https://www.cei.washington.edu/seminars/optimal-power-flow-for-future-smart-grid/&quot;&gt;OPF&lt;/a&gt;, the visualizer, is going to help vectorize (spread the news of) these innovations.&amp;nbsp; You&#39;ll be able to simulate how your community would not have burned up, had this IoT smart grid been in place.&lt;br /&gt;
+&lt;br /&gt;
+Thinking back to SimCity, I&#39;m thinking how children and dabbler amateurs will not have easy access to these fancy tools, designed to be used by universities and national labs.&amp;nbsp; Even though Open OPF is open source, I don&#39;t expect to get it running on my laptop. Something simpler, showing how, when phase and frequency get out of whack, or whatever it is, you get heat instead of usable power, would make more of a simple game.&lt;br /&gt;
+&lt;br /&gt;
+Simple videogames, about real world subjects, are like documentary films, a genre.&amp;nbsp; I&#39;d say a somewhat rare genre, compared to all the fiction games we get.&amp;nbsp; Simulations are needed at every turn, such as when playing blockchain games.&amp;nbsp; That&#39;s what Ganache is all about (a tool featured in my second tutorial on Monday).&lt;br /&gt;
+&lt;br /&gt;
+I didn&#39;t get to ask my question, which would have been whether DERs give us more opportunities to disintegrate and create self monitoring smaller grids that don&#39;t even attempt microsecond load balancing on such a huge scale.&lt;br /&gt;
+&lt;br /&gt;
+The macro grid still exists in this scenario, but not everyone is a customer.&lt;br /&gt;
+&lt;br /&gt;
+I was thinking back to my crude drawings of Asylum City.&amp;nbsp; I joined the lunch table where open source and cities were the focus.&amp;nbsp; I talked about my interest in the &quot;cities from scratch&quot; idea.&amp;nbsp; Two from our table were from Mexico City, where earthquake tremors were recently felt (same in southern California).&lt;br /&gt;
+&lt;br /&gt;
+None of the geeks at this table had ever heard of Sophia, although once I described it they knew the topic area was &quot;&lt;a href=&quot;https://en.wikipedia.org/wiki/Uncanny_valley&quot;&gt;uncanny valley&lt;/a&gt;&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Back to the session... No one talked about how peak loads might be offset by a more global grid.&amp;nbsp; That would allow more transmission across time zones.&amp;nbsp; Of course that&#39;s a World Game meme of longstanding.&lt;br /&gt;
+&lt;br /&gt;
+The speaker managed to suggest that Germany might be doing something wrong in piping in natural gas from Russia, but it wasn&#39;t clear to me in what sense that might be a mistake.&amp;nbsp; Some bold mayor took his town off the mega-grid, which was fragile.&amp;nbsp; Back to my question about going with smaller more easily managed grids (town sized?) in some circumstances.&lt;br /&gt;
+&lt;br /&gt;
+Of course storage technology figures in to all this.&amp;nbsp; I think we all have the vision of a wind farm and solar panels, coupled with batteries, providing energy autonomy to a region.&amp;nbsp; If the macro grid still needed to tap in to buy power, or vice versa, this could happen, maybe.&lt;br /&gt;
+&lt;br /&gt;
+An electric car is a battery on wheels.&amp;nbsp; Do we have the storage capacity to power a small town for several hours?&amp;nbsp; Are the batteries managed at the household level, at the town level, or both?&lt;br /&gt;
+&lt;br /&gt;
+Some of the people after the talk went up front to talk more about the big picture.&lt;br /&gt;
+&lt;br /&gt;
+I met Sheri Dover of PDX Code Guild.&amp;nbsp; We haven&#39;t crossed paths since OSCON 2018.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6888092320327944897'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6888092320327944897'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/back-from-future.html' title='Back from the Future'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-1626781238065732813</id><published>2019-07-15T20:13:00.002-07:00</published><updated>2019-07-15T21:54:57.802-07:00</updated><title type='text'>Random Post to Social Media</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;b2c8&quot;&gt;
+If
+ we want serious change, we might want to revisit how the most positive 
+futurist the USA once offered, through world’s fairs for starters 
+(Afghanistan, Montreal…), commemorated by the Buckyball at EPCOT 
+(“Spaceship Earth”), and for whom buckminsterfullerene was named, got 
+written off as a kook and/or crackpot and/or failure by those with far 
+fewer accomplishments or fans. How many other philosophers had that many
+ patents to their name?&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;b2c8&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;9854&quot;&gt;
+Might it have something to do with his declaring “the USA we have known” to be “bankrupt and extinct” way back in the 1980s (&lt;i class=&quot;gy&quot;&gt;Grunch of Giants&lt;/i&gt;,
+ St. Martins Press), and getting a Medal of Freedom around the same time
+ (from Ronald Reagan)? He cited income inequality and the ascendancy of 
+corporate power, talking about corporate personhood before that became 
+popular. Covert ops and dirty wars were already replacing the 
+constitutional authorities. What we call “the deep state” today is but 
+the tip of the Grunch iceberg.&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;9854&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;9fd7&quot;&gt;
+Does
+ it matter he came up with new pedagogy around polyhedrons accessible to
+ any 6th grader (and above)? No public or private school that I’m aware 
+of deigns to share his primitive volumes table. So was he wrong then? Or
+ was he a source of too many inconvenient truths? How about his focus on
+ the global electrical grid, long before “we” made that be a Chinese 
+idea (and therefore scary)? Former president Johnson was so popular in 
+Texas precisely because he helped extend the electrical grid to rural 
+areas.&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;9fd7&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;b873&quot;&gt;
+From
+ my point of view, we’ve let the soulless corporations he wrote so 
+eloquently about write him out of history, or portray him as quaintly 
+retro (e.g. &lt;i class=&quot;gy&quot;&gt;The House of Tomorrow&lt;/i&gt;). Why was using 
+our highest technology to mass produce something yurt-like and 
+affordable (not talking about domes now, see Henry Ford Museum) 
+considered less interesting than what we got instead: so-called mobile 
+homes?&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;b873&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;bb6f&quot;&gt;
+Is
+ it too late to build cities from scratch, such as Old Man River? Was 
+“lack of funds” ever the real problem? Doesn’t the Earth plug into the 
+Sun?&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;bb6f&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;e391&quot;&gt;
+As
+ someone who studied philosophy at Princeton under Walter Kaufmann, who 
+warned us of times to come (we’re in them now), I think the choice to 
+expunge and/or besmirch one of America’s all time greatest philosophers 
+was a huge mistake. Not a mistake; a willful desire to nip something in 
+the bud. And “we the people” march ahead blindly, not questioning the 
+theft of our heritage.&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;e391&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gk gl cv ar gm b gn go gp gq gr gs gt gu gv gw gx&quot; data-selectable-paragraph=&quot;&quot; id=&quot;aba9&quot;&gt;
+His
+ message that we don’t have to make politicians be the ones in charge 
+(check “design science revolution” in Wikipedia) is one you’re never 
+going to hear from those who channel our frustration through all the 
+usual circuits. When will independent journalists finally decide it’s 
+time to connect the dots?&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1626781238065732813'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1626781238065732813'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/random-post-to-social-media.html' title='Random Post to Social Media'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-6012344676363869552</id><published>2019-07-14T19:57:00.000-07:00</published><updated>2019-07-14T20:03:41.675-07:00</updated><title type='text'>Cosmic Computer</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/QE2CLby6IGY&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+In this video, I take up Bucky Fuller&#39;s notion of a &quot;cosmic computer&quot;.&amp;nbsp; What did he mean by that, and might we find a contextualizing literature?&lt;br /&gt;
+&lt;br /&gt;
+I&#39;m following up on &lt;a href=&quot;https://worldgame.blogspot.com/2019/07/missed-opportunities.html&quot;&gt;some recent videos&lt;/a&gt;. &lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6012344676363869552'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6012344676363869552'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/cosmic-computer.html' title='Cosmic Computer'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/QE2CLby6IGY/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-6550722411119715517</id><published>2019-07-11T11:09:00.000-07:00</published><updated>2019-07-11T12:33:22.673-07:00</updated><title type='text'>Did Hard Brexit Just Happen?</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/63bSshco_lI&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+The seizure of an Iranian oil tanker, bound for a non-EU country, seems enormously egregious to a lot of people, Europeans especially.&amp;nbsp; People remember when England and the USA formed alliances to relive colonial dreams of empire, pretty recently, and resent being abused as a consequence.&lt;br /&gt;
+&lt;br /&gt;
+The warmongers in Britain may have miscalculated however, as there&#39;s no momentum for war with Iran, given the mainstream media no longer has a grip on the North American psychology.&lt;br /&gt;
+&lt;br /&gt;
+A tiny oligarchy of dim bulbs may entertain the fantasy that owning media is their ticket to glory, but that&#39;s far from clear at this point.&lt;br /&gt;
+&lt;br /&gt;
+What was NATO&#39;s role in all this?&amp;nbsp; The &quot;coalition&quot; since the invasion of Iraq under Bush 2 has been steadily shrinking.&amp;nbsp; Invading Iraq was seen as momentous and Europe had to be on board.&amp;nbsp; Attacking Iran is more the senile fantasy of nursing home candidates and their moneyed friends.&amp;nbsp; There&#39;s little patience, including in the armed forces, for dunderhead bosses.&lt;br /&gt;
+&lt;br /&gt;
+Where does the White House come out in the wash?&amp;nbsp; Trump seems to agree &lt;a href=&quot;https://mybizmo.blogspot.com/2019/07/more-on-current-events.html&quot;&gt;with Tucker&lt;/a&gt; about the tapeworm infestation.&amp;nbsp; He played his usual role in the speech-making, but when there&#39;s no last minute save-the-day diplomacy opportunity, as in the case of the DPRK, he tends to lose interest.&lt;br /&gt;
+&lt;br /&gt;
+Iran has chosen the safest course for itself:&amp;nbsp; denounce nuclear weaponry, but make clear there&#39;s no deal if the EU can&#39;t live up to its side.&amp;nbsp; The EU is calculating furiously, wondering if it needs to stay on the far right, with the warmongers.&amp;nbsp; The unilateral seizure of the supertanker may have tipped the scales.&amp;nbsp; The Brits are no longer welcome members.&amp;nbsp; They&#39;re too into reckless spazing out.&lt;br /&gt;
+&lt;br /&gt;
+People question Trump&#39;s sanity and he&#39;s able to take the brunt, by staying outrageous.&amp;nbsp; Bolton&#39;s sanity is more tender.&amp;nbsp; They say he&#39;s heartless, but is he also mindless?&amp;nbsp; That does seem likely at the moment.&amp;nbsp; I&#39;ve done some more commentary on Youtube.&lt;br /&gt;
+&lt;br /&gt;
+I realize &quot;hard Brexit&quot; means something else to most people.&amp;nbsp; My angle is psychological.&amp;nbsp; The EU is now sufficiently alienated to be glad of Britain&#39;s leaving.&amp;nbsp; But where will Britain go?&amp;nbsp; The island won&#39;t budge. &lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6550722411119715517'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6550722411119715517'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/did-hard-brexit-just-happen.html' title='Did Hard Brexit Just Happen?'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/63bSshco_lI/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-9056254135407290812</id><published>2019-07-10T14:56:00.003-07:00</published><updated>2019-07-10T23:03:19.456-07:00</updated><title type='text'>Ongoing Debates</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/aNz4N1pgNO8&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/jiwQUXNryb8&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/9056254135407290812'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/9056254135407290812'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/ongoing-debates.html' title='Ongoing Debates'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/aNz4N1pgNO8/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-2322873629755763315</id><published>2019-07-07T16:56:00.003-07:00</published><updated>2019-07-07T16:56:22.370-07:00</updated><title type='text'>Nomenclature (again)</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/mQmnjYH4Mac&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/vx1cuHl4S7E&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content><link rel='replies' type='application/atom+xml' href='https://controlroom.blogspot.com/feeds/2322873629755763315/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment/fullpage/post/10436423/2322873629755763315' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/2322873629755763315'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/2322873629755763315'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/nomenclature-again.html' title='Nomenclature (again)'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/mQmnjYH4Mac/default.jpg" height="72" width="72"/><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-7857864038067388139</id><published>2019-07-06T18:49:00.001-07:00</published><updated>2019-07-06T20:47:31.096-07:00</updated><title type='text'>American History</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/1hyh8wPOyzg&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/2UR3XeaGLhU&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/m64KbP1FptQ&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7857864038067388139'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7857864038067388139'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/american-history.html' title='American History'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/1hyh8wPOyzg/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-621137423767963298</id><published>2019-07-04T22:22:00.001-07:00</published><updated>2019-07-05T09:49:30.396-07:00</updated><title type='text'>July 4 Viewing Party</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/Wn9ajT7Zn1s&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/nFNBBcyO--c&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/zZcDdc32roY&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/621137423767963298'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/621137423767963298'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/july-4-viewing-party.html' title='July 4 Viewing Party'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/Wn9ajT7Zn1s/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-6183181075114375187</id><published>2019-07-01T01:13:00.002-07:00</published><updated>2019-07-01T01:16:40.456-07:00</updated><title type='text'>But It&#39;s Not on the SAT</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+&lt;a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqkPL_jV0uQF23GlPggWu6c5fvZQwD8xsFRQFvTPzXwIZQgFCLPpS10EeeBy7y52PVUeO1acJrg_A7T6_V-JggKSj-korSBtM52G7Q6jhz7vmzeFx6mgEw-_TxBhl9aZbQcInc/s1600/4073417238_3925de0f76_o.gif&quot; imageanchor=&quot;1&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; data-original-height=&quot;480&quot; data-original-width=&quot;540&quot; height=&quot;284&quot; src=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqkPL_jV0uQF23GlPggWu6c5fvZQwD8xsFRQFvTPzXwIZQgFCLPpS10EeeBy7y52PVUeO1acJrg_A7T6_V-JggKSj-korSBtM52G7Q6jhz7vmzeFx6mgEw-_TxBhl9aZbQcInc/s320/4073417238_3925de0f76_o.gif&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+When it comes to understanding American literature, such as how &lt;i&gt;The Aquarian Conspiracy&lt;/i&gt; connects to &lt;i&gt;The Whole Earth Catalog&lt;/i&gt;, and &lt;i&gt;The Well&lt;/i&gt;, or how &lt;i&gt;The Dome Handbook&lt;/i&gt; connects to &lt;i&gt;ZomeTool&lt;/i&gt;, one needs to understand the Jitterbug Transformation.&lt;br /&gt;
+&lt;br /&gt;
+Why?&lt;br /&gt;
+&lt;br /&gt;
+Because Bucky&#39;s career is a switchboard and essential puzzle piece, and yes, his thinking was influential, even if not comprehended.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+People got the dome, and saw why buckminsterfullerene was an apt naming of the molecule.&lt;br /&gt;
+&lt;br /&gt;
+Not that the Jitterbug is that obscure or hard to learn about.&lt;br /&gt;
+&lt;br /&gt;
+Where would it be on the SAT?&amp;nbsp; Might it be more of a literature question?&amp;nbsp; ACT maybe?&lt;br /&gt;
+&lt;br /&gt;
+The assumption, I suppose, is that any interesting high school level mathematics, especially geometry, has to be part of the math section of the SAT.&lt;br /&gt;
+&lt;br /&gt;
+But then look at &lt;i&gt;Synergetics&lt;/i&gt;.&amp;nbsp; Mostly prose.&amp;nbsp; The Omnidirectional Halo concept (in both &lt;i&gt;Synergetics&lt;/i&gt; and &lt;i&gt;No More Secondhand God&lt;/i&gt;) is more about heuristics, a way to think about thinking.&lt;br /&gt;
+&lt;br /&gt;
+We need the &quot;whole number volumes&quot; (a meme) to understand the literature at least, and by extension the history.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+PATH (Philosophy, Anthropology e.g. art, Theater e.g. politics, History) has its own metaphysical tensegrities i.e. mental constructs that cohere, make sense.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6183181075114375187'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6183181075114375187'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/07/but-its-not-on-sat.html' title='But It&#39;s Not on the SAT'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqkPL_jV0uQF23GlPggWu6c5fvZQwD8xsFRQFvTPzXwIZQgFCLPpS10EeeBy7y52PVUeO1acJrg_A7T6_V-JggKSj-korSBtM52G7Q6jhz7vmzeFx6mgEw-_TxBhl9aZbQcInc/s72-c/4073417238_3925de0f76_o.gif" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-7003681844541150272</id><published>2019-06-27T18:41:00.000-07:00</published><updated>2019-06-27T18:42:07.104-07:00</updated><title type='text'>Debate Night</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/WbWyKLD-uRU&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+I was too busy teaching class to watch any debates on TV last night.  I caught up later.&lt;br /&gt;
+&lt;br /&gt;
+Facebook:&lt;br /&gt;
+&lt;blockquote class=&quot;tr_bq&quot;&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;_3l3x&quot;&gt;&lt;span&gt;Back to the present:  Tulsi is
+ the clear Russian favorite and I don&#39;t need some overpaid bureaucrats 
+masking as &quot;intel&quot; to write some NYT published &quot;report&quot; on that phenom. 
+ It&#39;s not &quot;red baiting&quot; to say so though, as every audience is entitled 
+to a preference, even if said audience is excluded from voting (as I am,
+ in most primaries).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/blockquote&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7003681844541150272'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7003681844541150272'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/debate-night.html' title='Debate Night'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/WbWyKLD-uRU/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-1879438224337960237</id><published>2019-06-25T01:03:00.003-07:00</published><updated>2019-07-10T23:10:18.952-07:00</updated><title type='text'>Does the DCI Agree?</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/-c0jMsspE7Y&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;gmail_default&quot; style=&quot;font-family: arial,helvetica,sans-serif; font-size: small;&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gmail_default&quot; style=&quot;font-family: arial,helvetica,sans-serif; font-size: small;&quot;&gt;
+&lt;b&gt;FB friend&lt;/b&gt;:&lt;/div&gt;
+&lt;div class=&quot;gmail_default&quot; style=&quot;font-family: arial,helvetica,sans-serif; font-size: small;&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gmail_default&quot; style=&quot;font-family: arial,helvetica,sans-serif; font-size: small;&quot;&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;m_6001920519922144368gmail-_3l3x&quot;&gt;? Tulsi Gabbard ?  Not sure who she is beyond Wikipedia. Had not heard of her before she declared.  What have I missed?&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;gmail_default&quot; style=&quot;font-family: arial,helvetica,sans-serif; font-size: small;&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;gmail_default&quot; style=&quot;font-family: arial,helvetica,sans-serif; font-size: small;&quot;&gt;
+&lt;b&gt;Me&lt;/b&gt;:&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://mybizmo.blogspot.com/2019/06/sampling-facebook.html&quot;&gt;I&#39;m going around&lt;/a&gt; saying Tulsi is indeed favored by the Kremlin so don&#39;t you
+ believe those dino DNC types who still insist the Russians are Trump 
+supporters. The point of the Trump Tower meetup was to discuss Magnitsky
+ Act, at which point WaPo / NYT immediately tune out, as the goal is to 
+focus on collusion against Hillary, not behind the scenes oligarch wars 
+ala Browder.&lt;br /&gt;
+&lt;br /&gt;
+Anyway, Tulsi is the obvious favorite on RT, and 
+there&#39;s no reason to hire troll farms to make that clear, not when you 
+have your very own CNN (i.e. propaganda machine). But unlike Matt 
+Taibbi, I don&#39;t scream &quot;McCarthyism&quot; when NYT points out the Russians 
+are backing a Hindu Hawaiian with no chance to win.&lt;br /&gt;
+&lt;br /&gt;
+Free Assange 
+and Manning, support blockchain voting, legalize weed, stop regime 
+change wars, stop letting CIA run foreign policy (that&#39;s her &quot;stop 
+funding terrorists&quot; bill). Two times service in Iraq, active duty in 
+Hawaiian national guard. Proud of her Hawaiian heritage, like Obama.&lt;br /&gt;
+&lt;br /&gt;
+&lt;div&gt;
+My
+ view is she&#39;s way too good to waste on a forlorn sorry office like the 
+US presidency (designed for sickos these days), but at least we can take
+ away the DNC crutch, of making Trump out to be Putin&#39;s favorite. No 
+way. And so why are we afraid of the Russians again, when they&#39;re 
+clearly backing a candidate with no chance to win? &lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1879438224337960237'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1879438224337960237'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/does-dci-agree.html' title='Does the DCI Agree?'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/-c0jMsspE7Y/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-7094979870031718667</id><published>2019-06-22T01:08:00.003-07:00</published><updated>2019-06-23T00:05:12.849-07:00</updated><title type='text'>Differentiating My Brand</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/8s5Fbzc7Sqo&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+Since I&#39;m competing in the same namespace, I need to make sure the public doesn&#39;t get confused.&lt;br /&gt;
+&lt;br /&gt;
+My Asylum City planning team should not be confused with what these other &quot;movie directors&quot; are doing.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/r0_9lMo7lkU&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+Just protecting my reputation.&lt;br /&gt;
+&lt;br /&gt;
+I don&#39;t want our Cascadian businesses mixed up with some sorry east coaster adventure.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/V5ZEu5FrrSs&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7094979870031718667'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7094979870031718667'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/differentiating-my-brand.html' title='Differentiating My Brand'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/8s5Fbzc7Sqo/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-1721224017408723038</id><published>2019-06-19T14:55:00.002-07:00</published><updated>2019-06-19T17:28:40.157-07:00</updated><title type='text'>Watching from a Distance</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/6FiEyxMjJ6Y&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+I&#39;m too busy prepping for class to really follow all the action, which is fast-paced.&lt;br /&gt;
+&lt;br /&gt;
+So that wasn&#39;t nighttime footage, of the boat Trump phoned Fox about?&lt;br /&gt;
+&lt;br /&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;_3l3x _1n4g&quot;&gt;Or was it that 
+the suspicious boat was rendering aid, in response to a distress call, by removing a 
+mine put there by someone else?&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;_3l3x _1n4g&quot;&gt;Clearly it was the right boat for the 
+job (of mine removal, if that&#39;s what was happening).&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;_3l3x _1n4g&quot;&gt;Maybe they acted 
+boldly (&quot;&lt;a href=&quot;https://www.thedrive.com/the-war-zone/28525/u-s-says-video-shows-iranians-forces-removing-dud-mine-from-damaged-tanker&quot;&gt;bizarrely brazen&lt;/a&gt;&quot;) because they imagined they were 
+part of the rescue effort?&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;_3l3x _1n4g&quot;&gt;If the mine is going to leave lots of 
+evidence of itself anyway, then trying to grab it on camera is hardly a way to 
+&quot;cover one&#39;s tracks&quot;.&amp;nbsp; That&#39;s just leading someone back from the scene of &quot;the crime&quot;.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+Did the observers follow the suspicious boat?  Where did it go when it left?&amp;nbsp; They know its name.&amp;nbsp; They say it met up with a tug boat.&amp;nbsp; And then?&amp;nbsp;&amp;nbsp; That&#39;s one more boat in the story.&lt;br /&gt;
+&lt;br /&gt;
+Someone on Facebook sent me &lt;a href=&quot;https://www.thedrive.com/the-war-zone/28574/u-s-releases-new-evidence-of-irans-involvement-in-tanker-attacks&quot;&gt;this timeline&lt;/a&gt;.&amp;nbsp; At least one version of events is starting to gel.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span dir=&quot;ltr&quot;&gt;&lt;span class=&quot;_3l3x&quot;&gt;Removing a mine from a ship is
+ in itself an act of bravery.  Coming back to retrieve a dud?  How does 
+the photographic evidence prove that theory?&amp;nbsp; What ties the removal crew to the placement crew?&lt;/span&gt;&lt;/span&gt; &lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1721224017408723038'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1721224017408723038'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/watching-from-distance.html' title='Watching from a Distance'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/6FiEyxMjJ6Y/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-7133083255478843124</id><published>2019-06-18T14:18:00.003-07:00</published><updated>2019-06-18T21:21:39.417-07:00</updated><title type='text'>More School of Tomorrow Talks</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/ED86NzQVON4&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/6u1i9z0fvOk&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7133083255478843124'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7133083255478843124'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/more-school-of-tomorrow-talks.html' title='More School of Tomorrow Talks'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/ED86NzQVON4/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-1380705803694506228</id><published>2019-06-16T15:46:00.001-07:00</published><updated>2020-04-27T23:44:49.908-07:00</updated><title type='text'>Gay Pride 2019</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+&lt;a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizJJC5w5wuWxFLRb6ReSHRAFA_7Jmj9LC1yhkoiQF3DqyGFsmT5i7G1do7FtBpgWYKjuhi0NzaCHBgjMebu51eDFUCRpXsalPATEs1lIEZpPC4tMDLpjEi9TKrytJWEuBf_NvD/s1600/48075536461_6b0c32c7f4_z.jpg&quot; imageanchor=&quot;1&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; data-original-height=&quot;640&quot; data-original-width=&quot;640&quot; height=&quot;400&quot; src=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizJJC5w5wuWxFLRb6ReSHRAFA_7Jmj9LC1yhkoiQF3DqyGFsmT5i7G1do7FtBpgWYKjuhi0NzaCHBgjMebu51eDFUCRpXsalPATEs1lIEZpPC4tMDLpjEi9TKrytJWEuBf_NvD/s400/48075536461_6b0c32c7f4_z.jpg&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+The exercise was needed and Patrick &amp;amp; Quinn (the beautiful dog) were my perfect walking buddies, down to the waterfront, west side, over the Hawthorne bridge and back.&amp;nbsp; At 11:30 AM, the parade was already coming in.&amp;nbsp; We stood on SW Pine with the crowds, west side.&amp;nbsp; Leela joined us, arriving on the 14.&lt;br /&gt;
+&lt;br /&gt;
+I wasn&#39;t in a frame of mind to party hearty myself, as, like many of my peers, I&#39;m wondering if I need to be leaving the District&#39;s jurisdiction.&amp;nbsp; That&#39;s my name for DC (&quot;the District&quot;), shades of Hunger Games. I made out &lt;a href=&quot;https://controlroom.blogspot.com/2017/03/psychotherapy.html&quot;&gt;the $12.70 check&lt;/a&gt; owed to the IRS.&amp;nbsp; My loose end for 2018.&lt;br /&gt;
+&lt;br /&gt;
+Would the Oregon Curriculum Network work better in some refugee camp?&amp;nbsp; The local economy&#39;s autoimmune system might need all this Bucky stuff to come from elsewhere. &lt;a href=&quot;https://github.com/4dsolutions/&quot;&gt;Github&lt;/a&gt; is in the cloud anyway, ditto &lt;a href=&quot;https://www.youtube.com/user/kirbyurner/videos&quot;&gt;Youtube&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+So might this be a good time to leave the country?&amp;nbsp; Carol is thinking she might move back to California.&amp;nbsp; I used to talk Costa Rica, when expressing my disappointment to Applewhite (we&#39;d talk on the phone sometimes, between in person visits -- he only came to Oregon &lt;a href=&quot;http://grunch.net/archives/171&quot;&gt;that one time&lt;/a&gt;, that I know about).&lt;br /&gt;
+&lt;br /&gt;
+This subculture was enjoying itself, having a good time, celebrating.&amp;nbsp; There&#39;s lots of wealth on display, both individual and corporate. This is the face of the current establishment. Very theme park, very carnival, very mainstream.&lt;br /&gt;
+&lt;br /&gt;
+Parents with kids in strollers were everywhere.&amp;nbsp; The heteros are like just another letter in LGBTHQ...&amp;nbsp; -- and might white be a color too?&amp;nbsp; Full spectrum attained!&lt;br /&gt;
+&lt;br /&gt;
+Not so fast.&amp;nbsp; If I zoom out to the surrounding culture, I find others running somewhat counter to this one, which I&#39;m in principle fine with (the devil is in the details).&amp;nbsp; A lone preacher with a Fear God flag shared some ministry, but his was token protest, quickly countered.&amp;nbsp; &quot;Love&quot; is a fighting word.&lt;br /&gt;
+&lt;br /&gt;
+For my part, I don&#39;t think unicorns and rainbows in some code language need to dominate around the world.&amp;nbsp; No one code language needs to rule them all, not Python, not even Pharo.&lt;br /&gt;
+&lt;br /&gt;
+With that much power and influence already, lets remember to make space for true diversity.&amp;nbsp; Even where it&#39;s perfectly OK to be gay (whatever that means exactly), you might wish to speak in different codes, extending to different dress codes.&amp;nbsp; The permutations are endless.&lt;br /&gt;
+&lt;br /&gt;
+The days of victimhood are over (oh I know, it never feels that way, for any of us really).&amp;nbsp; The peculiar way queerness (fades to weirdness) expresses itself in Portland does not need to be any kind of global template for Tehran or Kiev.&amp;nbsp; But then memes spread (two way streets).&lt;br /&gt;
+&lt;br /&gt;
+I may be &lt;a href=&quot;https://controlroom.blogspot.com/2019/02/what-is-globalism.html&quot;&gt;a globalist in some sense&lt;/a&gt;, but I&#39;m not for steamrolling indigenous cultures.&amp;nbsp; As pretty much always, it&#39;s the missionaries I least the trust (the ones with an agenda to propagate some faith and practice), as distinct from citizen diplomats (with an agenda to reach agreements and get along).&lt;br /&gt;
+&lt;br /&gt;
+For one thing, Portland (&quot;Stump Town&quot;) at the end of the Oregon trail, was settled by pioneers escaping tyranny.&amp;nbsp; The club scene, cross-dressing, drag queens and so on, is so much a creature of history.&amp;nbsp; The Pacific Northwest has its own local stories.&amp;nbsp; Vaudeville.&amp;nbsp; Burlesque.&lt;br /&gt;
+&lt;br /&gt;
+I didn&#39;t see a single sign against any war with Iran (anti Keystone pipeline, check, solidarity with native Americans, check).&amp;nbsp; That would have seemed out of place.&amp;nbsp; These happy summertime party animals don&#39;t watch much war theater.&lt;br /&gt;
+&lt;br /&gt;
+They&#39;re not home watching the burning tankers on CNN, with all the customary telling us what really happened.&amp;nbsp; Not when we have Netflix.&lt;br /&gt;
+&lt;br /&gt;
+What part of zero credibility do they not understand anyway?&lt;br /&gt;
+&lt;br /&gt;
+Leela had that positive spin on things.&amp;nbsp; This is a vibrant, healthy culture and if you randomly query (heh) any of them (us), they (we) would have nary a word in support of a vanity war to showcase weapons.&lt;br /&gt;
+&lt;br /&gt;
+It&#39;d be madness to start a war with the population in this mood.&lt;br /&gt;
+&lt;br /&gt;
+But that&#39;s the thing:&amp;nbsp; madness doesn&#39;t seem to be &quot;a thing&quot; (a barrier) when it comes to what&#39;s on DC TV these days (what it sometimes means to be mad: you don&#39;t know it).&lt;br /&gt;
+&lt;br /&gt;
+My parents liked being out of the country because, yes, it&#39;s a militaristic place.&amp;nbsp; Wears on one&#39;s soul.&amp;nbsp; I feel an urge to detox.&amp;nbsp; Get to some breathable air.&amp;nbsp; Life in the Lower48 can be suffocating.&lt;br /&gt;
+&lt;br /&gt;
+I don&#39;t have any simplistic view that we need to demonize any specific ethnicity.&lt;br /&gt;
+&lt;br /&gt;
+There&#39;s something sick about this culture, true, but I don&#39;t pose as the answer man as to exactly what or why.&lt;br /&gt;
+&lt;br /&gt;
+A symptom is Pompeo at the podium, already all-knowing as to whom to blame for the tanker attacks.&amp;nbsp; The attack on Syria, in retaliation for the White Helmet hoax, the attack on Libya, the attack on Iraq... with a track record like that?&lt;br /&gt;
+&lt;br /&gt;
+However &quot;diversity&quot; is sometimes a slippery concept.&amp;nbsp; Are we saying no one has a right to be offended by our ways?&amp;nbsp; I&#39;d say that&#39;s precisely not a right.&lt;br /&gt;
+&lt;br /&gt;
+Defying cultures that seem to want to take you over is a natural response.&amp;nbsp; Taliban defend their turf, I get it.&amp;nbsp; No abortions in Alabama.&amp;nbsp; Mormons might have three wives.&amp;nbsp; Eradication need not be the name of the game.&lt;br /&gt;
+&lt;br /&gt;
+Gun toters on horseback need their Wild West enclaves.&amp;nbsp; Don&#39;t we have enough geography to keep the different lifestyles going?&amp;nbsp; How has that worked out up until now?&amp;nbsp; Lots of bloodshed, but some successes.&lt;br /&gt;
+&lt;br /&gt;
+Making travel and tourism easier, and not militarized (as in &quot;tours of duty&quot;), makes it more likely people will sort themselves into compatible groupings.&amp;nbsp; Catalyze the Global U curriculum by making work/study travel more commonplace?&amp;nbsp; Go by bus, train and ship too.&amp;nbsp; It&#39;s not always about airplanes.&amp;nbsp; Truckers for Peace.&lt;br /&gt;
+&lt;br /&gt;
+The only reason I voted for Obama was to support his plan to cement a peace with Persia.&amp;nbsp; I&#39;ve been working on that myself.&amp;nbsp; He kept his word so I even voted for Hillary, as a favor, despite Libya, because that&#39;s what he wanted us all to do.&amp;nbsp; But what have politicians to do with anything anyway?&amp;nbsp; They&#39;re the scapegoats the screenwriters put out there.&amp;nbsp; We all love a good Punch &amp;amp; Judy, right?&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+&lt;a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZYtXTygip70RjWl3Kr6nM-lTIQZ85fr-l_9JVFOkkM9OxaYnvennr1ooxNb_yYF3EGRw6LhJBFKY4wyZLAWtNMrDAygEXnjfggyGXHV26hUVvfdyxFJ6TDJtKWHf0cSAAjAp/s1600/48075537696_52238862a5_z.jpg&quot; imageanchor=&quot;1&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; data-original-height=&quot;640&quot; data-original-width=&quot;640&quot; height=&quot;400&quot; src=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZYtXTygip70RjWl3Kr6nM-lTIQZ85fr-l_9JVFOkkM9OxaYnvennr1ooxNb_yYF3EGRw6LhJBFKY4wyZLAWtNMrDAygEXnjfggyGXHV26hUVvfdyxFJ6TDJtKWHf0cSAAjAp/s400/48075537696_52238862a5_z.jpg&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1380705803694506228'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/1380705803694506228'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/gay-pride-2019.html' title='Gay Pride 2019'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizJJC5w5wuWxFLRb6ReSHRAFA_7Jmj9LC1yhkoiQF3DqyGFsmT5i7G1do7FtBpgWYKjuhi0NzaCHBgjMebu51eDFUCRpXsalPATEs1lIEZpPC4tMDLpjEi9TKrytJWEuBf_NvD/s72-c/48075536461_6b0c32c7f4_z.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-3491811969280161316</id><published>2019-06-12T09:25:00.001-07:00</published><updated>2019-06-12T17:43:25.534-07:00</updated><title type='text'>Asylum City</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/SuQI_g__BaU&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+The Asylum City meme traces back to Wild West times, when the goal of a community of refugees, from the Atlantic side, was not to create a whole state in some union, but simply a town, which might grow into a city someday.&amp;nbsp; Some towns were based on one activity, such as farming or mining.&amp;nbsp; Those based on multiple activities were the more likely to stick around.&lt;br /&gt;
+&lt;br /&gt;
+Anyway, Asylum City recaptures that spirit of wanting to start whole new cities from scratch.&lt;br /&gt;
+&lt;br /&gt;
+We saw this again in Manhattan Project days, when warring camps of physicists established their own cities on several continents to pursue their experiments with the destructive potential of &lt;a href=&quot;https://nbviewer.jupyter.org/github/4dsolutions/School_of_Tomorrow/blob/master/isotope_decay.ipynb&quot;&gt;radioactive materials&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Hanford was one of those towns, based near the Columbia River, which to this day is more radioactive than other rivers its size.&lt;br /&gt;
+&lt;br /&gt;
+Asylum City is about offering a new situation to refugees, yes, and it&#39;s also about showcasing prototypes of tomorrow and the Internet of Things (IoT).&lt;br /&gt;
+&lt;br /&gt;
+If we build a really big one, I can see a quarter or various neighborhoods electing to test 5G technology (including Huawei&#39;s), and driverless cars.&amp;nbsp; Other areas are mostly about using bicycles and light electric motor conveyances, more like golf carts.&lt;br /&gt;
+&lt;br /&gt;
+Companies showcase their latest wares.&amp;nbsp; We do have visitors, but we put them to work.&amp;nbsp; They come as volunteers, not as guests in some hotel.&amp;nbsp; Lots of Netflix get shown here, but also made.&amp;nbsp; Journalists have a field day in Asylum City, with some moving in for extended periods.&lt;br /&gt;
+&lt;br /&gt;
+Where are we putting this city and have local authorities been consulted?&amp;nbsp; What planning agencies are involved?&amp;nbsp; Will my family be eligible to move there?&lt;br /&gt;
+&lt;br /&gt;
+Good questions, however as I mentioned, Asylum City is a meme at this point (and perhaps &lt;a href=&quot;https://medium.com/@kirbyurner/asylum-city-the-movie-9c2e243f7fd6&quot;&gt;a movie in the making&lt;/a&gt;), even though many existing cities, including Portland, Oregon, already take on the role of assimilating refugee populations.&lt;br /&gt;
+&lt;br /&gt;
+What&#39;s important is to remind more people that constructing whole cities from scratch, trying out new designs, is something people do.&amp;nbsp; There&#39;s a lot of that going on in Asia at the moment, but North Americans are still wringing their hands over decaying infrastructure such as in Detroit, not seeing how they can afford upkeep, let alone whole new towns.&amp;nbsp; They&#39;re prisoners of their own Economics to some degree.&amp;nbsp; Engineers favor GST (general systems theory) as the more scientifically informed and technologically fluent discipline.&amp;nbsp; We see a lot of hybrids, of GST + Economics, especially of the Henry George variety.&lt;br /&gt;
+&lt;br /&gt;
+One inspiration for Asylum City is the proposed mega-project known as Old Man River (OMR).&amp;nbsp; If you know anything about city planning whatsoever, you know what I&#39;m talking about.&lt;br /&gt;
+&lt;br /&gt;
+Another inspiration was EPCOT, Walt Disney&#39;s original idea for Epcot, which gradually fell by the wayside.&amp;nbsp; Capitalism put more eggs in the weaponry basket, versus the livingry basket, and these days we&#39;re reaping what got sowed, a giant crop of worthless weapons and product placement wars (e.g. Apache helicopters in Panama, remember that one?).&lt;br /&gt;
+&lt;br /&gt;
+Clearly I&#39;m eager to recruit a large conscientious objector crowd, given my AFSC background.&amp;nbsp; Asylum City has that connotation.&amp;nbsp; We&#39;re giving economic refugees (refugees from Economics) a chance to find purpose and meaning outside of a military chain of command.&amp;nbsp; We&#39;ll be experimenting with democracy, including blockchain voting.&lt;br /&gt;
+&lt;br /&gt;
+Prototypes that work well will be incorporated into lifestyles &quot;far and wide&quot; (as flat earthers might put it).&amp;nbsp; Mistakes will be learned from (parody passive tense).&amp;nbsp; Tourism will be a major industry.&lt;br /&gt;
+&lt;br /&gt;
+A lot of economists are planning vast new prisons, which are like Asylum City, but they&#39;re drawing more from other sources for inspiration, such as a concentration camp literature.&lt;br /&gt;
+&lt;br /&gt;
+Asylum City has some real city planners behind it, and isn&#39;t just a sterile barracks or a honeycomb of prison cells.&amp;nbsp; We&#39;re not trying to perpetuate the least imaginative lifestyles.&amp;nbsp; Burning Man is more of an inspiration than the private for-profit prisons. &lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/3491811969280161316'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/3491811969280161316'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/asylum-city.html' title='Asylum City'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/SuQI_g__BaU/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-435777210344186447</id><published>2019-06-09T16:07:00.000-07:00</published><updated>2019-06-09T16:17:05.516-07:00</updated><title type='text'>A Learning Process</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/A83aetwlOSc&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+At our &lt;a href=&quot;http://worldgame.blogspot.com/2019/06/the-school-of-tomorrow.html&quot;&gt;School of Tomorrow&lt;/a&gt;, we use tomorrow&#39;s learning methods today.  One of those methods:  create a new Python3 Jupyter Notebook from scratch and start filling in (a) Markdown cells and (b) code cells about a topic you want to know more about.&lt;br /&gt;
+&lt;br /&gt;
+The premise is, if you&#39;re learning Python, here&#39;s a excuse to practice.&amp;nbsp; If you already know Python, might you still learn more matplotlib?&amp;nbsp; I certainly fall into this category.&amp;nbsp; I&#39;m pretty deeply into Python, including metaclasses and asyncio, but the APIs for these data science objects are somewhat gargantuan, not to mention alien.&amp;nbsp; However I wade in, armed with my Python knowledge.&lt;br /&gt;
+&lt;br /&gt;
+Beyond the nuts and bolts of data visualization, what do I really want to know about.&amp;nbsp; In The School of Tomorrow, we focus on syntropic versus entropic processes.&amp;nbsp; Syntropy is a local phenomenon, against a backdrop of Expanding Universe.&lt;br /&gt;
+&lt;br /&gt;
+We might credit the sun for Planet Earth&#39;s yearly funding.&amp;nbsp; Give us this year our yearly solar gradient.&amp;nbsp; In this Youtube I look at making food last longer, even though it&#39;s in the process of decay.&amp;nbsp; I also look at irradiation as fomenting decay versus postponing it.&amp;nbsp; It&#39;s all about dose and effective dose (which we&#39;re at pains to distinguish).&lt;br /&gt;
+&lt;br /&gt;
+Again, if you&#39;re a student with the school, think about creating that Github account or something similar and start getting those Jupyter Notebooks out there.&amp;nbsp; Or just serve them locally on localhost.&amp;nbsp; Either way, making them yourself is the process to engage in.&amp;nbsp; Treat my example as a model to imitate and improve upon.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/435777210344186447'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/435777210344186447'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/a-learning-process.html' title='A Learning Process'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/A83aetwlOSc/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-5461496488202028229</id><published>2019-06-07T17:00:00.000-07:00</published><updated>2019-06-07T18:30:52.736-07:00</updated><title type='text'>Tracking Anglophobes</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/5846000399/in/photolist-ZHXsVB-cYLStw-c5RPLS-9UAhfk&quot; title=&quot;Russian Art Museum&quot;&gt;&lt;img alt=&quot;Russian Art Museum&quot; height=&quot;375&quot; src=&quot;https://live.staticflickr.com/2667/5846000399_687438847a.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+Kind of &lt;a href=&quot;https://afriendlyletter.com/lyndon-la-rouche-and-me-part-i/&quot;&gt;like Chuck Fager&lt;/a&gt;, prolific publisher of materials relating to our Sociedade Religiosa dos Amigos, I track the Lyndon LaRouche affiliated organizations (and anti ones too, some of them).&lt;br /&gt;
+&lt;br /&gt;
+To be fair, I track the Nader founded Public Interest Research Groups (PIRGs), such as &lt;a href=&quot;https://ospirg.org/&quot;&gt;OSPIRG&lt;/a&gt; (which I&#39;ve supported).&amp;nbsp; Nader is an alum of the same university.&amp;nbsp; I&#39;ve been at events with the guy.&lt;br /&gt;
+&lt;br /&gt;
+In other words, I&#39;m not saying I use &quot;track&quot; in a negative sense.&amp;nbsp; It means &quot;pay attention to&quot; or &quot;is on my radar&quot;.&amp;nbsp; I admit to not tracking much more than I track, such is the finitude of one&#39;s radar. Omniscient are us, not.&lt;br /&gt;
+&lt;br /&gt;
+Lyndon, of Quaker heritage (like US president Nixon), developed a sustained anti-British polemic centering around London&#39;s Venetian heritage, going back to Phoenicians (aka Puns).&amp;nbsp; He distrusts their way of banking.&lt;br /&gt;
+&lt;br /&gt;
+Ergo, when I&#39;m wanting to tap into anti-Brit sentiment, a check in with LaRouchePAC.&amp;nbsp; Indeed, they&#39;re out on the streets with signage, in some cases, telling some Youtube journalist with a camera what they&#39;re on about. &lt;br /&gt;
+&lt;br /&gt;
+As is to be expected, they&#39;re all about Trump staying friendly with Putin, which on a personal level has not been a problem.&lt;br /&gt;
+&lt;br /&gt;
+Those who would appear to wish to throw &lt;a href=&quot;https://youtu.be/qbcTx4nBaio&quot;&gt;a monkey wrench&lt;/a&gt; into this relationship, get singled out for special invective.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/5461496488202028229'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/5461496488202028229'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/tracking-anglophobes.html' title='Tracking Anglophobes'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-7355334367571608080</id><published>2019-06-06T09:55:00.003-07:00</published><updated>2019-06-06T09:55:22.780-07:00</updated><title type='text'>Webinar</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/3ifOAsnQnD0&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content><link rel='replies' type='application/atom+xml' href='https://controlroom.blogspot.com/feeds/7355334367571608080/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment/fullpage/post/10436423/7355334367571608080' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7355334367571608080'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/7355334367571608080'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/webinar.html' title='Webinar'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/3ifOAsnQnD0/default.jpg" height="72" width="72"/><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-6261951005973634209</id><published>2019-06-03T13:01:00.004-07:00</published><updated>2019-06-03T13:26:53.798-07:00</updated><title type='text'>Queueing Theory</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+Oh boring, boring, what will they think of next?&amp;nbsp; Yes, &lt;a href=&quot;https://en.wikipedia.org/wiki/Queueing_theory&quot;&gt;it&#39;s a real thing&lt;/a&gt;, and here&#39;s a predictable link to Wikipedia. I got criticized in an academic context for being that mundane, however in my defense, I wrote the bulk of that encyclopedia entry (&lt;a href=&quot;https://en.wikipedia.org/wiki/Synergetics_(Fuller)&quot;&gt;Synergetics&lt;/a&gt;, disambiguated to Fuller&#39;s version, as in Buckminster).&lt;br /&gt;
+&lt;br /&gt;
+My aim though is to be motivational in the sense of offering content of relevance to your personal calendar and how you structure the time in your day.&amp;nbsp; Having unstructured time is a fine thing too. It&#39;s not like we all plan to the minute, and so on.&amp;nbsp; If you&#39;re planning on using a transportation system, sticking to their published schedule, after finding it, is a skill you might want.&lt;br /&gt;
+&lt;br /&gt;
+With so many demands on your time, how should you juggle them?&amp;nbsp; For a moment, be that &quot;soccer mom&quot; even if you aren&#39;t one.&amp;nbsp; You&#39;ll have other people&#39;s kids under your supervision.&amp;nbsp; That&#39;s a heavy responsibility right there.&amp;nbsp; Not only commanding generals in a military theater have responsibility for their wards.&amp;nbsp; I&#39;m just saying:&amp;nbsp; life gets stressful and if you&#39;re a soccer mom, you feel many demands on your time, and your vehicle (Subaru?&amp;nbsp; Volvo?).&lt;br /&gt;
+&lt;br /&gt;
+In Uncle Sam Ville (USV), we&#39;re told the British are excellent queuers and in fact they&#39;re the primary architects of the queue.&amp;nbsp; In America, we &quot;wait in line&quot;.&amp;nbsp; But think how it works:&amp;nbsp; sometimes the store has multiple checkers, or the bank has multiple tellers, but there&#39;s a single cue up to that point.&amp;nbsp; Have you ever checked in at a busy airport?&amp;nbsp; You&#39;ll be that person next in line waiting to hear any ticket counter up or down the line call &quot;next!&quot; (and you&#39;re it!).&lt;br /&gt;
+&lt;br /&gt;
+To kick a task down the road, to schedule it some time from now, is not &quot;procrastination&quot; (a self punishing word) so much as &quot;orchestration&quot; (something Python does too).&amp;nbsp; You can&#39;t do everything at once, duh, and you have a sense of a story unfolding.&amp;nbsp; You&#39;re not the author by yourself, however you do have some choice when it comes to narrative.&amp;nbsp; What tense should you use?&amp;nbsp; Are we still together?&amp;nbsp; Did we really break up a year ago?&amp;nbsp; When do I make time for Y?&lt;br /&gt;
+&lt;br /&gt;
+We could talk strategies, how much to write down, what to add to your calendar.&amp;nbsp; A lot of people use calendars quite habitually to get them through to a next week.&amp;nbsp; You have calls to return, bases to touch base with.&amp;nbsp; You&#39;re staying on the radar, filing flight plans.&amp;nbsp; In a busy airspace, people appreciate your being communicative.&amp;nbsp; They&#39;re into echo-location themselves and if everyone&#39;s in stealth mode, all you get is more bats colliding.&lt;br /&gt;
+&lt;br /&gt;
+In a bigger drama, where the goal was to build a lot of seagoing vessels in a hurry, operations research stood to the task and of course people discovered &quot;multi-tasking&quot; in various forms, always a temptation to bleep over as a topic, given so much has been said about it.&lt;br /&gt;
+&lt;br /&gt;
+Don&#39;t begrudge the Brits their &quot;queues&quot; even if you call them &quot;lines&quot; is my advice.&amp;nbsp; More soon.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6261951005973634209'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6261951005973634209'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/06/queueing-theory.html' title='Queueing Theory'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-8466771295646357644</id><published>2019-05-28T12:04:00.003-07:00</published><updated>2019-05-28T12:48:30.687-07:00</updated><title type='text'>Fire (movie review)</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+&lt;a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsZAHmsQlzTCsSVnbly1xmoEA5wqT2dJuN4Xem7ITnh8qFv3-yhMuWgfH8KhqI3tkTcgsncspN3OMfxtGl4saR7_h_uw86WlNownbu9apwAMQQEz1uzcAygNkOY9ZH_cWicWcz/s1600/47953539493_c29f8161a6_z.jpg&quot; imageanchor=&quot;1&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; data-original-height=&quot;640&quot; data-original-width=&quot;640&quot; height=&quot;400&quot; src=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsZAHmsQlzTCsSVnbly1xmoEA5wqT2dJuN4Xem7ITnh8qFv3-yhMuWgfH8KhqI3tkTcgsncspN3OMfxtGl4saR7_h_uw86WlNownbu9apwAMQQEz1uzcAygNkOY9ZH_cWicWcz/s400/47953539493_c29f8161a6_z.jpg&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+The religious studies student is visiting again, so when we visited &lt;i&gt;Movie Madness&lt;/i&gt;, we each picked one consistent with our areas of investigation.&amp;nbsp; I&#39;m into the Cult of Bucky (meant tongue-in-cheek) and so picked &lt;a href=&quot;http://worldgame.blogspot.com/2019/05/the-house-of-tomorrow-movie-review.html&quot;&gt;&lt;i&gt;The House of Tomorrow&lt;/i&gt;&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+She&#39;s into gender studies and gender fluidity, and she picked &lt;i&gt;Fire&lt;/i&gt;, a film by Deepa Mehta, also anthropological in flavor.&amp;nbsp; We watched them as a double feature, &lt;i&gt;Fire&lt;/i&gt; first.&amp;nbsp; One of her contacts in Nepal said this was an important movie.&lt;br /&gt;
+&lt;br /&gt;
+The film is set in a modern India with lots of background traffic noises and smoggy skies. The Taj Mahal appears, in the new couple&#39;s honeymoon, against an uncharacteristically blue background, more of a postcard, and a metaphor for flawed relationships.&lt;br /&gt;
+&lt;br /&gt;
+We&#39;re told a story about some deliberate blemish in the Taj structure, exacted by the slave architect, in retaliation for the master&#39;s excessive jealousy (he has the architect deliberately debilitated so he won&#39;t design a competing Taj down the road -- as if one couple&#39;s love was at the expense of all others).&lt;br /&gt;
+&lt;br /&gt;
+The love story takes place against a backdrop of tradition and convention, which accepts a lot of cruelty, especially from males.&amp;nbsp; Women in tech encounter these attitudes when seeking self-sufficiency within the political economy.&lt;br /&gt;
+&lt;br /&gt;
+The dependence of women, on the social networks of men, is an &quot;in your face&quot; aspect of some societies.&amp;nbsp; In others, there&#39;s more reciprocity.&amp;nbsp; Sometimes a system will stray from an equilibrium and enter a chaotic phase, which may result in a new equilibrium down the road, some kind of &quot;plateau&quot;.&lt;br /&gt;
+&lt;br /&gt;
+The elder granny character, still able to follow the action, but unable to articulate her thoughts publicly, has a front row seat on a lot of the rule breaking going on.&lt;br /&gt;
+&lt;br /&gt;
+The younger wife and protagonist has to put up with a very reluctant husband whose primary love interest is Chinese.&amp;nbsp; The older wife is married to a guy trying to follow the teachings of his swami, but he suffers from overwhelm and occasionally needs mothering.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Both wives see their relationships as emotional dead ends, and yet the two get a lot out of being together.&lt;br /&gt;
+&lt;br /&gt;
+Unfortunately for the illicit couple, their relationship is occasion for blackmail and counter-threats.&amp;nbsp; A family servant is especially prone to resort to spy-and-tell as a ploy to preserve his situation, after his own illicit addictions have been found out.&lt;br /&gt;
+&lt;br /&gt;
+My comment at the end was I&#39;d been overwhelmed by the sound track, which did a lot to create atmosphere, pretty effectively I thought.&amp;nbsp; The music gets very ominous sometimes.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;ll bridge to &lt;a href=&quot;http://worldgame.blogspot.com/2019/05/the-house-of-tomorrow-movie-review.html&quot;&gt;the second movie&lt;/a&gt; through the Taj, as in Bucky lore, the Montreal 67 dome was a Taj of sorts, dedicated to his own wife, Anne Hewlett, and their relationship.&amp;nbsp; This second movie of the evening was more heteronormative as we say, and more lighthearted.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/8466771295646357644'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/8466771295646357644'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/05/fire-movie-review.html' title='Fire (movie review)'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsZAHmsQlzTCsSVnbly1xmoEA5wqT2dJuN4Xem7ITnh8qFv3-yhMuWgfH8KhqI3tkTcgsncspN3OMfxtGl4saR7_h_uw86WlNownbu9apwAMQQEz1uzcAygNkOY9ZH_cWicWcz/s72-c/47953539493_c29f8161a6_z.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-6927961996753402057</id><published>2019-05-25T14:54:00.002-07:00</published><updated>2019-05-28T11:08:52.250-07:00</updated><title type='text'>DVD Reviews</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/OpIfXAtmw_s&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+I gradually wend my way through these &quot;reviews&quot; taking each as a broad license to talk about whatever.  I stray into 911 territory quite a bit, and even fly over the JFK region, in the Land of Lore.&lt;br /&gt;
+&lt;br /&gt;
+My &lt;i&gt;Ex Machina&lt;/i&gt; review is especially cursory, as I&#39;d not yet &lt;a href=&quot;http://mybizmo.blogspot.com/2015/06/ex-machina-movie-review.html&quot;&gt;re-seen&lt;/a&gt; it.  Last night I did and reiterate what I say in the Youtube.  This is a remarkable movie, in terms of exploring what Deep AI would really mean.&lt;br /&gt;
+&lt;br /&gt;
+The computer would have to know how to lie, for openers, as that&#39;s deeply characteristic of what humans do.  I like &quot;dissemble&quot; as a synonym.&lt;br /&gt;
+&lt;br /&gt;
+Then there&#39;s employing outright deception.  Our usual idea of AI is less real (less like RI i.e. Real Intelligence). This movie points out our naivete.&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+&lt;a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_Tu79Tq9TvHa4zqJCuj2G-8RWqzn3Z2E2Me2JX88vZVJd28-vuut7C3UXN4_-TLuYs4G7l8Kse3JSyEAsmcACoiXODVGBElFVPaoBJ5DsVxxpHVFUfSuXJAHhFZpTPh7GptH/s1600/47925911877_e12cacba84_z.jpg&quot; imageanchor=&quot;1&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; data-original-height=&quot;640&quot; data-original-width=&quot;640&quot; height=&quot;400&quot; src=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_Tu79Tq9TvHa4zqJCuj2G-8RWqzn3Z2E2Me2JX88vZVJd28-vuut7C3UXN4_-TLuYs4G7l8Kse3JSyEAsmcACoiXODVGBElFVPaoBJ5DsVxxpHVFUfSuXJAHhFZpTPh7GptH/s400/47925911877_e12cacba84_z.jpg&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6927961996753402057'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/6927961996753402057'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/05/dvd-reviews.html' title='DVD Reviews'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/OpIfXAtmw_s/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-554371651798436190</id><published>2019-05-19T20:52:00.001-07:00</published><updated>2019-05-19T20:52:39.547-07:00</updated><title type='text'>Access Point</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/9L5x-C1EglY&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+These relate to each other, through the Dymaxion House especially.  Watch in any order.&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/V9-s9RXjeLs&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/554371651798436190'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/554371651798436190'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/05/access-point.html' title='Access Point'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/9L5x-C1EglY/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-5307723100341399394</id><published>2019-05-13T22:39:00.001-07:00</published><updated>2019-05-13T22:40:30.696-07:00</updated><title type='text'>Web Crawling</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/np_ylvc8Zj8&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+Everyone knows the world does not really operate according to how textbooks say it does.  The sovereignties are paper tigers, dependent on more invisible institutions that prop them up.
+&lt;br /&gt;
+&lt;br /&gt;
+A couple quotes from &lt;i&gt;Critical Path&lt;/i&gt; by our Medal of Freedom winner:&lt;br /&gt;
+&lt;blockquote class=&quot;tr_bq&quot;&gt;
+&lt;span style=&quot;background-color: #f2f3f5; color: #1c1e21; font-family: , , , &amp;quot;.sfnstext-regular&amp;quot; , sans-serif; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: inherit;&quot;&gt;In our comprehensive reviewing of published, academically accepted history we continually explore for the invisible power structure behind the visible kings, prime ministers, czars, emperors, presidents, and other official head men, as well as for the&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: #f2f3f5; color: #1c1e21; font-family: , , , &amp;quot;.sfnstext-regular&amp;quot; , sans-serif; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: inherit;&quot;&gt;&lt;span style=&quot;font-family: inherit;&quot;&gt;&amp;nbsp;underlying, hidden causes of individual wars and their long, drawn-out campaigns not disclosed by the widely published and popularly accepted causes of those wars.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;tr_bq&quot;&gt;
+&lt;span style=&quot;background-color: #f2f3f5; color: #1c1e21; font-family: , , , &amp;quot;.sfnstext-regular&amp;quot; , sans-serif; font-size: 13px;&quot;&gt;The U.S.A. is not run by its would-be &#39;democratic&#39; government. All the latter can do is try to adjust to the initiatives already taken by LAWCAP’s great corporations. Nothing could be more pathetic than the role that has to be played by the President of the United States, whose power is approximately zero.&lt;/span&gt;&lt;/blockquote&gt;
+I recently shared these passages on Facebook, in conjunction with &lt;a href=&quot;https://www.wsws.org/en/articles/2016/10/15/wiki-o15.html&quot;&gt;this exhibit&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+I learned a lot about Gaudi today, over at Glenn&#39;s.&amp;nbsp; Such an amazing individual.&amp;nbsp; One of his secrets is he saw possibilities in the indigenous crafts and skills of Catalonia.&lt;br /&gt;
+&lt;br /&gt;
+He was more of a structural engineer than most architects, studying the transmission of forces with string meshes and bags of shot.&amp;nbsp; His curvilinear style has become more popular now that computer software is doing more of the grunt work.&lt;br /&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/5307723100341399394'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/5307723100341399394'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/05/web-crawling.html' title='Web Crawling'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/np_ylvc8Zj8/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10436423.post-4157940709520534763</id><published>2019-05-06T17:53:00.001-07:00</published><updated>2019-05-06T17:53:32.347-07:00</updated><title type='text'>Triangular Numbers</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;iframe allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/KPceSEIC20c&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+I find no record in my Activity Log of having shared this on Facebook.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+However it could be that when a group moderator does not approve a post, it vanishes from the accounting.&amp;nbsp; I&#39;m not completely up on Facebook arcana.&amp;nbsp; I remember sharing it with Mathematics Education Researchers.&lt;br /&gt;
+&lt;br /&gt;
+But then this is about Learning to Code, not mathematics, right?&lt;/div&gt;
+</content><link rel='replies' type='application/atom+xml' href='https://controlroom.blogspot.com/feeds/4157940709520534763/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment/fullpage/post/10436423/4157940709520534763' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/4157940709520534763'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10436423/posts/default/4157940709520534763'/><link rel='alternate' type='text/html' href='https://controlroom.blogspot.com/2019/05/triangular-numbers.html' title='Triangular Numbers'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/KPceSEIC20c/default.jpg" height="72" width="72"/><thr:total>0</thr:total></entry></feed>

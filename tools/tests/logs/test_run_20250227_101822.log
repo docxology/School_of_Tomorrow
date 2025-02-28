@@ -1,0 +1,1113 @@
+2025-02-27 10:18:22,436 - __main__ - INFO - Starting test suite execution
+2025-02-27 10:18:22,436 - __main__ - INFO - Running unit tests...
+2025-02-27 10:18:22,450 - __main__ - INFO - Running file system analysis tests...
+2025-02-27 10:18:22,451 - test_file_system_analysis - INFO - 
+Starting test: test_directory_statistics
+2025-02-27 10:18:22,451 - test_file_system_analysis - INFO - Testing directory statistics...
+2025-02-27 10:18:22,580 - test_file_system_analysis - INFO - Analyzing directory: tools
+2025-02-27 10:18:22,581 - test_file_system_analysis - DEBUG - Stats for tools: {'file_count': 78, 'dir_count': 19, 'total_size': 7292295, 'extensions': {'.txt': 14, '.md': 11, '.py': 25, '.sh': 4, '.json': 3, '.yaml': 9, '.log': 12}, 'newest_file': {'path': '/home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/logs/test_run_20250227_101822.log', 'modified': datetime.datetime(2025, 2, 27, 10, 18, 22, 450489)}}
+2025-02-27 10:18:22,581 - test_file_system_analysis - INFO - 
+Starting test: test_file_type_analysis
+2025-02-27 10:18:22,581 - test_file_system_analysis - INFO - Testing file type analysis...
+2025-02-27 10:18:22,933 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Active Inference Institute"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:22,935 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: organization
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:27,756 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Media Guidelines"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:27,757 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:27,758 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Contribution Guide"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:27,759 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:27,766 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,767 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,769 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,771 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,772 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,774 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,778 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,780 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,783 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,785 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,788 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,789 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,794 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,796 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,798 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,800 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,813 - test_file_system_analysis - INFO - Analyzed MIME type: text/markdown (Count: 6373)
+2025-02-27 10:18:27,814 - test_file_system_analysis - INFO - Analyzed MIME type: application/json (Count: 6180)
+2025-02-27 10:18:27,814 - test_file_system_analysis - INFO - Analyzed MIME type: application/xml (Count: 260)
+2025-02-27 10:18:27,814 - test_file_system_analysis - INFO - Analyzed MIME type: application/octet-stream (Count: 26)
+2025-02-27 10:18:27,814 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-python (Count: 25)
+2025-02-27 10:18:27,814 - test_file_system_analysis - INFO - Analyzed MIME type: text/plain (Count: 18)
+2025-02-27 10:18:27,814 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-sh (Count: 5)
+2025-02-27 10:18:27,823 - test_file_system_analysis - INFO - 
+Starting test: test_tree_generation
+2025-02-27 10:18:27,823 - test_file_system_analysis - INFO - Testing tree generation...
+2025-02-27 10:18:27,927 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Contribution Guide"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:27,927 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:27,932 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Media Guidelines"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:27,933 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:27,944 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,945 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,946 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,948 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,953 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,954 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,957 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,958 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,960 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,961 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,964 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,966 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,970 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,971 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,974 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,976 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:27,991 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:18:28,023 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Active Inference Institute"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:28,024 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: organization
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:28,075 - test_file_system_analysis - INFO - Generated text tree with depth 2
+2025-02-27 10:18:28,180 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Contribution Guide"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:28,181 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:28,188 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Media Guidelines"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:28,189 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:28,199 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,201 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,202 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,204 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,206 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,207 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,210 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,212 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,214 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,217 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,219 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,221 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,225 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,227 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,231 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,233 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,250 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:18:28,279 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Active Inference Institute"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:28,280 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: organization
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:28,345 - test_file_system_analysis - INFO - Generated text tree with depth 3
+2025-02-27 10:18:28,453 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Contribution Guide"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:28,454 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:28,461 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Media Guidelines"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:28,462 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:28,472 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,474 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,475 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,476 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,479 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,480 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,484 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,486 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,487 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,489 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,490 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,492 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,497 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,499 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,502 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:28,503 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,227 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:18:33,254 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Active Inference Institute"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:33,255 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: organization
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:33,316 - test_file_system_analysis - INFO - Generated text tree with depth 5
+2025-02-27 10:18:33,412 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Contribution Guide"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:33,413 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:33,419 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Media Guidelines"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:33,420 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:33,428 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,430 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,431 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,432 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,434 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,435 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,438 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,439 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,440 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,441 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,443 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,444 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,448 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,449 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,452 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:33,453 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:37,950 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 10:18:37,978 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Active Inference Institute"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:37,979 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: organization
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:38,045 - test_file_system_analysis - INFO - Generated markdown tree
+2025-02-27 10:18:38,046 - test_file_system_analysis - INFO - 
+Starting test: test_visualization_data_generation
+2025-02-27 10:18:38,046 - test_file_system_analysis - INFO - Testing visualization data generation...
+2025-02-27 10:18:38,418 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Active Inference Institute"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:38,419 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: organization
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 49:
+     ... es/Crescent_City|Crescent City]], California
+                                         ^
+2025-02-27 10:18:43,624 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Media Guidelines"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:43,625 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Content_Guidelines]]
+                            ^
+2025-02-27 10:18:43,626 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    title: "Contribution Guide"
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 7, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:43,627 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while parsing a block mapping
+  in "<unicode string>", line 1, column 1:
+    type: guide
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 6, column 25:
+    related: [[Style_Guide]], [[Documentation_Map]]
+                            ^
+2025-02-27 10:18:43,633 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,634 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,636 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,637 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,639 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,641 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,645 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,646 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,650 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,651 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,653 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,655 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,658 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,660 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,661 - file_systems.enhanced_file_analysis - WARNING - Error parsing processed frontmatter: while constructing a mapping
+  in "<unicode string>", line 4, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 4, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,663 - file_systems.enhanced_file_analysis - WARNING - Error in frontmatter extraction: while constructing a mapping
+  in "<unicode string>", line 3, column 10:
+    created: {{date}}
+             ^
+found unhashable key
+  in "<unicode string>", line 3, column 11:
+    created: {{date}}
+              ^
+2025-02-27 10:18:43,680 - test_file_system_analysis - INFO - Generated visualization data: /home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/visualization_data_20250227_101822.json
+2025-02-27 10:18:43,686 - test_file_system_analysis - INFO - 
+Test suite completed
+2025-02-27 10:18:43,687 - __main__ - INFO - Starting index generation...
+2025-02-27 10:18:43,687 - __main__ - INFO - Scanning vault directory...
+2025-02-27 10:18:48,550 - __main__ - INFO - Generating index files...
+2025-02-27 10:18:48,555 - __main__ - INFO - Validating generated files...
+2025-02-27 10:18:48,555 - __main__ - WARNING - Failed to generate index for books
+2025-02-27 10:18:48,555 - __main__ - INFO - Successfully generated index for mathematics
+2025-02-27 10:18:48,555 - __main__ - INFO - Successfully generated index for formalisms
+2025-02-27 10:18:48,555 - __main__ - INFO - Successfully generated index for people
+2025-02-27 10:18:48,555 - __main__ - INFO - Successfully generated index for places
+2025-02-27 10:18:48,556 - __main__ - INFO - Successfully generated index for concepts
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for guides
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for meta
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for systems
+2025-02-27 10:18:48,556 - __main__ - INFO - Successfully generated index for documentation
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for prompts
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for workflows
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for schemas
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for streams
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for repos
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for examples
+2025-02-27 10:18:48,556 - __main__ - WARNING - Failed to generate index for templates
+2025-02-27 10:18:48,565 - __main__ - INFO - Test suite completed successfully

@@ -1,0 +1,10 @@
+---
+title: Wanderers 2016.4.27
+id: 6722192551148882403
+author: Kirby Urner
+published: 2016-04-27T09:30:00.000-07:00
+updated: 2016-05-01T09:32:50.339-07:00
+blog: world_game
+tags: 
+---
+

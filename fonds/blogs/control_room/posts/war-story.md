@@ -1,0 +1,11 @@
+---
+title: War Story
+id: 115342033344548344
+author: Kirby Urner
+published: 2006-07-20T11:44:00.000-07:00
+updated: 2006-11-15T11:44:21.471-08:00
+blog: control_room
+tags: 
+---
+
+According to the nation-states model, undisciplined civilians hate each other's guts so much that, left to their own devices, there'd be all out, uncontrolled mayhem, spearheaded by vigilante gangs.However, some civilians, being wise, knew themselves well enough to delegate populations of brave soldier, trained in the arts of war, to boldly venture into harm's way on their behalf, and in order to restore the peace -- and all because the civilians had failed in their most essential duty (to not lose it).The job of these delegate populations was to contain the fighting, by keeping the civilians out of it.  They would target each other, and fight military to military.   The motto of the professional armed forces:  let us do the fighting.   Nice theory.This model started breaking down big time in the 20th century.  Many militaries began targeting civilians directly, including from submarines.  The [Age of Terror](http://worldgame.blogspot.com/2005/12/more-about-narnia.html) was upon us.  Civilians got to work on their bomb shelters (or used the underground).Nowadays, we have only the remnants of the old nation state system.  Armed militias, flying various flags, go berserk and trample civilians under foot.  The violence is uncontained.  The idea of a "professional soldier" (a descendent of "chivalrous knight") is now more a fantasy than an on-the-ground reality.Might we put humpty-dumpty back together again, even at this late date?  The few remaining pros in the military still have hopes along these lines.  Protecting civilians (from themselves if necessary) remains an honorable calling.But will the civilians climb out of their [intellectual squalor](http://worldgame.blogspot.com/2005/12/iq-test.html) and start dealing with reality again?  A lot of evidence suggests that they will.The nation-state theory still has some workable elements, even if the global context makes the whole notion of nations seem more quaint and antique.  Just because it's old doesn't mean it can't still operate on some level.

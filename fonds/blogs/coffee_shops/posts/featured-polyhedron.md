@@ -1,0 +1,11 @@
+---
+title: Featured Polyhedron
+id: 4069741291133864719
+author: Kirby Urner
+published: 2009-04-01T16:36:00.000-07:00
+updated: 2009-05-30T07:09:58.940-07:00
+blog: coffee_shops
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECSL9L1MH7o9fwFw_AxgYBus1MxSzPB2y6mbfu8yJIRBecxziF5yzuqU6b_PRiSjp1MRSjzYSSMFYf51vzKfLGuRmW4448QEmsOB25A2R3hKMJw8k03et9RFEUIxwoihxMP6f_ge7BGB0/s1600-h/trucocta_leonardo.jpg)by Leonarda Da VinciWe take our Polyhedra seriously in Portland, [our FOSS Nashville](http://mybizmo.blogspot.com/2005/08/gibson-bizmo.html), likewise a place for music and publishing.  Why?  Because we're a Cult of Athena, which has commerce ([B2B](http://worldgame.blogspot.com/2006/11/artifact.html)) with [Apollonian](http://controlroom.blogspot.com/2009/03/airplane-reading.html) and well as [Dionysian businesses](http://t-shirts.cafepress.com/item/athenadionysus/15157629).  More to the point, we have lots of [flatscreen real estate](http://mathforum.org/kb/thread.jspa?threadID=1915468&tstart=0), and nothing works better, as a fall-back or default, than some rotating omni-spherical object (like a test pattern), or maybe something more asymmetric?[The truncated octahedron](http://www.y-math.nl/archimedian/trunc-0cta.htm) is our flavor of the month.My thanks to David Koski for bringing it up.  Yes, it's [a space-filler](http://www.ac-noumea.nc/maths/amc/polyhedr/foldcub_.htm), and often associated with Lord Kelvin (of temperature scale fame) who [conjectured about it](http://books.google.com/books?id=R-Mi2bNYZ_UC&pg=PA68&lpg=PA68&dq=%22kelvin+cell%22&source=bl&ots=Ed61Sh3snn&sig=hGv--gNt6SgJ0JirmZCuGprfaDo#PPR7,M1) rather fervently.  Koski's zonohedral dissection theory likewise applies, although twas the "[Great Rambo Head](http://mybizmo.blogspot.com/2009/01/ghost-zomes.html)" which took more of his attention.We talked about A & B modules again, which he sees as "boring" compared to the T,E & Ks.  Five-fold symmetry has its appeal, I readily admit.  And let's not forget [Lucky Seven](http://books.google.com/books?id=lBIZ9PRZvPIC&pg=PA139&lpg=PA139&dq=athena+goddess+%22lucky+number%22&source=bl&ots=Ss2b0Mqj3f&sig=wchTxVq5uXu27BE4ILQDIu0b8Kk#PPA139,M1).Now our hero is back to work in a hard hat area, keeping our energy grid growing.  Stay safe guy!

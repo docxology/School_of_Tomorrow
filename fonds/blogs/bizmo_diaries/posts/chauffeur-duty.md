@@ -1,0 +1,11 @@
+---
+title: Chauffeur Duty
+id: 8295938594693844630
+author: Kirby Urner
+published: 2009-03-17T15:08:00.000-07:00
+updated: 2009-03-18T08:01:05.017-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+I'm escorting an MVP again today, [Razz at the ready](http://mybizmo.blogspot.com/2006/09/razz_07.html), although sometimes I do Max from the airport, show my guest how to get around town without me.  I don't like to hover.I'm reminded of tour guides I've enjoyed in exotic destinations like Shanghai and Guangzhou ([training from Hong Kong](http://www.chinadiscover.net/china-tour/guangdongguide/guangdong-guangzhou-train-hongkong.htm), ate snake soup that one time), [Tashkent](http://worldgame.blogspot.com/2004/12/intourist-pdx.html)... they met our plane or whatever conveyance, made sure we weren't looking the "wrong way" when crossing the street, then set us free, remaining on standby to ask questions, lead a foray if called upon.As aliens, we weren't allowed just anywhere, unless we had a proper escort.  In Bhutan, that meant special papers.  Bhutanese are a generous people, yet [understandably leery](http://mybizmo.blogspot.com/2007/01/public-schools-overseas.html) about wannabe landlords trying to muscle into the place.Another role model:  James Lambert, high level escort for the State Department.  He was major league, would go all over the country with visiting dignitaries, like that newspaper editor from Zimbabwe, the neice of the DL.  Finding people to talk to is a challenge sometimes.Not everyone is as gregarious [as Borat](http://mybizmo.blogspot.com/2006/11/borat-movie-review.html) at the end of the day.Like I recall that Thanksgiving, our Tibetan guest here in town, a lot of the guys just wanting to huddle around the TV and watch NFL or whatever, whereas I know plenty of women who'd've given their eye teeth to be in that room talking with such a deeply spiritual person.James was quiet to the point of invisible, and debonair, as you'd expect.  [Maureen's family](http://worldgame.blogspot.com/2005/02/methodist-morning.html) made the connection, likewise to [the late Admiral Crowe's family](http://query.nytimes.com/gst/fullpage.html?res=940DE0DD1539F934A3575BC0A96E948260&sec=&spon=&pagewanted=1) (another hat guy).

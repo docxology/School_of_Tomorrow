@@ -1,0 +1,11 @@
+---
+title: Thanksgiving 2008
+id: 4360582068759331081
+author: Kirby Urner
+published: 2008-11-28T10:52:00.000-08:00
+updated: 2008-12-10T21:56:23.247-08:00
+blog: control_room
+tags: 
+---
+
+[](http://www.flickr.com/photos/17157315@N00/3066302136/):: Bill Lightfoot ::Mom made it back, sans cell, was robbed in Geneva, but enjoyed really good treatment by the airlines, arrived in good spirits.My relatives aren't all on the same page, politically, so some ribbing goes on.  Like one of our number, retired military, had this upside-down elephant with Xs for eyes, pushing up daisies, embroidered on his T-shirt.  He kept it behind his suspender though, so not too in your face, plus he only talked about it every ten minutes or so, leaving lots of room for other views.  I suggested a subversive interpretation:  fertilizing the future.[](http://www.flickr.com/photos/17157315@N00/3065462607/)One of my uncles couldn't see how all these promises could be kept, around health care, education, etc., now that those making them were in.I responded with my [standard GST rap](http://www.grunch.net/synergetics/gst3.html):  we've got a fully functional fusion furnace pumping out yottawatts of power, an Earthian economy well equipped to receive, to convert into hydrocarbons, other assets, so let's aim for a [university average lifestyle](http://worldgame.blogspot.com/2007/09/futurism-revisited.html) and notch it up a bit, in terms of health care, education, dwelling machines (smart dorm options).  "Think less like a politician, more like an engineer" (Wanderers influential).Cousin Mary had to leave a little early, for duty at the ER. Her dad was a chemistry professor, recognized as a wizard early on by his West Virgina coal mining community, his dad especially.  The college was happy to get him.  The family later moved to Colorado.The rest of us put things back together pretty well before leaving, various vehicles dispersing, ours northward, continuing along I-5 in the direction of Canada's Vancouver.

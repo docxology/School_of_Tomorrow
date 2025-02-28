@@ -1,0 +1,25 @@
+File System Analysis Report
+==========================
+Generated on: Thu Feb 27 09:56:44 AM PST 2025
+
+Directory Summary
+----------------
+Total directories: 0
+Total files: 0
+Total size: 96M
+
+File Types
+----------
+Extension counts:
+
+Recent Changes
+--------------
+Most recently modified files:
+
+Large Files
+-----------
+Largest files:
+
+File Type Details
+----------------
+MIME type analysis:

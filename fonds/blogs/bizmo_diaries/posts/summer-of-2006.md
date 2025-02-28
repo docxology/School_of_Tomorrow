@@ -1,0 +1,11 @@
+---
+title: Summer of 2006
+id: 115422693145056269
+author: Kirby Urner
+published: 2006-07-29T19:29:00.000-07:00
+updated: 2006-11-15T11:43:59.476-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](http://photos1.blogger.com/blogger/1134/545/1600/aliceineXistenZ.jpg)Alice in eXistenZ(photo by K. Urner)

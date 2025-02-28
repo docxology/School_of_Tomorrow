@@ -1,0 +1,11 @@
+---
+title: Game Night
+id: 3768889004457655553
+author: Kirby Urner
+published: 2008-12-28T08:45:00.000-08:00
+updated: 2009-01-18T23:44:37.668-08:00
+blog: control_room
+tags: 
+---
+
+Even though I'm still coughing some, I was able to venture out with Matt last night for a game night (plus we listened to a musical score in progress, a somewhat game-like activity (a language game)).Some of these beautiful dark Italian women, maybe Jewish, turn out to be Irish, you never know.  We were a talented crew, somewhat blindingly fast in [our game of Apples 'n Apples](http://www.flickr.com/photos/17157315@N00/3143888073/).[I was semi-professorial](http://controlroom.blogspot.com/2008/12/nato-professor.html) with my usual rant about not watching Al Jazeera on DirecTV and so not knowing about the S-300s aka Gargoyles they want us to care about (probably a good idea).Of course as a Quaker, I'm not expected to know anything about such things, so it's OK I don't watch.  Demented cartoons not teaching anything about Fuller's geometry are another specialty of mine, right next to not watching Al Jazeera.I'm a collector of blind spots.There's a fine line between surveillance, anthropology, and planning a location shoot.  In sending an Immersive Media dodecacam, a person to go with it, [to a place like Darfur](http://controlroom.blogspot.com/2007/08/darfur.html) (per [storyboard](http://mail.python.org/pipermail/edu-sig/2008-December/008962.html)) we're not trying to break the "visiting ET" sensibility:  yes we're not from around here, no we don't have all the answers, yes we'd like conditions to improve.[Practice in the Gorge](http://mybizmo.blogspot.com/2008/12/product-placement.html) first, [like with that stealth boat](http://mybizmo.blogspot.com/2005/07/stealth-boat.html), like with Dignity Village (amidst PDX country clubs).  People around here are used to what's strange ([Keep Portland Weird](http://worldgame.blogspot.com/2008/06/staying-weird-in-portland.html), we say, meaning more than just Portland).

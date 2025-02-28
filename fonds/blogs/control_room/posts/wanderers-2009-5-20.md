@@ -1,0 +1,11 @@
+---
+title: Wanderers 2009.5.20
+id: 8541512381757899376
+author: Kirby Urner
+published: 2009-05-20T08:57:00.000-07:00
+updated: 2009-05-21T08:01:27.623-07:00
+blog: control_room
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPHwmyZhv2RIP2qQ-NSAjJbx_7oCxNvJW3_ep-VVZe9qVSOgcR5z8EAU6WVjFmgNqxYeBFPAXkS-ZSWz01obsJir9LEmr3I5820fX3xm47o4twaYBpoBngDnRUjsbbEHWiLLbO/s1600-h/izzy.jpg):: [alexia's kitty](http://controlroom.blogspot.com/2008/07/touring-facilities.html) ::Patrick is yakking about a 2000-layer GIS system he knows about, good for monitoring air space in real time.  Q&A ensues.I just gave a lightning talk [on 2nd / 3rd powering](http://www.rwgrayprojects.com/synergetics/s09/figs/f9001.html) per what I'm importing from the Philippines, via [user groups](http://www.flickr.com/photos/17157315@N00/3544467917/), [math circles](http://www.flickr.com/photos/17157315@N00/3389566943/in/set-72157616066135225/).  Given the Philippines is Anglophone, 3rd largest, exports math teachers, we're thinking this gnu mix will work well to spread FOSS tools, Django, Rails... bring down the costs associated with medical science, free North Americans from the more cynically parasitic.  This won't be the first time we've benefited from our special relationship with that archipelago of talented sea peoples.There's a lot of buzz around this "missing link", science turning a new page as far as ponying up for media parties.  NASA is pretty good at media, although the Russians got a lot of bang for the buck just by hosting visionaries, making orbiting in zero-G a great sport (more democratic, less state controlling).Either way, the space program has always understood about media, theme parks, museums -- keep the public in the loop (pretty simple strategy, works wonders, take a page [from Madison Avenue](http://controlroom.blogspot.com/2006/05/fast-food-nation.html) why not?).[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Ti1GrF8MGt3ee0vnzGy_oxaCKp9L0JajJeTtNv7LTCiWAdA7uSGEcdsukoYjM2lhTf2LkMpMteEOgFeMC27cSvVxbsg2az57VrdkbeuStO3S0qK4jmyUTjVlamc1mHDccm0f/s1600-h/missinglink_res.gif)

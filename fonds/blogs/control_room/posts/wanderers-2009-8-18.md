@@ -1,0 +1,11 @@
+---
+title: Wanderers 2009.8.18
+id: 4761913463292425227
+author: Kirby Urner
+published: 2009-08-18T22:02:00.000-07:00
+updated: 2009-08-18T22:59:41.332-07:00
+blog: control_room
+tags: 
+---
+
+[](http://www.flickr.com/photos/17157315@N00/3836222230/)Portland is having hot weather again.  Tara gets to house sit in a place with some air conditioning, lucky devil, me invited, but I'm kicked back in the living room, home from Pauling House.  Sarah the dog was earlier treating me like a salt lick in the desert, but is currently dreaming up a storm...Great seeing [Jon Bunce](http://worldgame.blogspot.com/2007/08/friends-gather.html) at Wanderers again, still recovering from some illness.  Lynne Taylor swept through, changing our XY:XX ratio to like 10:1.  Glenn, two Steves, Barry, Jeff, Don, Jon, me, Sam... most of them planning a boat trip starting Thursday.I told a couple stories, had 'em rolling in the aisles (an idiom, don't really have aisles), drank some wine, left early, trying to get some work done.I also shared the secret knowledge that Double Dog Dare for $2.88 is maybe better than so-called Two Buck Chuck ($2.99) from Trader Joe's.  Sam commented he couldn't see himself buying wine at a Seven Eleven.  He probably hasn't been to Gothenburg (Sweden), where that company has one the more upscale outlets.  But then [Gothenberg](http://worldgame.blogspot.com/2005/07/more-on-gothenberg_25.html) is kinda surreal in that way (Portlandia has a boyfriend there).I did some writing about Python, posted about some new user groups I'd like to see, including in Baghdad (Iran has one already, as does Israel).  The meeting [at Fine Grind](http://mybizmo.blogspot.com/2008/11/smiley-guy.html) seemed productive.  The idea is to prototype [the international schools](http://mybizmo.blogspot.com/2008/08/new-kind-of-charter.html) nearby, work the kinks out, then spread some of the lessons learned -- not a new model, although much of the technology is new.I'm liking the School of Technology approach, need to reinstall Eclipse.  The Jackalope is still down.

@@ -1,0 +1,11 @@
+---
+title: Cyber Nations
+id: 8861476433018275793
+author: Kirby Urner
+published: 2010-01-15T07:10:00.000-08:00
+updated: 2011-01-24T10:50:31.617-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+Many cultures and ethnicities persist in cyberspace.  They set up schools there, share lore.Supranational concerns such as Disney, with campuses in Anaheim, Orlando, Hong Kong, Tokyo, Paris, with a new one planned in Shanghai, is a "cyber nation" or "virtual world" with a footprint on the ground.  It maybe doesn't show up on maps of sovereign states, but that's just one data layer among many.In GIS world, we speak of "data layers" and understand that ecosystem features working on geological time have a different kind of persistence than come-and-go political features.Tibet is another example of a cyber nation:  a great [tantric culture](http://worldgame.blogspot.com/2011/01/economics-of-happiness-movie-review.html) with facilities all around the globe.  Without Tibetan culture, I doubt humanity would still be viable (my personal bias).  The campus in Lhasa is still a headquarters, but so are places in Colorado or even Portland.  [Dharamsala](http://www.tibet.net/en/index.php) provides an anchor.The fact physical human animals cannot breath, eat or drink in cyberspace means we cannot simply retreat to [this 2nd world](http://mybizmo.blogspot.com/2009/07/2nd-life-2nd-world.html) and make it a new home.  Our 2nd world is a mental world, a noosphere, the next best thing to telepathy.The original meaning of "cyber" is "to steer" and for sure cyberspace is having a steering effect in human affairs.  The exponential speedup in global communications is giving humans another way to sort through the information.  Obviously misguided policies have a shorter half-life as forcing people to act against their own interests is an expensive proposition.  Or will the clash of ideologies only become more intense?Fuller hoped that a shared focus on engineering and artifacts, nuts and bolts infrastructure such as the global grid, agriculture, energy sources, would help us stay focused.  World Game was about the basics of life support.  Religious wars would not hijack our collective brainstorming, if we kept our minds on the science.  Emergence by emergency.

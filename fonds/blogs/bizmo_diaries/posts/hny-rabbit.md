@@ -1,0 +1,11 @@
+---
+title: HNY (Rabbit)
+id: 1056229837973818572
+author: Kirby Urner
+published: 2011-01-26T15:09:00.001-08:00
+updated: 2011-01-26T15:12:39.861-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](http://www.flickr.com/photos/17157315@N00/5388568759/)They're looking into [Nick's case](http://mybizmo.blogspot.com/2011/01/next-frame.html) pretty deeply at the hospital.  He's receiving the same standard of care they'd give to anyone with his medical condition.  Lots of friends coming by.It's almost Chinese New Year and the hospital is decorated accordingly.

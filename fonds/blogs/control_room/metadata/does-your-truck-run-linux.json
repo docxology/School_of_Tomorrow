@@ -1,0 +1,10 @@
+{
+  "id": "2301894739458879632",
+  "title": "Does Your Truck Run Linux?",
+  "published": "2019-01-23T15:05:00.002-08:00",
+  "updated": "2019-01-23T15:21:31.574-08:00",
+  "content": "Independent operator truck owners used to customize their own dashboards with various after market instruments.\u00a0 Create your own GUI.\u00a0 In hardware.\n\nThis capability has not gone away, but today's fleets tend to feature controls in a large display of some kind, per Tesla and others.\u00a0 Behind those displays are the sensors and controllers, a small \"internet of things\" perhaps glued together using TCP / IP.\n\nAs a result, the truck's cab, the personal workspace (PWS) is starting to double as a kind of devops space.\u00a0 In addition we get the navigation and business accounting apps, what it takes to keep up with [the truck's businesses](https://www.volkswagenag.com/en/news/2016/9/operating_system.html).\n\nNot every PWS is running Linux, nor is every (any?) jet airplane (avionics is its own thing) -- when it comes to the in-flight movie service some do.\n\nHowever, the fact remains we need to give students [\"cockpit\" experience](https://softwareengineering.stackexchange.com/questions/153266/what-operating-systems-are-used-in-airplanes-and-what-programming-languages-are) (in the driver's seat) with whatever operating systems.\n\nEven if your truck does not run Linux, Linux may run your truck, in the sense that remote platforms may be tasked with scheduling you're contracted to carry out, as a driver.\u00a0 You meet Ubuntu in the cloud a lot.",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "control_room"
+}

@@ -1,0 +1,33 @@
+---
+title: No Bears (movie review)
+id: 4570471174054723904
+author: Kirby Urner
+published: 2025-02-25T12:34:00.000-08:00
+updated: 2025-02-25T12:52:36.740-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://www.flickr.com/photos/kirbyurner/albums/72157621793762675)
+
+I rented No Bears and Border Café together, from Movie Madness, and have a plan to continue drawing DVDs from the Iranian shelf. That section of the video rental store is indeed sorted by nationality, and alphabetically within that. Other sections of the store sort by Hollywood Director, or categorize into Horror vs. British vs. legacy television. 
+
+We're lucky to have such a facility, with over 80K titles, as a part of our neighborhood.
+
+I watched No Bears second, and didn't realize until viewing the special features that the director was also the protagonist, and his predicament in the film is similar to his predicament in real life: he's in trouble with the government and not supposed to escape to a foreign country.
+
+The film has an ingenious twist, which I'm suggesting you can know about without spoiling the viewing experience, as the paradox, if we might call it that, never fully resolves. The split between reality and filmed reality is the issue. When we posit what we're viewing is reality, as if the camera wasn't there, then by that very same token it's not reality, because we're viewing it, so there's a camera.
+
+The documentary genre will sometimes up the honesty by bringing the crew and camera into the filming, whereas those feature films suggesting we suspend disbelief will offer a "making of" as a feature, acknowledging the artistry behind the projected illusion. A "making of" is akin to going backstage to meet with actors out of character, resuming their native personae.
+
+What this film does is lull the viewer into thinking we're in "omniscient camera" mode, only to have that assumption pushed aside when the opening scene turns out to be a take in a movie, which our protagonist is attempting to direct remotely, from the other side of the Iran-Turkey border. 
+
+But then in another twist we find out the acting couple is indeed attempting to obtain black market passports for a one way trip to Europe, but that going together is problematic.
+
+At this point, with the camera's loss of omniscience and invisibility, our sense of the director's innocence decreases as his participation in his own film's drama brings out the manipulative character of film directing. He might be getting people in trouble, making their lives worse? 
+
+As a man from the city, educated, with money, and with a fancy car, he is treated with respect and politeness. He gets people to do things on his behalf that might be more in his self interest than theirs.
+
+The director is addicted to making movies, even if that means turning his own life into film. Is this passion constructive or destructive? Would we in the audience have such a useful and penetrating view of traditional Iranian village life, without his guidance?  We know the film is ultimately fictional and therefore harmless. Why would the Iranian government persecute a guy who is making Iranian filmmaking famous? A deep question.
+
+I see why the movie won awards and plan to see some others by this same director, Jafa Panahi.

@@ -1,0 +1,22 @@
+2025-02-27 11:42:35,239 - __main__ - INFO - [blog_visualizer.py:66] - Initialized BlogVisualizer for directory: test_blog
+2025-02-27 11:42:35,239 - __main__ - INFO - [blog_visualizer.py:78] - Directory structure verification passed
+2025-02-27 11:42:35,239 - __main__ - INFO - [blog_visualizer.py:358] - Starting comprehensive visualization generation
+2025-02-27 11:42:35,240 - __main__ - INFO - [blog_visualizer.py:126] - Loading metadata from 1 files
+2025-02-27 11:42:35,243 - __main__ - INFO - [blog_visualizer.py:118] - Data verification completed. Completeness score: 100.00%
+2025-02-27 11:42:35,727 - matplotlib.category - INFO - [category.py:223] - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-27 11:42:35,733 - matplotlib.category - INFO - [category.py:223] - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-27 11:42:36,067 - __main__ - INFO - [blog_visualizer.py:218] - Generated temporal visualizations
+2025-02-27 11:42:36,067 - __main__ - INFO - [blog_visualizer.py:161] - Loading post contents from 1 files
+2025-02-27 11:42:41,173 - __main__ - INFO - [blog_visualizer.py:276] - Generated content analysis visualizations
+2025-02-27 11:42:41,174 - __main__ - INFO - [blog_visualizer.py:126] - Loading metadata from 1 files
+2025-02-27 11:42:41,175 - __main__ - INFO - [blog_visualizer.py:118] - Data verification completed. Completeness score: 100.00%
+2025-02-27 11:42:43,021 - __main__ - INFO - [blog_visualizer.py:319] - Generated network visualizations
+2025-02-27 11:42:43,021 - __main__ - INFO - [blog_visualizer.py:126] - Loading metadata from 1 files
+2025-02-27 11:42:43,023 - __main__ - INFO - [blog_visualizer.py:118] - Data verification completed. Completeness score: 100.00%
+2025-02-27 11:42:43,023 - __main__ - INFO - [blog_visualizer.py:351] - Generated engagement visualizations
+2025-02-27 11:42:43,212 - __main__ - INFO - [blog_visualizer.py:414] - Generated summary visualization
+2025-02-27 11:42:43,212 - __main__ - INFO - [blog_visualizer.py:379] - Completed visualization generation in 7.97 seconds
+2025-02-27 11:42:43,212 - __main__ - INFO - [blog_visualizer.py:380] - Total posts processed: 3
+2025-02-27 11:42:43,212 - __main__ - INFO - [blog_visualizer.py:381] - Total words analyzed: 18
+2025-02-27 11:42:43,212 - __main__ - INFO - [blog_visualizer.py:382] - Total links processed: 3
+2025-02-27 11:42:43,212 - __main__ - INFO - [blog_visualizer.py:449] - Visualization generation completed successfully

@@ -1,0 +1,15 @@
+---
+title: Modes of Reasoning
+id: 2344858260497632595
+author: Kirby Urner
+published: 2024-02-02T16:47:00.000-08:00
+updated: 2024-02-02T17:07:09.392-08:00
+blog: coffee_shops
+tags: 
+---
+
+If you're like me, you admired the fictional Sherlock Holmes for his powers of deduction. Now we're being corrected by a teacher, Umberto Ecco, author of The Name of the Rose.Me: OK, so you want to be a stickler and split hairs: Sherlock was good at induction then. "Nope" says the teacher, "he was good at abduction more than anything".Abduction? What on earth...?The above video makes the differences clear:
+- induction gives us discoveries (which could be wrong)
+- deduction gives us valid claims if the premises are true
+- abduction gives us explanations (which could be wrong)
+You'll hear the philosopher in the video characterizing both induction and abduction as "invalid" which sounds too harsh to my ears, given the exigencies of existence. We might be better off saying "not bulletproof" instead.  Using a shield is a valid strategy; even if it proves insufficient, that doesn't invalidate having given it a try. To say "induction" is an invalid form of reasoning sounds like advising we should avoid use it. On the contrary, it's the best mode we've got in many instances.Sure, exceptions may get through our defenses, disrupting our narrative, and causing our theoretical edifice to crumble if the ad hoc patches won't save it. But that doesn't mean we were necessarily careless or thoughtless in creating said edifice. We did what we could, with the information available. Perhaps we could have dug for more info. Sometimes more due diligence is in order. Ah, the wisdom of hindsight. Sometimes we fool ourselves.Sherlock Holmes could have been wrong: Watson might've never have been in Afghanistan. But Sir Arthur Conan Doyle was in charge of the story and knew from the art of storytelling that making a character's signature superpower too unreliable might undermine the intended plotlines. Have Holmes be right to an uncanny degree. Endow him with an enviable track record.We're to credit Charles Sanders Peirce for vectoring "abduction" into our namespace, meaning he gave it momentum and spin. Peirce is usually categorized as one of the American pragmatists, along with John Dewey, Richard Rorty, William James and Buckminster Fuller.The term "abduction" playfully exudes a different meaning as well: it's what aliens do when they suddenly transport a human to a new vista (say their spaceship), and then (typically) restore said human to the pre-abduction environment, but now with memories of the sudden state change. To be abducted is like a sudden channel change, or like an imposed drug trip versus one sought out. Abduction comes as a surprise. The word "abduction" therefore has a hint of "unlikely explanation" given how tales of ETs are considered fringe in some circles.I taken the UFO-flavored meaning of abduction to more clearly explain a computer science notion of "decoration" and more specifically to expound upon Python's "decorator syntax". [Check it out](https://github.com/4dsolutions/Python5/blob/master/Abducted!.ipynb).

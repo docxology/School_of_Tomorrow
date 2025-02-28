@@ -1,0 +1,10 @@
+{
+  "id": "3800751136483187891",
+  "title": "Moving Targets",
+  "published": "2020-10-15T21:36:00.003-07:00",
+  "updated": "2020-10-17T21:21:48.885-07:00",
+  "content": "[](https://www.flickr.com/photos/kirbyurner/24190769850/in/album-72157664250599655/)\n\nI'm experimenting with high bandwidth self brainwashing techniques by tackling a series of difficult topics, but not ones for which I need a huge amount of prep.\u00a0 MIT chemistry, with a focus on orbitals, was a good starting point, given the Linus Pauling House is such a topic (search these blogs?).\u00a0\n\nBut my resume shows I'm more an applications developer than a chemist.\u00a0 Instead of chemical reactions, or nuclear reactors, shouldn't I be grokking React?\u00a0 You read my mind.\n\nHowever React hasn't been just sitting pretty, nor has Vue.\u00a0 Both these Javascript frameworks, favored by Web developers, have their successive versions.\u00a0 Hence the title of this blog post: moving targets.\n\nWhere to jump in?\u00a0\u00a0\n\nIn high bandwidth brainwashing, our approach is not so linear.\u00a0 Get a lot of dots on the sphere, even as you connect them.\u00a0 We can think about the \"best sequence\" on a second or third pass.\n\nPDX Code Guild was using JQuery when I started visiting.\u00a0 By now they're using Vue, with a Django back end (another moving target).\u00a0 Newbies should do well starting with Vue3, if jumping into web development through a Code School.",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "bizmo_diaries"
+}

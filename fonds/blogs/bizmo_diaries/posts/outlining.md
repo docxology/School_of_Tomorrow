@@ -1,0 +1,101 @@
+---
+title: Outlining
+id: 3791053922771279579
+author: Kirby Urner
+published: 2010-06-01T22:56:00.000-07:00
+updated: 2010-06-01T23:03:36.988-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+- GEOMETRY BASICS
+- Rhombic Dodecahedron (starting point)
+- inscribed cube
+- inscribed octahedron
+- Concept of Dual
+- cube - octahedron
+- cuboctahedron
+- Angle versus Frequency
+- 12-around-1: 10 * F * F + 2 (cuboctahedral numbers)
+- 12-around-0: 10 * F * F + 2 (icosahedral numbers)
+- virus morphology
+- geodesic domes and spheres
+- buckminsterfullerene
+- VE <--> Icosa (Jitterbug)
+- 25 Great Circles (VE)
+- 31 Great Circles (Icosa)
+- LCD triangles
+- Spherical Networks
+- vertex, face, mid-edge axes
+- poles as +2
+- 2*P*F*F + 2 (Coxeter paper)
+- Concentric Hierarchy
+- A & B modules
+- Mite, Sytes, Kites
+- Coupler (1)
+- Rhombic Dodecahedron and the Coupler
+- Coupler in XYZ
+- Rhombic Triacontahedron
+- toy: Ball of Whacks
+- T-E modules
+- RT volume 5
+- RT volume 7.5 (K)
+- RT volume 15 * root(2)
+- RT / RD relationship
+- Tetrahedron as Unit
+- 24 A modules
+- Unity-2
+- IVM (toothpicks)
+- two kinds of voids
+- 4 IVMs
+- Dimensions
+- 4D / 4D+
+- GEOGRAPHY BASICS
+- Time (space-time)
+- clocks
+- time-lines
+- time codes
+- adding into the future, subtracting into the past
+- time scales (geological vs. human vs. pico)
+- rates of change (ratios)
+- Space
+- Coordinate systems (including latitude/longitude, degrees)
+- Girding/griding the planet (GIS/GPS)
+- Mapping/addressing schemes
+- Length and number (ratios)
+- Area and volume
+- Objects
+- Shapes
+- spatial networks (polyhedra)
+- plane figures (triangles especially)
+- Objects organized in sets
+- types of number
+- operations with number types
+- permutations and combinations (DNA)
+- Objects organized in hierarchies
+- subtypes (rationals a subtype of real a subtype of complex)
+- geometric hierarchies
+- biological taxonomies
+- APIs: exposing objects to users
+- Fractions, Decimals, Percents (rational number type)
+- Polynomials (solving, graphing)
+- Vectors
+- adding and subtracting
+- scalar multiplication
+- dot and cross products
+- Matrices (translation, rotation, scaling)
+- Events
+- Communications
+- Symbol systems and codes
+- Energy
+- kinetic energy (units, dimensions)
+- heat energy and temperature (conversion constants)
+- Frequency (links to time)
+- color / optics (the spectrum, visible and not)
+- Rates of Change
+- velocity vectors, acceleration, slope, gradient
+- derivative
+- anti-derivative (integral)
+- Event-triggered objects
+- mouse clicks and key presses
+- Probability and Permutations

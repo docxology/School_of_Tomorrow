@@ -1,0 +1,11 @@
+---
+title: Nutty Gemstone
+id: 5971810580178407582
+author: Kirby Urner
+published: 2007-01-05T09:20:00.000-08:00
+updated: 2008-11-15T02:36:56.930-08:00
+blog: control_room
+tags: 
+---
+
+Here's the first in a [three paragraph essay](http://mathforum.org/kb/message.jspa?messageID=5468375&tstart=0) I posted to Math Forum yesterday:I bank on kids having an innate desire to test the waters, since even comfortable niches keep sliding out of reach  over the horizon going backwards.  By which I mean:  the push to grow up is relentless and not under any child's conscious control.  They outgrow clothes, teddy bears, monster chess, lullaby lyrics and so on, in quick succession.  Were it not for Sims and Sims 2, most teenagers would be too adult-minded to play with dolls anymore, but with 2nd Life, it's adults going back to doll play that's happening (so yes, there is play in adulthood).In case you're wondering, no, I'm not piloting any 2nd Life avatar.  However, I did spend hours in [ActiveWorlds](http://www.activeworlds.com/) (AW) closer to that time when Bonnie and I attended the same party in Santa Cruz, hosting Gerald of Java World, [of Fluidiom later](http://darwinathome.com/), other luminaries.Bonnie had already done, or was soon to complete [editor: review timeline], an AW High, with a library and art gallery linking into neighboring spaces.In the educational branch (AWE), we built on the science fiction assumption that ActiveWorlds used an IVM (octet truss) for referencing constructs, and [built a university](http://www.activeworlds.com/edu/index.asp),  to which we invited people for seminars, a Fuller School [dollhouse](http://images.google.com/images?hl=en&q=dollhouse&btnG=Google+Search&ie=UTF-8&oe=UTF-8&sa=N&tab=wi) (cute) or SimVille, a little Buckydom.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVNMqV1eOJUkDm8cjwm_IooQJJgvYzgyJPST-VPpIQKJglTcCFNmcN83VxfFFyRgTKH4ZQSO7yiYOg35aYYQlu5jsd0B0qCYwTWlWhpAHyPkKRMAoMoAiUBAEiKufZH1g7dkR/s1600-h/heron.jpg):: heron ::(photo by R. Sonnenfeld, NMT)

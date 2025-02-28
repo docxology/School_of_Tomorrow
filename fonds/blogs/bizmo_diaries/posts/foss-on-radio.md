@@ -1,0 +1,11 @@
+---
+title: FOSS on Radio
+id: 742563870383847244
+author: Kirby Urner
+published: 2008-07-25T14:50:00.000-07:00
+updated: 2008-07-25T18:04:50.992-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdflZZSn-GG5NTo-REz6E3CLAaQSo82PO31x3coNNnmAyomzV8JRh3vAfzkP59KgVZDX1xuwkXUWcpnzVQTr3_f_i5P7FWMprPF3zipVL38T46i3_eUBnUj1_jco9xGSlfn_zA/s1600-h/opbopensource.png)I tuned to KOPB 91.5 FM on the living room stereo for this one, booking the 9-10 AM time slot (it's a family room I share).The level of fluency was very impressive all around, with only a few balkings at buzz words, like when that one caller was exulting about his "Python hooks to Apache".The "green architecture" caller might want to check into [Google's Sketchup](http://sketchup.google.com/), one of those "secret sauce" free applications, in a mix with other free open source software (FOSS) ingredients.Much of the focus was on our rapidly [morphing demographics](http://mail.python.org/pipermail/edu-sig/2008-July/008677.html), the changing collective face of geekdom.  We're not losing core committers necessarily, but it's in the very nature of this business to encourage broad participation, to leverage those invaluable "network effects".Sometimes it's just a matter of networking with other talented individuals with a shared agenda, and mastering existing tools.Other times, you might get support from a [proprietary vendor](http://controlroom.blogspot.com/2007/07/python-in-control-room.html) looking for ways to give back, not by donating the whole kit and caboodle necessarily, but by slicing off a piece of cake -- often the same one taken in-house for enhancements.As one of the interviewees well explained, businesses will freely enhance tools, even in ways that help competitors, if this doesn't erode other strategic advantages they may have.  For example, Intel isn't in the operating system business, so supporting Linux is a way to stay focused on making chips, not wasting energy on investments peripheral to its own core area of expertise.

@@ -1,0 +1,11 @@
+---
+title: Change History
+id: 1678594063908446296
+author: Kirby Urner
+published: 2009-10-26T00:24:00.000-07:00
+updated: 2009-10-26T00:46:09.957-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+From Synergeo, hyperlinks added:--- In [synergeo@yahoogroups.com](mailto:synergeo@yahoogroups.com), "coyote_starship"  wrote:I've decided to excise my comments from the current discussion pages re Synergetics and Synergetics Coordinates.  They'll still be in the change history plus I've archived them here. Both articles still link to resources I've authored under external links.Having my name in the discussions might imply that I'm somehow actively involved in maintaining these pages whereas I'm more interested in distancing myself from them.I have [my own pages](http://www.grunch.net/synergetics/) on the web for which I'm responsible (they're somewhat in disrepair, lots of broken links, but at least they're mine and not so much a product of group think or another author).I'd be happy to see some good synopsis of Synergetics (Fuller's) in Wikipedia.  However the time has come to [pass the torch](http://controlroom.blogspot.com/2009/07/passing-torch.html) to a next generation of scholars and not hog the limelight.  Let's see if any competent Fuller commentators come out of the woodwork.Given academia has [dropped the ball](http://mybizmo.blogspot.com/2009/08/lightning-talk-re-mites.html), it could be that we'll be skipping another generation or two.  It's pretty easy to explain the [concentric hierarchy](http://mybizmo.blogspot.com/2006/10/news-article-satire.html) of polyhedra with its [tetravolumes](http://www.grunch.net/synergetics/volumes.html), mites, sytes and kites.  It's harder to explain the philosophy.  I've proposed American Transcendentalism as a category or pigeon hole, somewhat [influenced by Applewhite](http://mybizmo.blogspot.com/2005/02/ayatollah-of-tetrahedron.html) and his linking of Synergetics to [Poe's](http://www.flickr.com/photos/17157315@N00/4029004198/in/photostream/) Eureka.Kirby--- End forwarded message ---

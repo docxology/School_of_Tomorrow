@@ -1,0 +1,11 @@
+---
+title: Sociological Remarks
+id: 2480768914758626173
+author: Kirby Urner
+published: 2021-03-07T12:03:00.001-08:00
+updated: 2021-03-07T12:03:35.737-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYIvpFXETa41I86I-U18vYWkrSPHxVnL9-N7l0fe4csoPhFMbDZqqkqOCo6gBqinZeMc3wb31v_W-PPEcqheBJMd4Y5OmkG_bvbF2GfMYlxT-2AU7PRAO2wKrgr1eqpLp_3Myv/s750/Lil_Library.jpg)As the son of a city planner, I have to enjoy the dissonant zoning. Little Free Libraries are the epitome of middle class, whereas the Adult Bookstore is commercial strip mall zoning. Juxtaposing these two zonings sets off dissonant notes. Then of course the whole idea of "adult content" conflicts with tea-cuppy Victorian values, which provide the roots for what we consider anglophone middle class (piano, trivial pursuits, stable of "horses" i.e. Prius and Tesla).

@@ -1,0 +1,11 @@
+---
+title: Meeting @ Wired with Sam Lanahan
+id: 113907839888266135
+author: Kirby Urner
+published: 2006-02-04T10:41:00.000-08:00
+updated: 2006-11-15T11:44:15.233-08:00
+blog: control_room
+tags: 
+---
+
+Sam and I had a jovial and convivial meeting regarding his latest explorations in the geometry of Flexblox. We had coffee, plus he had a scone, me a Guinness ("the better breakfast beer").Then, using the Toshiba (my main machine, although KTU2 is behaving better lately) we oggled pavilions going up in Beijing for the 2008 Olympics. That [bird's nest](http://en.beijing2008.com/62/74/article211987462.shtml) and [bubble prism](http://en.beijing2008.com/81/74/article211987481.shtml) are breath-takingly bold.I also used the opportunity to share [some of my own strategy maps](http://mathforum.org/kb/thread.jspa?threadID=1330849&tstart=0), which center around an old theme in this blog: OSCON versus NCTM. I use these two conferences to typify two directions in math/engineering: towards a bright future of open source and tech savvy kids; towards a dreary and pedantic world of more of the same (and lots of clueless adults grousing about how dumb the kids seem to be these days).I'm sure NCTM doesn't appreciate being the symbol of all that is dreary, but just use your own powers of research and track down how many references to Medal of Freedom winner R. Buckminster Fuller you find in the last 20 years of "OK with NCTM" text books. How much synergetics-friendly mathematics?The NCTM even changed [its own logo](http://web.archive.org/web/19981212031257/http://www.nctm.org/) to make it less likely to remind us of an octet truss.Don't tell me these Stalinesque cover-ups of huge swatches of history only take place in totalitarian countries. Take any large enough bureaucracy of gutless enough wonders, and watch your edgy little design science curriculum turn into some "safe enough for everyone" pablum.Fortunately, our nation is still free enough to not get all marching orders from pedantic and narrow-minded bureaucrats. We have many ways to bypass curricula which don't treat our students with the dignity and respect they deserve e.g. by short changing them regarding their heritage as Americans. We have the Internet. We have television. We have music. The future looks bright.

@@ -1,0 +1,11 @@
+---
+title: Air America
+id: 5082026033799935084
+author: Kirby Urner
+published: 2007-11-14T10:22:00.002-08:00
+updated: 2007-11-15T11:17:40.325-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+Sometimes I tune in Air America KPOJ on Razz's radio, when I don't have teens playing iPods through my [Belkin cassette solution](http://worldgame.blogspot.com/2007/04/taxes.html).  This morning [Thom Hartmann](http://www.thomhartmann.com/) was interviewing a Willamette Week guy about how school choice might have backfired, leading to more, not less, school segregation in Portland.After listening to the banter for awhile, I was very tempted to phone in as [a troll](http://listserv.uark.edu/scripts/wa.exe?A2=ind0711&L=physoc&T=0&X=5239AC595CA7152886&Y=urnerk%40QWEST.NET&P=1736) and blast through the bull with some highly spun reverse racism:  if you want a better school, get those [bratty](http://mybizmo.blogspot.com/2007/10/wanderers-20071024.html), spoiled, disrespectful, lazy white kids out.  Don't give me that white liberal crap in which whites are somehow God's gift, and if you don't have enough of 'em, well your school must be some kind of worthless hell hole.  On the contrary... You get the picture.I'm reminded of [Ed Applewhite's](http://www.grunch.net/synergetics/applewhites.html) cocktail party ice breaker post 911:  yeah, we should increase security at airports, but let black people just walk on through, as they're just too kind and gentle to ever think of pulling off a stunt like that.  Of course that sounded [racist](http://www.grunch.net/synergetics/terms.html#race) (and it was), but at least it wasn't the usual liberal poopka.  Refreshing.I make similar remarks at parties I suppose, talking about how it's not really my job to care what USAers think about anything.  I've got serious work to attend to, after all.  Why waste time on an idiocracy that thinks it's God's gift?  I feel sorry for politicians who have to pander to that crowd.  I don't.  They're [turkeys](http://controlroom.blogspot.com/2007/08/which-hollywood-star-for-president.html).

@@ -1,0 +1,11 @@
+---
+title: From Rivendale
+id: 640756697517411841
+author: Kirby Urner
+published: 2009-03-28T07:04:00.000-07:00
+updated: 2009-06-14T12:35:14.392-07:00
+blog: control_room
+tags: 
+---
+
+The title is an allusion to a plenary session introduction to Open Spaces yesterday.  Our speaker said he bounces around among a lot of computer conferences, many of them FOSS related, and Pycon is the most like Rivendale in Lord of the Rings.  He feels like he's discovered an elvyn capital.  Of course geeks ate it up.This same guy referred to the Hyatt lobby as a "fragatorium" i.e. that cliche first or second level any designer of a first person shooter comes up with -- we laughed about that too).Our benevolent dictator for life (BDFL) Guido van Rossum, is [giving a keynote](http://pycon.blip.tv/file/1947431/). "I'd like to just stroke your egos and be done with it, but since you've asked me to keep giving a keynote...."He's making jokes about Twitter, which has changed things.  There's a paparazzi aspect to it all, especially if you're an MVP people like to yak about.Python is 19 years old this year.  "She can vote, drive a car... she can't drink yet which is OK with me" -- he's stealing from Larry Wall's talk about Perl (he alludes to Larry.  He's looking forward to another 19 years.  "We face our demons and come out with a better language, a better community").He's really interested in the anthropology of what's going on, as Python Nation becomes increasingly global, spontaneously self-organizes in various ways.  Pycon is a big part of it.His parting words were of reassurance:  Python is in good shape, isn't in any danger of going away, is just getting stronger, thanks to this community of ours.  In that context, he's becoming more retiring, less likely to travel.  The nuts and bolts of community leadership are not his exclusive concern (despite his exalted title).  We're very fortunate to have such an authentic leader and language designer in one package.  [Guido](http://www.flickr.com/photos/17157315@N00/3391552510/) is one of Python's best features.Package distribution, dependencies and revision control remain key issues.  There's general consensus that we're moving out of Subversion to something else, either Mercurial or Bazaar most likely.  The decision between those two may be reached in the next few days.

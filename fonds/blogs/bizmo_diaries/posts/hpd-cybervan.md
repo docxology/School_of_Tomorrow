@@ -1,0 +1,11 @@
+---
+title: HPD Cybervan
+id: 111285251392906725
+author: Kirby Urner
+published: 2005-04-06T22:33:00.000-07:00
+updated: 2006-11-15T11:43:43.302-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+So we had a big powwow at West Precinct on Tuesday -- a much bigger turnout than usual. George had us brainstorm around getting use from the RedHat 9 lab. I sat there with the Toshiba trying to remember how Jerritt set it up, but could only get access to Coffee People across the street (weak signal). I've forgotten the details (though I still have his network diagram -- which doesn't include passwords, so I'm not going to be sysadmining any time soon (which is for the best -- better HPD should sysadmin, vs. just driving taxi)).The grand finale was a tour of the new cybervan out back, just arrived, pure white, no decals. It's a 5th wheel, no power of its own, except a propane generator (right?) for the electronics, which include 3 TV consoles in three sections (back, middle, front -- side door into middle). Plus there's a Windows box using the giant satellite dish up top. One of the cops was playing with that, apparently getting signal. George waved towards some pickup in the lot that's supposed to haul this thing. It must be strong, because this thing obviously weighs quite a bit.The current plan is to have the 5th wheel available in the parking lot for a summer camp experience -- kids in groups of 44 or so, with a snack station and rotating among workstations. The 5th wheel might be one of the workstations (the lab another, a couple other rooms talked about). As for how it gets deployed to more remote locations, that remains to be seen. The Washington County Fair that happens every year is a no-brainer, but the point is to keep it busy all year. That means more content.How the open source angle plays out remains to be seen. George is pretty committed to Linux from a finances point of view (thinking of kids wanting to own their own computers), but that's not to overly discriminate against everyone else. The cybervan serves wireless, so if a non-Windows notebook shows up and wants to patch in, that shouldn't be a problem, provided proper authorization is obtained.I took the Max to and from, hauling the Toshiba Satellite A60 and reading my various computer magazines.

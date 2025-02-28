@@ -1,0 +1,10 @@
+{
+  "id": "1639903473702440375",
+  "title": "sFactor (Svol / Evol)",
+  "published": "2015-06-25T12:32:00.001-07:00",
+  "updated": "2015-06-25T12:42:57.955-07:00",
+  "content": "Talking geometry, with S and E two tetrahedral slivers, close in volume but Svol > Evol, such that Svol / Evol > 1.\u00a0 sFactor = 1.080363026951 (rounded).\n\nScaling the Icosahedron by sFactor gives the corresponding Cuboctahedron volume, as if Jitterbugged.\n\nScaling twice more gives the Icosahedron said Cuboctahedron was \"skew to\" i.e. a different relationship from Jitterbugging, faces flush but only partially overlapping.\n\nGoing the other way, the 2.5 (exact) cubocta becomes the 2.918 (rounded) icosa, likewise inscribed in (eight faces flush with) the volume 4 octa.\n\nFig. 988.00 Polyhedral Evolution: S Quanta Module:\nComparisons of skew polyhedra. \n\nApplied again, and we Jitterbug.\u00a0 18.51 -> 20.\n\nTwo to twist, one to leap, something like that (\"applications of sFactor\" being the multiplied verb).\n\nFor more details:\u00a0 [click here](http://controlroom.blogspot.com/2015/06/math-avoidance.html)",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "coffee_shops"
+}

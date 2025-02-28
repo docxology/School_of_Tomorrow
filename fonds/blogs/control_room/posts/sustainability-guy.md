@@ -1,0 +1,15 @@
+---
+title: Sustainability Guy
+id: 7007656227728597582
+author: Kirby Urner
+published: 2008-08-19T21:34:00.000-07:00
+updated: 2008-08-20T12:12:38.363-07:00
+blog: control_room
+tags: 
+---
+
+Jeffry Goebel regaled us with three stories in chronological sequence, from his [impressive consulting career](http://aboutlistening.com/):
+- turning a dying resort ranch in Hawaii into a profitable enterprise, solving labor disputes; 
+- working with the Confederated Tribes of Colville on implementing a shared holistic goal; 
+- improving crop yields by 78% in a part of Mali, West Africa, without using expensive chemical fertilizers, also helping end a pattern of violent conflict
+The theme in each case was sustainability. Jeff has a strong sense of [energy-based economics](http://controlroom.blogspot.com/2007/04/rebooting-mathematics.html), understands agriculture as packaging energy, getting market conversion to cover production costs and then some.He came prepared with hand-outs and 3x5 cards, as he had some questions for us, wanted answers in writing.One question he asked was what we thought about his presentation and what we learned from it.  Wanderers were both admiring and somewhat frustrated in not having a bigger window, more insights into his techniques.I could see right away he's good at taking fear out of the equations.  He makes it easy for people to identify and unify around a holistic goal,  then work as a team, overcoming self-limiting beliefs in many cases.[Keith](http://controlroom.blogspot.com/2008/08/wanderers-200885.html) asked if he used the same vocabulary with each group (good question).  No, like the tribal groups translated their goal-making process into their own favorite symbols.  Recovering lost heritage was at the core of their plan, as culture itself is what they strove to sustain.Like many management theorists and practitioners I've met, Jeff has his mix of metaphysical diagrams, a logical structure, ways of mirroring collaborative processes.  I was reminded of some of the eXtreme Programming ([XP](http://controlroom.blogspot.com/2008/01/polymorphic-xp.html)) and [Alternatives to Violence](http://worldgame.blogspot.com/2008/03/peace-teams.html) (AVP) trainings I've attended.You might think one could just bottle and sell the theory part, and more scenarios would become  sustainable as a result, as tools for effective collaboration spread outward.However a lot of the results stem from experience and integrity, less easily bottled, the courage to teach 1000 head of cattle to respond to a whistle, surrounded by skeptical cowboys wondering what a guy in shorts, claiming to be from Dallas of all places, could ever teach them.Another question was closer to Art Kohn's "[what shall I do?](http://mybizmo.blogspot.com/2006/01/what-shall-i-do.html)"  I hope we were helpful.Good seeing [Lynne](http://mybizmo.blogspot.com/2007/04/phi-guy.html) again, and [Milt](http://controlroom.blogspot.com/2006/08/wanderers-2006830.html).

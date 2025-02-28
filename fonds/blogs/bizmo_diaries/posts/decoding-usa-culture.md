@@ -1,0 +1,11 @@
+---
+title: Decoding USA Culture
+id: 114739383344389138
+author: Kirby Urner
+published: 2006-05-11T18:31:00.000-07:00
+updated: 2010-12-07T16:32:56.577-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](http://photos1.blogger.com/blogger/1134/545/1600/bush_worry.jpg)Many of our contemporaries overseas won't get why the above cover art was historically resonant with so many USA-based grownups who were, as children, sophisticated connoisseurs of [Mad Magazine](http://en.wikipedia.org/wiki/Mad_Magazine) e.g. of [Don Martin's famous strips](http://en.wikipedia.org/wiki/Don_Martin_(cartoonist)), or of [Spy vs. Spy](http://www.leedberg.com/mad/spies/spies.html).[](http://photos1.blogger.com/blogger/1134/545/1600/madcover.jpg)One esoteric cultural theory is that Alfred E. Neuman, slacker mascot of the smartie brats, grew up to become the cult figure [Bob Dobbs](http://en.wikipedia.org/wiki/Church_of_the_SubGenius), founder of a certain [all-American church](http://www.grunch.net/synergetics/quakes.html).[](http://photos1.blogger.com/blogger/1134/545/1600/bobbdobs.jpg)An even more esoteric theory:  that Bob Dobbs bears a family resemblance to Bob Schieffer of CBS News.  Perhaps this is only [a coincidence](http://www.cbsnews.com/stories/2006/05/04/entertainment/main1585646.shtml).[](http://photos1.blogger.com/blogger/1134/545/1600/bobschieffer.0.jpg)

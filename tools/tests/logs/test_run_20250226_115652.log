@@ -1,0 +1,3 @@
+2025-02-26 11:56:52,278 - __main__ - INFO - Starting test suite execution
+2025-02-26 11:56:52,278 - __main__ - INFO - Running unit tests...
+2025-02-26 11:56:52,288 - __main__ - ERROR - Unit tests failed

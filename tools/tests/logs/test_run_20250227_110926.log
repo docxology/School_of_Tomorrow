@@ -1,0 +1,207 @@
+2025-02-27 11:09:26,899 - __main__ - INFO - Starting test suite execution
+2025-02-27 11:09:26,900 - __main__ - INFO - Running unit tests...
+2025-02-27 11:09:26,914 - __main__ - INFO - Running file system analysis tests...
+2025-02-27 11:09:26,915 - test_file_system_analysis - INFO - 
+Starting test: test_directory_statistics
+2025-02-27 11:09:26,915 - test_file_system_analysis - INFO - Testing directory statistics...
+2025-02-27 11:09:27,299 - test_file_system_analysis - INFO - Analyzing directory: tools
+2025-02-27 11:09:27,299 - test_file_system_analysis - DEBUG - Stats for tools: {'file_count': 358, 'dir_count': 19, 'total_size': 48952849, 'extensions': {'.txt': 98, '.md': 95, '.py': 25, '.sh': 4, '.json': 31, '.yaml': 37, '.log': 68}, 'newest_file': {'path': '/home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/logs/file_system_test_20250227_110926.log', 'modified': datetime.datetime(2025, 2, 27, 11, 9, 26, 914802)}}
+2025-02-27 11:09:27,300 - test_file_system_analysis - INFO - 
+Starting test: test_file_type_analysis
+2025-02-27 11:09:27,300 - test_file_system_analysis - INFO - Testing file type analysis...
+2025-02-27 11:09:33,991 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a flow mapping
+  in "<unicode string>", line 1, column 1:
+    {"title": "", ""{ title }"": "", ... 
+    ^
+expected ',' or '}', but got '{'
+  in "<unicode string>", line 1, column 17:
+    {"title": "", ""{ title }"": "", "type": "", "ta ... 
+                    ^
+Problematic frontmatter:
+
+title:
+  "{ title }": 
+type: 
+tags: 
+created:
+  "{ date }": 
+updated:
+  "{ date }": 
+status: active
+location: 
+coordinates: 
+period: 
+related: 
+aliases:
+
+2025-02-27 11:09:34,005 - test_file_system_analysis - INFO - Analyzed MIME type: text/markdown (Count: 6457)
+2025-02-27 11:09:34,005 - test_file_system_analysis - INFO - Analyzed MIME type: application/json (Count: 6208)
+2025-02-27 11:09:34,006 - test_file_system_analysis - INFO - Analyzed MIME type: application/xml (Count: 260)
+2025-02-27 11:09:34,006 - test_file_system_analysis - INFO - Analyzed MIME type: application/octet-stream (Count: 110)
+2025-02-27 11:09:34,006 - test_file_system_analysis - INFO - Analyzed MIME type: text/plain (Count: 102)
+2025-02-27 11:09:34,006 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-python (Count: 25)
+2025-02-27 11:09:34,006 - test_file_system_analysis - INFO - Analyzed MIME type: text/x-sh (Count: 5)
+2025-02-27 11:09:34,016 - test_file_system_analysis - INFO - 
+Starting test: test_tree_generation
+2025-02-27 11:09:34,017 - test_file_system_analysis - INFO - Testing tree generation...
+2025-02-27 11:09:34,125 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a flow mapping
+  in "<unicode string>", line 1, column 1:
+    {"title": "", ""{ title }"": "", ... 
+    ^
+expected ',' or '}', but got '{'
+  in "<unicode string>", line 1, column 17:
+    {"title": "", ""{ title }"": "", "type": "", "ta ... 
+                    ^
+Problematic frontmatter:
+
+title:
+  "{ title }": 
+type: 
+tags: 
+created:
+  "{ date }": 
+updated:
+  "{ date }": 
+status: active
+location: 
+coordinates: 
+period: 
+related: 
+aliases:
+
+2025-02-27 11:09:34,143 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:09:34,204 - test_file_system_analysis - INFO - Generated text tree with depth 2
+2025-02-27 11:09:34,295 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a flow mapping
+  in "<unicode string>", line 1, column 1:
+    {"title": "", ""{ title }"": "", ... 
+    ^
+expected ',' or '}', but got '{'
+  in "<unicode string>", line 1, column 17:
+    {"title": "", ""{ title }"": "", "type": "", "ta ... 
+                    ^
+Problematic frontmatter:
+
+title:
+  "{ title }": 
+type: 
+tags: 
+created:
+  "{ date }": 
+updated:
+  "{ date }": 
+status: active
+location: 
+coordinates: 
+period: 
+related: 
+aliases:
+
+2025-02-27 11:09:34,313 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:09:34,622 - test_file_system_analysis - INFO - Generated text tree with depth 3
+2025-02-27 11:09:34,716 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a flow mapping
+  in "<unicode string>", line 1, column 1:
+    {"title": "", ""{ title }"": "", ... 
+    ^
+expected ',' or '}', but got '{'
+  in "<unicode string>", line 1, column 17:
+    {"title": "", ""{ title }"": "", "type": "", "ta ... 
+                    ^
+Problematic frontmatter:
+
+title:
+  "{ title }": 
+type: 
+tags: 
+created:
+  "{ date }": 
+updated:
+  "{ date }": 
+status: active
+location: 
+coordinates: 
+period: 
+related: 
+aliases:
+
+2025-02-27 11:09:39,918 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:09:40,238 - test_file_system_analysis - INFO - Generated text tree with depth 5
+2025-02-27 11:09:40,350 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a flow mapping
+  in "<unicode string>", line 1, column 1:
+    {"title": "", ""{ title }"": "", ... 
+    ^
+expected ',' or '}', but got '{'
+  in "<unicode string>", line 1, column 17:
+    {"title": "", ""{ title }"": "", "type": "", "ta ... 
+                    ^
+Problematic frontmatter:
+
+title:
+  "{ title }": 
+type: 
+tags: 
+created:
+  "{ date }": 
+updated:
+  "{ date }": 
+status: active
+location: 
+coordinates: 
+period: 
+related: 
+aliases:
+
+2025-02-27 11:09:45,833 - file_systems.enhanced_file_analysis - WARNING - Error reading markdown file /home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md: [Errno 21] Is a directory: '/home/trim/Documents/GitHub/School_of_Tomorrow/fonds/mailing_lists.md'
+2025-02-27 11:09:46,162 - test_file_system_analysis - INFO - Generated markdown tree
+2025-02-27 11:09:46,163 - test_file_system_analysis - INFO - 
+Starting test: test_visualization_data_generation
+2025-02-27 11:09:46,163 - test_file_system_analysis - INFO - Testing visualization data generation...
+2025-02-27 11:09:54,219 - file_systems.enhanced_file_analysis - WARNING - YAML parsing error in frontmatter: while parsing a flow mapping
+  in "<unicode string>", line 1, column 1:
+    {"title": "", ""{ title }"": "", ... 
+    ^
+expected ',' or '}', but got '{'
+  in "<unicode string>", line 1, column 17:
+    {"title": "", ""{ title }"": "", "type": "", "ta ... 
+                    ^
+Problematic frontmatter:
+
+title:
+  "{ title }": 
+type: 
+tags: 
+created:
+  "{ date }": 
+updated:
+  "{ date }": 
+status: active
+location: 
+coordinates: 
+period: 
+related: 
+aliases:
+
+2025-02-27 11:09:54,252 - test_file_system_analysis - INFO - Generated visualization data: /home/trim/Documents/GitHub/School_of_Tomorrow/tools/tests/test_outputs/visualization_data_20250227_110926.json
+2025-02-27 11:09:54,260 - test_file_system_analysis - INFO - 
+Test suite completed
+2025-02-27 11:09:54,261 - __main__ - INFO - Starting index generation...
+2025-02-27 11:09:54,261 - __main__ - INFO - Scanning vault directory...
+2025-02-27 11:10:01,215 - __main__ - INFO - Generating index files...
+2025-02-27 11:10:01,221 - __main__ - INFO - Validating generated files...
+2025-02-27 11:10:01,221 - __main__ - WARNING - Failed to generate index for books
+2025-02-27 11:10:01,221 - __main__ - INFO - Successfully generated index for mathematics
+2025-02-27 11:10:01,222 - __main__ - INFO - Successfully generated index for formalisms
+2025-02-27 11:10:01,222 - __main__ - INFO - Successfully generated index for people
+2025-02-27 11:10:01,222 - __main__ - INFO - Successfully generated index for places
+2025-02-27 11:10:01,222 - __main__ - INFO - Successfully generated index for concepts
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for guides
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for meta
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for systems
+2025-02-27 11:10:01,222 - __main__ - INFO - Successfully generated index for documentation
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for prompts
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for workflows
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for schemas
+2025-02-27 11:10:01,222 - __main__ - WARNING - Failed to generate index for streams
+2025-02-27 11:10:01,223 - __main__ - WARNING - Failed to generate index for repos
+2025-02-27 11:10:01,223 - __main__ - WARNING - Failed to generate index for examples
+2025-02-27 11:10:01,223 - __main__ - WARNING - Failed to generate index for templates
+2025-02-27 11:10:01,232 - __main__ - INFO - Test suite completed successfully

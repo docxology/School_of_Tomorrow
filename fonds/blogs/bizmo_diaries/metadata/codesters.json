@@ -1,0 +1,10 @@
+{
+  "id": "1766356925226122751",
+  "title": "Codesters",
+  "published": "2019-06-05T12:37:00.002-07:00",
+  "updated": "2019-06-05T12:37:19.738-07:00",
+  "content": "sprites = [ ]def select(sel):\u00a0\u00a0\u00a0 for s in sprites:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 s.selected = False\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0 for s in sprites:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 if s.sprite is sel:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 s.selected = Trueclass Triangle:\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0 def __init__(self, x=0,y=0, color='blue'):\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.color = color\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.x = x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.y = y\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.selected = False\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 sprites.append(self)\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0 def draw_me(self):\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 # sprite = codesters.Triangle(x, y, size, \"color\")\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.sprite = codesters.Triangle(self.x, self.y, 100, self.color)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.sprite.event_click(select)\u00a0\u00a0\u00a0 def move_me(self):\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 self.sprite.glide_to(x, y)\u00a0\u00a0\u00a0 tri_one = Triangle()tri_one.draw_me()tri_two = Triangle(-100,100,'red')tri_two.draw_me()tri_three = Triangle(-50, 50, 'yellow')tri_three.draw_me()tri_four = Triangle(100, -100, \"orange\")tri_four.draw_me()def move_it():\u00a0\u00a0\u00a0 global x, y\u00a0\u00a0\u00a0 x = stage.click_x()\u00a0\u00a0\u00a0 y = stage.click_y()\u00a0\u00a0\u00a0 for s in sprites:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 if s.selected:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 s.move_me()stage.event_click(move_it)",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "bizmo_diaries"
+}

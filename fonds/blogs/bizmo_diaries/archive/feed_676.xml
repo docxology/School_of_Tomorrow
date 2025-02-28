@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:blogger='http://schemas.google.com/blogger/2008' xmlns:georss='http://www.georss.org/georss' xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr='http://purl.org/syndication/thread/1.0'><id>tag:blogger.com,1999:blog-10416211</id><updated>2025-02-27T06:25:58.543-08:00</updated><category term="clojure python REPL ide"/><title type='text'>BizMo Diaries</title><subtitle type='html'>On the road with Global Data</subtitle><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://mybizmo.blogspot.com/feeds/posts/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default?start-index=676'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/'/><link rel='hub' href='http://pubsubhubbub.appspot.com/'/><link rel='previous' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default?start-index=651&amp;max-results=25'/><link rel='next' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default?start-index=701&amp;max-results=25'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><generator version='7.00' uri='http://www.blogger.com'>Blogger</generator><openSearch:totalResults>1905</openSearch:totalResults><openSearch:startIndex>676</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry><id>tag:blogger.com,1999:blog-10416211.post-4492451047028108087</id><published>2016-05-11T00:33:00.000-07:00</published><updated>2016-05-11T06:40:38.994-07:00</updated><title type='text'>More Adventures</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;a href=&quot;http://mybizmo.blogspot.com/2016/05/recent-reading.html&quot;&gt;I&#39;ve continued bouncing around&lt;/a&gt; in &lt;i&gt;Adventures of Ideas&lt;/i&gt;.&amp;nbsp; Yes, Whitehead does mention the Quakers, in a tip of the hat sort of way, in the context of finding no improvements in Protestant flavored&amp;nbsp; Christianity over what came in the first four hundred years.&amp;nbsp; After that: variations on a theme.&lt;br /&gt;
+&lt;br /&gt;
+Coming from Whitehead, suggesting all the pieces were in place that early is not a put down, but rather he&#39;s recognizing the mark of something enduring, with lots of inertia.&lt;br /&gt;
+&lt;br /&gt;
+The book&#39;s namespace is somewhat unfamiliar, however his use cases mount up quickly and pretty soon we know what he means by a &quot;society&quot;, which could be a society of cells, even those of a tree.&lt;br /&gt;
+&lt;br /&gt;
+Having person-hood is one more attribute of only some societies, in Whitehead&#39;s namespace.&amp;nbsp; Then he uses &quot;occasions&quot; to mean what we might also call &quot;events&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Not unlike Heidegger, he dwells a lot on our relationship to something called &quot;the future&quot;, vis-a-vis what we might call the &quot;unchanging past&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Clearly occasions are invitations / openings wherein to help shape what&#39;s coming into being, within the constraints of an economy or ecosystem.&lt;br /&gt;
+&lt;br /&gt;
+We bring the future to ourselves through our own agency to some degree, from whence comes our notion of freedom, bounded by what might be called our confinement, possibly pictured as some crystalline network of rules.&lt;br /&gt;
+&lt;br /&gt;
+These rules &quot;control&quot; (govern) what occasions might occur, versus other events that might only be imagined.&lt;br /&gt;
+&lt;br /&gt;
+If we consider these rules &quot;exceptionless&quot; then perhaps we could say their &quot;inertia&quot; is very great (without upper limit?).&lt;br /&gt;
+&lt;br /&gt;
+We&#39;re underlining the &quot;gravitas of gravity&quot; in reminding ourselves of how exceptionlessly it applies.&amp;nbsp; The term &quot;gravity&quot; as used here is more as a proxy for &quot;all that holds sway&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Our freedom presses outward against this network of constraints.&lt;br /&gt;
+&lt;br /&gt;
+These are more my thoughts, as inspired by reading &lt;i&gt;Adventures of Ideas&lt;/i&gt;, than an attempt at a close paraphrase.&lt;br /&gt;
+&lt;br /&gt;
+&quot;Society&quot; and &quot;occasion&quot; were two of his words I got to thinking about, as we vectored back to PDX from STL on that commercial Alaska Airlines flight, operated by Skywest.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/4492451047028108087'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/4492451047028108087'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/05/more-adventures.html' title='More Adventures'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-5125913212771264506</id><published>2016-05-08T07:25:00.002-07:00</published><updated>2016-06-12T07:35:53.676-07:00</updated><title type='text'>Recent Reading</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+&lt;a href=&quot;http://i783.photobucket.com/albums/yy111/danshep8/Civ_5_Hex_World/hex_world.png&quot; imageanchor=&quot;1&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://i783.photobucket.com/albums/yy111/danshep8/Civ_5_Hex_World/hex_world.png&quot; height=&quot;300&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;i&gt;&amp;nbsp;:: &lt;a href=&quot;http://forums.civfanatics.com/archive/index.php/t-354175.html&quot;&gt;link&lt;/a&gt; for more discussion ::&lt;/i&gt;&lt;/div&gt;
+&lt;br /&gt;
+I&#39;ve recently started &lt;i&gt;Adventures of Ideas&lt;/i&gt; by Alfred North Whitehead.&amp;nbsp; I hadn&#39;t realize the arc he traces revolves around slavery and its abolition, the movement towards freedom for all people.&amp;nbsp; He equates this trend with the advance of civilization itself, and our moral tensions, described as &quot;emotions&quot; as having to do with cognitive dissonance.&lt;br /&gt;
+&lt;br /&gt;
+The philosophers were advocating freedom, yet common sense was saying we had no way to run a large enterprise without slaves.&lt;br /&gt;
+&lt;br /&gt;
+Given my 21st century sensibilities, putting an &quot;e&quot; in front, for &quot;electronic&quot;, as in &quot;email&quot; and &quot;eCommerce&quot;, puts a spin on &quot;emotion&quot; as &quot;electronic motion&quot;, which is accurate.&amp;nbsp; Alfred as uses &quot;nerving&quot; as a verb, which I find interesting:&lt;br /&gt;
+&lt;blockquote class=&quot;tr_bq&quot;&gt;
+At any moment the smouldering unhappiness of mankind may seize on some such program and initiate a period of rapid change guided by the light of its doctrines.&amp;nbsp; In this way, the conception of the dignity of human nature was quietly energizing in the minds of Roman officials, producing somewhat better government and &lt;i&gt;nerving&lt;/i&gt; men like Marcus Aurelius to rise to the height of their appointed task.&amp;nbsp; It was was worthy moral force, but the society had been inoculated against its revolutionary application. [emphasis added, from pg. 15 of First Free Press soft cover edition, 1967]&lt;/blockquote&gt;
+Philosophers these days are called &quot;programmers&quot; but more in terms of theater / TV, converging with &quot;programmers&quot; of computers.&amp;nbsp; The computer, like the TV, is a mirror.&amp;nbsp; The TV is a window into the computer (e.g. Netflix) which reflects back the collective psyche of the various cults (subcultures).&lt;br /&gt;
+&lt;br /&gt;
+Philosophers consciously re-vector various word-meanings, putting them on arcs or trajectories.&amp;nbsp; We do this by applying &quot;&lt;a href=&quot;http://mybizmo.blogspot.com/2006/08/name-collisions.html&quot;&gt;spin&lt;/a&gt;&quot;, hence the term &quot;spin doctor&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Slavery is always sneaking back into the picture though.&amp;nbsp; England may have abolished the institution throughout its global empire, but then that empire decayed.&amp;nbsp; Automation because the capitalist industrialists answer to human labor.&amp;nbsp; Machines do not unionize or protest ill-treatment (they simply break down for lack of proper care).&lt;br /&gt;
+&lt;br /&gt;
+Ending slavery as a global institution is concomitant with increasing automation, but then comes the new problem of what humans are supposed to do with their powers.&lt;br /&gt;
+&lt;br /&gt;
+Some subcultures have been more successful than others in channeling the power or Real Intelligence (versus Artificial Intelligence), serving as a model for others.&lt;br /&gt;
+&lt;br /&gt;
+With the rise of the TV-computer as a kind of shared collective consciousness, we have the ability to nerve ourselves to continue with the advance of civilization.&amp;nbsp; Spin doctors i.e. programmers may be found on both sides.&amp;nbsp; Some want to bring slavery back, or increase its staying power, whereas others expose their agenda and apply counter-intelligence, taking us further towards freedom.&lt;br /&gt;
+&lt;br /&gt;
+I don&#39;t know to what extent Alfred will be mentioning Quakers by name.&amp;nbsp; They&#39;ve been at the forefront of wanting freedom for all people, having abolished slavery among themselves and helping with the Underground Railroad.&lt;br /&gt;
+&lt;br /&gt;
+Slave-owning North Americans were uncomfortable with the cognitive dissonance these Quakers engendered, considered them terrifying.&amp;nbsp; Even if Quakers preached non-violence themselves, they might trigger revolutionary movements such as mentioned above.&amp;nbsp; Quakers were pressured to quit the scene and move west, the standard solution for relieving tensions in North America.&amp;nbsp; Their values spread across the mid-west, bringing the seeds of civilization to new settlements.&lt;br /&gt;
+&lt;br /&gt;
+So what will Quaker TV look like?&amp;nbsp; &lt;a href=&quot;http://mybizmo.blogspot.com/2014/12/convergent-friends.html&quot;&gt;Stay tuned&lt;/a&gt;.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5125913212771264506'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5125913212771264506'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/05/recent-reading.html' title='Recent Reading'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://i783.photobucket.com/albums/yy111/danshep8/Civ_5_Hex_World/th_hex_world.png" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-2838936152132992202</id><published>2016-05-02T22:00:00.000-07:00</published><updated>2016-05-03T06:28:35.936-07:00</updated><title type='text'>Monday Night Circus</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TKhgl38EPPg?rel=0&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;br /&gt;
+My objective here was to throw something together and upload it to Youtube in a very short time, with minimum fuss and bother.&amp;nbsp; Rapid Product Development.&amp;nbsp; I was happy to see the HDTV pressed into service.&amp;nbsp; Well done.&lt;br /&gt;
+&lt;br /&gt;
+Yes, I shot too much of the carpet, but then ever since the &lt;a href=&quot;http://www.pdxcarpet.com/&quot;&gt;carpet replacement&lt;/a&gt; at PDX International, Portland has had an eye for carpets.&lt;br /&gt;
+&lt;br /&gt;
+I found a royalty-free audio track (&lt;i&gt;Retro 90s Arcade Machine&lt;/i&gt;) on &lt;a href=&quot;http://www.freestockmusic.com/&quot;&gt;&lt;i&gt;Free Stock Music&lt;/i&gt;&lt;/a&gt; and, using&amp;nbsp; &lt;i&gt;Camtasia&lt;/i&gt; with transition effects, had the video uploaded to Youtube, ready for sharing, within just 50 minutes, which time included socializing with peers.&amp;nbsp; I added the annotations in post production, via the Youtube UI (user interface).&lt;br /&gt;
+&lt;br /&gt;
+Sheri wondered if &lt;a href=&quot;http://controlroom.blogspot.com/2016/04/code-school-gift-shop.html&quot;&gt;&lt;i&gt;Shoop&lt;/i&gt; source code&lt;/a&gt; was in English, given it&#39;s natively Finnish.&amp;nbsp; It is, however I found some translation modules &lt;a href=&quot;https://github.com/shoopio/shoop/blob/master/shoop/xtheme/locale/ja_JP/LC_MESSAGES/django.po&quot;&gt;allowing i18n&lt;/a&gt; (&lt;a href=&quot;http://worldgame.blogspot.com/2014/07/i18n.html&quot;&gt;internationalization&lt;/a&gt;).&amp;nbsp; We were discussing hacking on eCommerce applications within the &lt;i&gt;Code School&lt;/i&gt; ecosystem.&amp;nbsp; Given &amp;lt;guild /&amp;gt; is Python-centric, I&#39;d been researching some of the Django offerings.&lt;br /&gt;
+&lt;br /&gt;
+&lt;guild&gt;My study topic this evening, again &lt;a href=&quot;http://controlroom.blogspot.com/2016/04/work-study-notes.html&quot;&gt;thanks to Ted Kosan&lt;/a&gt;, is the Semantic Web, which we might define, depending on ontology, as built atop XML, although that&#39;s more an implementation detail than a requirement. &lt;/guild&gt;&lt;br /&gt;
+&lt;br /&gt;
+RDF is certainly URI-based (from the HTTP protocol) whereas HTML / XHTML integrates the necessary tagging elements (the markup).&lt;br /&gt;
+&lt;br /&gt;
+One of the most &lt;a href=&quot;http://worldgame.blogspot.com/2004/09/futurism-ii.html&quot;&gt;ambitious AI plans&lt;/a&gt; built atop the Semantic Web is hosted &lt;a href=&quot;https://en.wikipedia.org/wiki/Cyc&quot;&gt;by Cycorp&lt;/a&gt;, the company Ted points to as most aligned with &lt;a href=&quot;https://groups.google.com/d/msg/mathfuture/4dfVanOG36Y/KnWrDjVwKwAJ&quot;&gt;his dreams on Mathfuture&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;guild&gt;XML is not going anywhere, however obtaining any universal agreement on how data should be represented is perhaps an over-ambitious attempt to duplicate what human languages do already, in our post-Babel age.&lt;/guild&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;guild&gt;The &quot;cell-silicon hybrid&quot; is what features in my writings, and refers not to something in some far off science fiction future, but to an evolving synergy we enjoy today.&amp;nbsp;&amp;nbsp;&lt;/guild&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;guild&gt;Cells do get tired with age and there&#39;s this fantasy of shifting the entire burden of thought onto relatively long-lasting silicon.&amp;nbsp; However, nature has found a way to keep giving us fresh neural nets, well positioned to construct new models from scratch.&amp;nbsp; They&#39;re called children, and tend to grow up to assume some serious responsibilities, until they in turn get tired.&amp;nbsp; And so on.&amp;nbsp; Works well.&amp;nbsp; Silicon is so far not as agile.&lt;/guild&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/2838936152132992202'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/2838936152132992202'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/05/monday-night.html' title='Monday Night Circus'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/TKhgl38EPPg/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-7716402358635881884</id><published>2016-04-28T21:34:00.001-07:00</published><updated>2016-05-01T09:34:58.238-07:00</updated><title type='text'>Lightfoots Visit</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/26702220575/in/dateposted-public/&quot; title=&quot;Wilma, Howard and Bill Lightfoot&quot;&gt;&lt;img alt=&quot;Wilma, Howard and Bill Lightfoot&quot; height=&quot;375&quot; src=&quot;https://farm2.staticflickr.com/1545/26702220575_e0740dc0d1.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: center;&quot; trbidi=&quot;on&quot;&gt;
+&lt;i&gt;:: wilma, howard and bill lightfoot ::&lt;/i&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+My relatives bounced down on Amtrak for lunch in the Pearl district.  I met them at Union Station.&lt;br /&gt;
+&lt;br /&gt;
+They only had about two hours in Portland all told, but then riding the &lt;i&gt;Coast Starlight&lt;/i&gt; both ways was part of the adventure.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://mybizmo.blogspot.com/2008/03/on-road.html&quot;&gt;Bill&lt;/a&gt; pioneered the day trip by train experience &lt;a href=&quot;http://worldgame.blogspot.com/2016/03/twists-and-turns.html&quot;&gt;a few weeks ago&lt;/a&gt; and had a fun time.&amp;nbsp; Why not share the experience with Howard and Wilma?&lt;br /&gt;
+&lt;br /&gt;
+I started the day with panel discussions, on the relationship &lt;a href=&quot;https://youtu.be/C1zMUjHOLr4&quot;&gt;twixt Stats and Data Science&lt;/a&gt;, and another &lt;a href=&quot;https://youtu.be/czLI3oLDe8M&quot;&gt;on Deep Learning&lt;/a&gt;, so-called.&amp;nbsp; A lot of terminology has developed, unsupervised by any overarching Philosophy or even Theology department.&amp;nbsp; We&#39;re not doing trivium / quadrivium anymore.&lt;br /&gt;
+&lt;br /&gt;
+Later, when back in my bat cave, I got to fiddling with &lt;a href=&quot;https://www.linkedin.com/in/4dsolutions&quot;&gt;my LinkedIn profile&lt;/a&gt; some more.&amp;nbsp; We wade into social media at different times, with some people just keeping the door open with a kind of stub resume.&amp;nbsp; The Ux pressures for something more, which is fine, LinkedIn has work to do, a real job.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;m continuing to &lt;a href=&quot;https://groups.google.com/d/msg/mathfuture/eCn2ZS5lry4/Qql8KyImKgAJ&quot;&gt;explore the implications&lt;/a&gt; of a &quot;&lt;a href=&quot;http://controlroom.blogspot.com/2016/04/a-pep-talk-of-my-own.html&quot;&gt;lambda calc track&lt;/a&gt;&quot; through Oregon high schools, consulting with &lt;a href=&quot;http://controlroom.blogspot.com/2016/04/work-study-notes.html&quot;&gt;Ted Kosan&lt;/a&gt;, Joseph Austin and others.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;m liking this website on &lt;a href=&quot;http://docs.quantifiedcode.com/python-anti-patterns/&quot;&gt;&lt;i&gt;Anti-patterns in Python&lt;/i&gt;&lt;/a&gt;, which Jurgis Pralgauskis kindly shared &lt;a href=&quot;https://mail.python.org/pipermail/edu-sig/2016-April/date.html&quot;&gt;on edu-sig&lt;/a&gt;.&amp;nbsp; It&#39;s not like I&#39;ve had time to speed read it all, just it&#39;s a decent stab at a thorny topic.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/7716402358635881884'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/7716402358635881884'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/lightfoots-visit.html' title='Lightfoots Visit'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-4376198354525061078</id><published>2016-04-26T16:24:00.003-07:00</published><updated>2016-04-26T16:45:35.879-07:00</updated><title type='text'>Another Prince</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/26218031100/in/dateposted-public/&quot; title=&quot;At Powell&#39;s on Hawthorne&quot;&gt;&lt;img alt=&quot;At Powell&#39;s on Hawthorne&quot; height=&quot;500&quot; src=&quot;https://farm2.staticflickr.com/1693/26218031100_7cc65be95f.jpg&quot; width=&quot;375&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+Some will say, at the end of my little story, that something had caught my eye and got filed away unconsciously.&amp;nbsp; Others may say I&#39;m lying, but then stories of this type are common enough.&lt;br /&gt;
+&lt;br /&gt;
+I was relaxing on the weekend, plowing through some &lt;a href=&quot;https://youtu.be/1CLSwfh53rs&quot;&gt;stand up comedy&lt;/a&gt; Youtubes, when I came across one by a semi-famous movie-maker, &lt;a href=&quot;https://youtu.be/8LhcParuzpc&quot;&gt;recounting his recent interactions&lt;/a&gt; with Prince.&lt;br /&gt;
+&lt;br /&gt;
+That tipped me into watching &lt;a href=&quot;https://youtu.be/dRNYiFxR2Ps&quot;&gt;a documentary on Prince&lt;/a&gt;; I let Youtube just keep playing.&amp;nbsp; I became quite interested and started seeking out specific tracks the talking heads had been raving about.&lt;br /&gt;
+&lt;br /&gt;
+As you might gather from the above, I was coming from outside the Prince sphere, peripheral to the scene.&lt;br /&gt;
+&lt;br /&gt;
+Portland has its &lt;a href=&quot;http://pdxpipeline.com/2015/06/02/pedalpalooza-event-schedule-portland/&quot;&gt;Pedalpalooza Festival&lt;/a&gt;, bicycle-oriented, and one ritual ride has long celebrated both &lt;a href=&quot;http://mybizmo.blogspot.com/2016/01/for-david-bowie.html&quot;&gt;David Bowie&lt;/a&gt; and Prince as the two major avatars (long story).&lt;br /&gt;
+&lt;br /&gt;
+Lindsey (not in Portland) wondered how that would go this year, I&#39;d expect a large turnout.&amp;nbsp; So yes, some of my closest friends are Prince fans.&amp;nbsp; I&#39;d told her my synchronicity story, Deb too.&lt;br /&gt;
+&lt;br /&gt;
+What&#39;s outstanding about this story, from my point of view, is only after at least three hours of spinning in the Prince vortex did I finally realize the whole of pop culture had been doing that for some days.&lt;br /&gt;
+&lt;br /&gt;
+Prince had died &lt;a href=&quot;http://www.bbc.com/news/world-us-canada-36106778&quot;&gt;just days before&lt;/a&gt;.&amp;nbsp; I hadn&#39;t known that.&lt;br /&gt;
+&lt;br /&gt;
+I just got caught up in the spirit of the times.&lt;br /&gt;
+&lt;br /&gt;
+Having watched Ingmar Bergman&#39;s movie &lt;a href=&quot;http://controlroom.blogspot.com/2016/01/the-seventh-seal-movie-review.html&quot;&gt;&lt;i&gt;The Seventh Seal&lt;/i&gt;&lt;/a&gt; with Lindsey, I wrote her back that what I&#39;d pieced together is Prince was playing chess against death -- hardly a Sherlock Holmes statement, as we&#39;re all doing that (some more consciously than others, at any given time).&lt;i&gt;&amp;nbsp; &lt;/i&gt;&lt;br /&gt;
+&lt;br /&gt;
+My friend David Koski expressed the pride Minnesotans take in their Prince, an all around good guy. He was loved by nearly all women it seemed, which made some men jealous -- that was David&#39;s take.&lt;br /&gt;
+&lt;br /&gt;
+Having just immersed myself in the story, I agreed he was phenomenal.&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/4376198354525061078'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/4376198354525061078'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/another-prince.html' title='Another Prince'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-798439831843415470</id><published>2016-04-24T10:35:00.004-07:00</published><updated>2016-04-24T10:51:06.482-07:00</updated><title type='text'>The Room (movie review)</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&quot;The Room&quot; is just Room in the five year old&#39;s vocabulary, no definite article required.&amp;nbsp; Bucky Fuller used Universe the same way, saying &quot;Universe&quot; (as in &quot;Room&quot;) not &quot;the universe&quot; (a more lowercase 3rd person view, not as place-based).&lt;br /&gt;
+&lt;br /&gt;
+We&#39;re treated to &quot;the omniscient camera&quot; in its purest form in this well-crafted film.&amp;nbsp; &quot;Camera&quot; itself means &quot;Room&quot; in Italian.&amp;nbsp; Our &quot;room&quot; is the camera&#39;s &quot;space of events&quot; which includes hearing the child&#39;s thoughts.&lt;br /&gt;
+&lt;br /&gt;
+We hear his little voice narrating, a somewhat metaphysical patter, as he sorts out Universe (Room), reviews his cosmology.&lt;br /&gt;
+&lt;br /&gt;
+There&#39;s so much &quot;place&quot; outside Room that &quot;time is spread thin&quot; like too little peanut butter spread thinly on bread, and with everyone therefore stretched (stressed, pulled) to &quot;hurry up&quot; to cover all that Place.&lt;br /&gt;
+&lt;br /&gt;
+In Room, Place was held constant so Time was less stressed.&amp;nbsp; Next week and next year still ran together as time was more immaterial. &lt;br /&gt;
+&lt;br /&gt;
+Given our privileged Angelic viewpoint, we see far more than any one character.&amp;nbsp; We appreciate how really intelligent that back seat police officer is, putting a picture together of what crime to phone in.&lt;br /&gt;
+&lt;br /&gt;
+Throwing a little kid on the ground and stalking off is a great way of calling attention to oneself.&amp;nbsp; Old Nick was a man of zero skills in the HR sense of the word.&amp;nbsp; He needed a room of his own.&amp;nbsp; The fictional Dexter, likewise a psychopath, was far more dangerous to others.&lt;br /&gt;
+&lt;br /&gt;
+I immediately appreciated the parallels between &lt;i&gt;The Room&lt;/i&gt; and &lt;i&gt;10 Cloverfield Lane&lt;/i&gt;.&amp;nbsp; Both are claustrophobic, about prisoners of a seemingly all-knowing patriarch.&amp;nbsp; Both feature the omniscient camera and its Angelic point of view.&lt;br /&gt;
+&lt;br /&gt;
+The newscaster&#39;s questions don&#39;t really penetrate to the heart of what we&#39;ve seen, and we know the newscast viewers will probably never understand.&amp;nbsp;&amp;nbsp; The newscaster wonders if the mom had been selfish in not getting her baby out earlier, not appreciating how Old Nick could have tossed a baby off a bridge with a heavy weight in the bag.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+The mom took a calculated risk with a highly optimized plan that worked out.&amp;nbsp; She&#39;s right up there with those &lt;i&gt;Covert Affairs&lt;/i&gt; characters, in engineering their ingenious escape.&amp;nbsp; She&#39;s not just a good mom, she&#39;s a highly professional mom.&lt;br /&gt;
+&lt;br /&gt;
+What we don&#39;t see with our omniscient camera is what Old Nick was up to between tossing the kid down and heading back to the shed in his truck.&amp;nbsp; Given his temper, he could only have been thinking murderous and vengeful thoughts, and the mom was certainly expecting retaliation, but hoping the police would come first. &lt;br /&gt;
+&lt;br /&gt;
+We&#39;re tracking with the police at that point in the story, are in the back seat with the kid, his Guardian Angel (angle) and then see a mother running towards us from the darkness, but not actually from the shed.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+We know Old Nick is still alive, but that&#39;s about all we know.&amp;nbsp; The police sirens may have had a deterring effect.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+So actually we&#39;re not omniscient at all, just have a unique angle, but with no ability to give testimony.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/798439831843415470'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/798439831843415470'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/the-room-movie-review.html' title='The Room (movie review)'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-8330129713384938847</id><published>2016-04-20T22:29:00.001-07:00</published><updated>2016-04-20T22:37:58.138-07:00</updated><title type='text'>Shape Arithmetic</title><content type='html'>David Koski was reminding me tonight of the happy mnemonics twixt ancient Greek results and our Synergetics concentric hierarchy. &lt;br /&gt;
+&lt;br /&gt;
+A cone inscribed in a cylinder of same base and height has 1/3rd its volume. &lt;br /&gt;
+&lt;br /&gt;
+A cone having half the cylinder&#39;s height, its tip at the equator line, has 1/6th its volume.&lt;br /&gt;
+&lt;br /&gt;
+Lets define two cylinders, one twice the height of the other, called &quot;oil barrel&quot; and &quot;tuna can&quot; respectively. &lt;br /&gt;
+&lt;br /&gt;
+Two tuna cans stacked up = one oil barrel. &lt;br /&gt;
+&lt;br /&gt;
+Then we have the following volumes table:&lt;br /&gt;
+&lt;br /&gt;
+Oil Barrel: &amp;nbsp;6&lt;br /&gt;
+Tuna Can: 3&lt;br /&gt;
+&lt;br /&gt;
+Cone in Oil Barrel: 2&lt;br /&gt;
+Cone in Tuna Can: 1&lt;br /&gt;
+&lt;br /&gt;
+Sphere in Oil Barrel: 4&lt;br /&gt;
+Two Tuna Can Cones: 2&lt;br /&gt;
+&lt;br /&gt;
+Oil Barrel - Two Tuna Can Cones (hourglass looking) = 6 - 2 = 4 = Sphere in Oil Barrel. [&lt;a href=&quot;https://www.math.hmc.edu/funfacts/ffiles/10003.3.shtml&quot;&gt;link&lt;/a&gt;]&lt;br /&gt;
+&lt;br /&gt;
+Also: &amp;nbsp;Cone in Oil Barrel + Sphere in Oil Barrel = Oil Barrel (2 + 4 = 6). [&lt;a href=&quot;https://www.mathsisfun.com/geometry/cone-sphere-cylinder.html&quot;&gt;link&lt;/a&gt;]&lt;br /&gt;
+&lt;br /&gt;
+We could make the following identifications and size accordingly:&lt;br /&gt;
+&lt;br /&gt;
+Oil Barrel = Rhombic Dodecahedron (6)&lt;br /&gt;
+Tuna Cone = Tetrahedron (1)&lt;br /&gt;
+Sphere = Octahedron (4)&lt;br /&gt;
+&lt;br /&gt;
+We could pour sand from objects on the left into corresponding objects on the right.</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8330129713384938847'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8330129713384938847'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/shape-arithmetic.html' title='Shape Arithmetic'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-9217523513821199163</id><published>2016-04-14T23:14:00.004-07:00</published><updated>2016-04-24T12:10:30.893-07:00</updated><title type='text'>Hominid Diaries</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/26412210136/in/dateposted-public/&quot; title=&quot;DSCF4421&quot;&gt;&lt;img alt=&quot;DSCF4421&quot; height=&quot;500&quot; src=&quot;https://farm2.staticflickr.com/1617/26412210136_91e33a4860.jpg&quot; width=&quot;375&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+Ian Tattersall sees a pendulum swinging in paleo-anthropology.&amp;nbsp; Darwin was peculiarly distant from the actual human fossil record so far assembled in his own time.&amp;nbsp; A new and challenging specimen apparently made it into his hands.&amp;nbsp; He wrote about it in a letter, but it&#39;s nowhere mentioned in &lt;i&gt;Descent of Man&lt;/i&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Perhaps we forget how radical his thinking seemed at the time?&amp;nbsp; He was unwilling to stick his neck out much further, in an area so sensitive?&amp;nbsp; Old bones went to anatomists for examination, not to this new kind of dirt-digging, Galapagos-visiting geek.&lt;br /&gt;
+&lt;br /&gt;
+The pendulum went towards an excess of invented species after that, multiplying without much rhyme or reason in the creative writings of many a chronologist.&lt;br /&gt;
+&lt;br /&gt;
+Then swung back, to where we had maybe only the one track, with three successive phases (Sapiens the third). &lt;br /&gt;
+&lt;br /&gt;
+The picture these days is settling down to something in between and more complex.&amp;nbsp; Many lineages of hominids come and go.&amp;nbsp; Nature always seems to have a next hominid up her sleeve, starting at least three million years ago.&lt;br /&gt;
+&lt;br /&gt;
+The success of the Sapiens, in terms of sheer numbers, but also degree of tool use, is of course entirely unprecedented on Planet Earth and should not be used as our guide to the past.&amp;nbsp; In geological time, this phenomenon has just started, and marks the start of a new chapter.&lt;br /&gt;
+&lt;br /&gt;
+Let us not project ourselves and our patterns too forcefully upon our ancestors, was Tattersall&#39;s cautionary message.&amp;nbsp; Projecting back to Darwin&#39;s time is hard enough, and for then we have decipherable symbols (actual history we can dig up).&lt;br /&gt;
+&lt;br /&gt;
+He doesn&#39;t think we have evidence of symbolic processing until 40K to 70K years ago, even though the physical architecture of Homo Sapiens had been in place well before that.&lt;br /&gt;
+&lt;br /&gt;
+The hardware was there, but Humanity 1.0, the software, came later, mesh-networking we Sapiens into a platform, a noosphere, a cloud.&amp;nbsp; By 40K years ago, Southeast Asia had its symbol-using Sapiens.&amp;nbsp; They were starting to show up everywhere by then.&lt;br /&gt;
+&lt;br /&gt;
+Turnover in tools, language being a tool, does not correspond to speciation.&amp;nbsp; A new species will continue making a previous specie&#39;s tools.&amp;nbsp; Dramatic changes in tool-making techniques do occur in the archeological record, but not in some simple correspondence with the type of hominid behind them.&lt;br /&gt;
+&lt;br /&gt;
+Neanderthals made beautiful tools, but were they thinking with symbols?&amp;nbsp; That&#39;s dubious.&amp;nbsp; Which is not to say they were unsuccessful or unworthy in any way.&lt;br /&gt;
+&lt;br /&gt;
+We could say the jury is still out on whether symbolic reasoning was such a great innovation, if species longevity is to be the measure.&lt;br /&gt;
+&lt;br /&gt;
+Anyway, why be so judgemental?&amp;nbsp; Is it because &lt;i&gt;Genesis&lt;/i&gt; has God seeing things as pretty good at the end of each day, that we presume Judgement is the whole point, of what&#39;s to be the Last Day as well?&lt;br /&gt;
+&lt;br /&gt;
+Could having Good Judgement be more a matter of having Good Taste?&amp;nbsp; Around the time of Noah (The Flood) we&#39;re to understand God was getting a bad aftertaste from Humanity and had decided to snuff it out.&amp;nbsp; His sense of taste had been offended.&amp;nbsp; We weren&#39;t the right kind of hominid.&lt;br /&gt;
+&lt;br /&gt;
+God&#39;s ambivalence towards Creation seems on display in Noah&#39;s day, with the rainbow an eternal promise to not give up again.&amp;nbsp; Next time He&#39;d try an even more drastic measure, and send his only Son (the Christian story line) -- this lecture was in a church after all, but this is just me thinking, i.e. I&#39;m not relaying Tattersall&#39;s rap at this point.&lt;br /&gt;
+&lt;br /&gt;
+In any case, we needn&#39;t look for language and Sapiens to emerge in the same moment.&amp;nbsp; Any theory premised on the notion that such a moment must have occurred (suddenly, a new species of language-wielding hominid burst upon the scene) is perhaps over-indulging in science fiction, with an emphasis on the fictional part.&lt;br /&gt;
+&lt;br /&gt;
+On the contrary, cultural ontogenesis seems to have no simple basis in physiology, though we may trace the arc of brain growth to trading away the protection of the trees, for the cooperative hunting and gathering model of the open savanna.&amp;nbsp; But that&#39;s not the saga of just one lineage, plus its closer to an hypothesis than an explanation of anything.&lt;br /&gt;
+&lt;br /&gt;
+When did fire come on the scene and wouldn&#39;t that have added to brain power, by some natural selection process?&lt;br /&gt;
+&lt;br /&gt;
+Nobody knows for sure, as the fossil record is mostly silent about the use of fire.&lt;br /&gt;
+&lt;br /&gt;
+During the excellent catered dinner afterwards (salmon!), in the church basement, I asked him about the new finds in the deep crevices and limestone caves of Southern Africa.&amp;nbsp; He was well aware of the findings and praised the finder for adopting a more open source approach, more reminiscent of what &quot;real science&quot; used to mean (versus sitting on one&#39;s stash for cash).&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/9217523513821199163'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/9217523513821199163'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/hominid-diaries.html' title='Hominid Diaries'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-8154708417993017936</id><published>2016-04-11T17:14:00.002-07:00</published><updated>2016-04-11T17:14:22.398-07:00</updated><title type='text'>Code School in Portland</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;object height=&quot;375&quot; width=&quot;500&quot;&gt; &lt;param name=&quot;flashvars&quot; value=&quot;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157664250599655%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157664250599655%2F&amp;set_id=72157664250599655&amp;jump_to=&quot;&gt;&lt;/param&gt;
+&lt;param name=&quot;movie&quot; value=&quot;https://www.flickr.com/apps/slideshow/show.swf?v=261948265&quot;&gt;&lt;/param&gt;
+&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;
+&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;https://www.flickr.com/apps/slideshow/show.swf?v=261948265&quot; allowFullScreen=&quot;true&quot; flashvars=&quot;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157664250599655%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157664250599655%2F&amp;set_id=72157664250599655&amp;jump_to=&quot; width=&quot;500&quot; height=&quot;375&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+&lt;i&gt;:: near Tillikum Crossing :: &lt;/i&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8154708417993017936'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8154708417993017936'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/code-school-in-portland.html' title='Code School in Portland'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-7422093535989787735</id><published>2016-04-09T13:30:00.002-07:00</published><updated>2016-04-09T17:46:30.023-07:00</updated><title type='text'>Back to Work</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;br /&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/26060980430/in/dateposted-public/&quot; title=&quot;Pygame Working&quot;&gt;&lt;img alt=&quot;Pygame Working&quot; height=&quot;313&quot; src=&quot;https://farm2.staticflickr.com/1656/26060980430_7b0262ee86.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+:: &lt;i&gt;running a Pygame module &lt;a href=&quot;http://www.farrellpolymath.com/&quot;&gt;by Peter Farrell&lt;/a&gt;&lt;/i&gt; ::&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+Should Oregon&#39;s high school math teachers have professional development opportunities through higher education institutions? &amp;nbsp;They do already, to some degree. &amp;nbsp;But to what extent do institutions of higher ed take advantage of their business incubator programs?&lt;br /&gt;
+&lt;br /&gt;
+If you dig down, you may find a code school or two in your town, staffed by avid geeks who have competence and confidence in the software world. &amp;nbsp;This is the new world we&#39;re always rubbing up against in any high school mathematics class, and I&#39;d argue in language arts too, as the Document Object Model (DOM) is what if not a model of a document?&lt;br /&gt;
+&lt;br /&gt;
+Don&#39;t grammar, rhetoric and logic overlap with such a thing? &amp;nbsp;Do we still teach any music? &amp;nbsp;Video editing? &amp;nbsp;Part of learning to code is learning to communicate about technical subjects, and that means making videos, not just writing PDFs or web pages.&lt;br /&gt;
+&lt;br /&gt;
+The code school curriculum could counter boredom and perhaps complacency with some unfamiliar mathematics, to go with the novelty of a computer language taking over for the calculator (obsolete).&lt;br /&gt;
+&lt;br /&gt;
+As long as the content is new, why not go all the way in some cases and use this program to introduce not just new ways of teaching the same old stuff, but new ways of teaching some new (GNU) stuff as well?&lt;br /&gt;
+&lt;br /&gt;
+My list of &lt;a href=&quot;http://mybizmo.blogspot.com/2006/09/focal-points.html&quot;&gt;semi-novel topics&lt;/a&gt; includes:&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;a Group Theory spin (established mathematics, centuries old, but atypical in a high school setting);&lt;/li&gt;
+&lt;li&gt;Fractals, the Mandelbrot Set in particular (also a familiar topic but not in high school unless the Complex Plane is well covered); &lt;/li&gt;
+&lt;li&gt;the Concentric Hierarchy of Polyhedrons and &lt;a href=&quot;http://worldgame.blogspot.com/2006/10/nclb-polyhedron-memo.html&quot;&gt;their modular decomposition&lt;/a&gt;, along with Quadray Coordinates (completely alien, part of what I call Martian Math). &amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+Giving code schools some GNU Math to share keeps them branded and outside the academic mainstream, by design. &amp;nbsp;They will be complementing more than competing with other professional development courses, in sticking with alternative content.&lt;br /&gt;
+&lt;br /&gt;
+The laptop fan is on, given all the CPU-intensive compiling that&#39;s going on. &amp;nbsp;First comes compiling the compiler, the latest gcc, with Fortran enabled (gfortran). &amp;nbsp;Then comes another attempt to get Pygame working. &lt;br /&gt;
+&lt;br /&gt;
+Homebrew warns against trying to work against an Anaconda install of Python; it&#39;s the framework Python 2.7 it wants to build against. &amp;nbsp;But then I saw &lt;a href=&quot;http://stackoverflow.com/questions/30743194/pygame-installation-mac-os-x&quot;&gt;a promising formula&lt;/a&gt; on StackOverFlow... etc.&amp;nbsp; OK, got it working.&lt;br /&gt;
+&lt;br /&gt;
+Relatively painless was the &lt;a href=&quot;http://mathpiper.org/&quot;&gt;install of MathPiper&lt;/a&gt;, a Java application.&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;br /&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/26335320355/in/dateposted-public/&quot; title=&quot;NCLB Polynomial in LaTeX&quot;&gt;&lt;img alt=&quot;NCLB Polynomial in LaTeX&quot; height=&quot;403&quot; src=&quot;https://farm2.staticflickr.com/1528/26335320355_c5d57f9908.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;br /&gt;
+&lt;i&gt;:: solving polynomial and displaying in LaTeX&amp;nbsp;&lt;/i&gt;&lt;br /&gt;
+&lt;i&gt;using MathPiper by Ted Kosan&amp;nbsp;&lt;/i&gt;&lt;br /&gt;
+&lt;i&gt;(click for larger view in Flickr) ::
+&lt;/i&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/7422093535989787735'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/7422093535989787735'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/back-to-work.html' title='Back to Work'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-8424540502383598919</id><published>2016-04-01T11:43:00.002-07:00</published><updated>2016-04-04T23:03:02.917-07:00</updated><title type='text'>Road Trips</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+Carol is on the move again, having completed the Left Coast circuit.&amp;nbsp; She and Ellen Thomas are tackling the Right Coast now, trending inward (I&#39;m actually not sure of their itinerary, just glad we&#39;ve got our &lt;i&gt;Verizon&lt;/i&gt;, with lots of coverage).&lt;br /&gt;
+&lt;br /&gt;
+Why it&#39;s called &quot;left&quot; is highly conventional as from the inside of the Earth, as in &lt;i&gt;The Mapparium&lt;/i&gt; (&lt;a href=&quot;http://controlroom.blogspot.com/2005/02/mapparium.html&quot;&gt;a walk-in globe, one of the first&lt;/a&gt;), we could see &lt;a href=&quot;http://controlroom.blogspot.com/2006/02/back-from-catalina.html&quot;&gt;the Catalina side&lt;/a&gt; as &quot;right&quot;.&lt;br /&gt;
+&lt;br /&gt;
+This &quot;looking out from the center&quot; is the &quot;Geoscope&quot; idea, an extension of planetarium technology but as much for sharing biospheric data as stars capes.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;m prepping for a trek north that in olden days would have taken long days by horse and buggy.&amp;nbsp; The motorcar option &lt;a href=&quot;http://worldgame.blogspot.com/2016/04/americana.html&quot;&gt;really opened up&lt;/a&gt; under Eisenhower, which followed Roosevelt (FDR) with public works galore.&lt;br /&gt;
+&lt;br /&gt;
+We may have a hard time remembering those days (I have to fake it, born in 1958, soon after the dam at the Dalles opened).&amp;nbsp; The war toy biz is still impressive, in terms of energy expense, but that&#39;s closed off to most viewers.&amp;nbsp; Heavy construction is still in evidence but how much is devoted to infrastructure?&lt;br /&gt;
+&lt;br /&gt;
+The Bureau of Public Roads (semi-fictional) took care of a lot of deferred freeway maintenance under the economic stimulus administered by the Obama administration, not unlike one of FDR&#39;s attempts to galvanize through public funding.&lt;br /&gt;
+&lt;br /&gt;
+I drove long stretches of I-70 appreciating the upgrades going on, lane repaving etc.&amp;nbsp; If we&#39;re to continue with truck-based transport, however fueled.&amp;nbsp; That was during a St. Louis visit (cite of car rental pickup).&amp;nbsp; We were attending a Distance Education conference (USDLA).&lt;br /&gt;
+&lt;br /&gt;
+By &quot;prepping&quot; I mean taking some down time, hiking and taking in some instructive videos.&amp;nbsp; That would include the &lt;i&gt;Poverty, Inc.&lt;/i&gt; thing.&amp;nbsp; Walker came by, moving up our Friday tea date, and we shared some of the same observations.&amp;nbsp; We thought the Flossis would like it.&lt;br /&gt;
+&lt;br /&gt;
+The film is an open letter to Bono almost, exposing the evils of dumping in the guise of aid.&amp;nbsp; The thing is, it&#39;s complicated, as the film itself points out:&amp;nbsp; not all NGOs, or &lt;a href=&quot;http://foreignpolicy.com/2009/10/13/what-is-a-gongo/&quot;&gt;even Gongos&lt;/a&gt;, are created equal.&amp;nbsp; Just like in the private sector.&amp;nbsp; Businesses differ in how they do business.&lt;br /&gt;
+&lt;br /&gt;
+Hey, don&#39;t let me overwhelm you with my vast experience.&amp;nbsp; I&#39;m just another guy in a time tube.&amp;nbsp; However I have seen quite a bit, thanks to an itinerant family and a career that gained me entre into quite a few lines of work, including cardiology and land use planning.&amp;nbsp; I continue to be interested in maps and visualization systems (especially for global / planetary data).&lt;br /&gt;
+&lt;br /&gt;
+I got to sit in on interesting meetings in my day, sometimes opening my mouth (expected), other times not so much.&amp;nbsp; I&#39;m fine with sitting in the back row at Wanderers meetings, for example.&amp;nbsp; Other times I get to present.&lt;br /&gt;
+&lt;br /&gt;
+Those protesting the dumping do have alternatives in mind, which sound very Reaganomic in sentiment, so I can&#39;t imagine much objection from the horse owning crowd.&amp;nbsp; Being one&#39;s own boss in a company of one&#39;s peers is a dream come true in capitalist heaven.&lt;br /&gt;
+&lt;br /&gt;
+Haitian businessmen want to build, sell and install their own homemade solar powered street lights, which are not inferior.&lt;br /&gt;
+&lt;br /&gt;
+NGOs come along with tons of free stuff and avalanche an economy with excess, keeping prices higher at home (desirable) and getting the write-off.&amp;nbsp; Call it a subsidy, call it whatever, it&#39;s the reverse of an import tariff, it&#39;s selectively wiping out small competitors.&lt;br /&gt;
+&lt;br /&gt;
+The film&#39;s recipe for success is not one most NGOs would object to:&amp;nbsp; the rule of rules.&amp;nbsp; The flip side of that is simplicity called &quot;corruption&quot; but that&#39;s where an anthropologist&#39;s work begins.&amp;nbsp; Those with no organized network are easier prey, and herding is a natural instinct.&lt;br /&gt;
+&lt;br /&gt;
+Making a movie to express a viewpoint is a coherent strategy, well done by &lt;a href=&quot;http://worldgame.blogspot.com/2015/06/yes-men-are-revolting-movie-review.html&quot;&gt;&lt;i&gt;Yes Men&lt;/i&gt;&lt;/a&gt;.&amp;nbsp; The documentary is an appropriate vehicle for dueling views.&lt;br /&gt;
+&lt;br /&gt;
+Youtubes come with varying budgets and production values, but people who have something to say just need inexpensive recording equipment to have input.&amp;nbsp; Lindsey and Jordan proved this locally with some excellent footage.&lt;br /&gt;
+&lt;br /&gt;
+Writing up how it actually works (descriptive) is often more valuable than imposing a new rule system.&amp;nbsp; Adjustments in something already working, however &quot;corrupt&quot;, is often sensible and, as important, doable.&lt;br /&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;a href=&quot;http://worldgame.blogspot.com/2015/09/investigating-how-things-work.html&quot;&gt;Corruption&lt;/a&gt; is a feature of the narrative, the accounting system imposed.&amp;nbsp; I&#39;m not saying that to &quot;justify&quot; what&#39;s criminal, just treating every broken institution as a crime scene is not always the most productive approach.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;m paid up &lt;a href=&quot;http://mybizmo.blogspot.com/2005/12/another-nsr-from-aaa.html&quot;&gt;with AAA&lt;/a&gt; and may cycle back to &lt;i&gt;Jiffy Lube&lt;/i&gt; for fluids top-off prior to the upcoming road trip.&amp;nbsp; Owning a car is far from free.&amp;nbsp; Other DVDs are going down.&amp;nbsp; Amino acids.&amp;nbsp; PDB files.&amp;nbsp; I use another local mechanic as well.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;ve been agreeing with the &lt;a href=&quot;https://groups.google.com/d/msg/mathfuture/egRRjpxrgwI/VSV6c0cACQAJ&quot;&gt;veterans / alumni on mathfuture&lt;/a&gt; that a code school needs advice from surrounding technology-intensive communities who might want to send talent scouts to our meetings, or accept interviews.&amp;nbsp; That&#39;d be OHSU in our case, among others.
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8424540502383598919'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8424540502383598919'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/04/road-trips.html' title='Road Trips'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-5743861995111721778</id><published>2016-03-26T13:48:00.000-07:00</published><updated>2016-03-26T14:08:58.815-07:00</updated><title type='text'>About Tauism</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/1jDDfkKKgmc?rel=0&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+This Khan Academy classic is worth projecting in a 
+classroom.&amp;nbsp; I know I would be eager to share it, if back in high school 
+teaching, like in the good old days&lt;br /&gt;
+&lt;br /&gt;
+I&#39;m not suggesting I&#39;d turn my whole curriculum over to Sal, just that I&#39;m 
+up for sampling choice pieces by authors I admire, Vi Hart another one 
+(good at math video as &lt;a href=&quot;http://controlroom.blogspot.com/2016/03/wanderers-2016316.html&quot;&gt;an art form&lt;/a&gt;).&amp;nbsp; This retrospective by Khan, 
+combined with a polemic at the end, seems a great high point to cite.
+&lt;br /&gt;
+&lt;br /&gt;
+The
+ math classroom of the future, in one of its many forms, casts the 
+teacher in the role of VJ (video DJ) in a lot of ways.&lt;br /&gt;
+&lt;br /&gt;
+Most clips might
+ be of lesser length than Khan&#39;s average, although some teachers might 
+invest in a full series of something, with their own time at the podium,
+ as emcee and expert, to apply local spin, relate it to actual students 
+more directly (personalize, make it real, take questions).&lt;br /&gt;
+&lt;br /&gt;
+It&#39;s 
+up to the teachers and lesson planners to glue the samplings into 
+coherent pathways that come together to produce whole concepts.&amp;nbsp; The 
+teacher may improvise a good portion of the presentation, yet there&#39;s a 
+known terrain, the school&#39;s agreed-upon curriculum, what it&#39;s known for.&lt;br /&gt;
+&lt;br /&gt;
+The fact remains that &quot;citing video&quot; is a lot like a VJ&#39;s job and editing 
+video is the &quot;anime&quot; equivalent of doing &quot;manga&quot; or &quot;stills&quot; (picture 
+Jupyter Notebooks with still graphics courtesy of matplotlib).&lt;br /&gt;
+&lt;br /&gt;
+In the 
+graphical arts, manga equals comic books, anime equals cartoons.&lt;br /&gt;
+&lt;br /&gt;
+In 
+mathematics, one needs both.
+&lt;br /&gt;
+&lt;br /&gt;
+Sal covers a lot of ground in the above video, looking back, reviewing trig functions, radians, the whole idea of pi.&amp;nbsp; &lt;br /&gt;
+&lt;br /&gt;
+Then comes his impassioned defense of tau (as 2 pi).&amp;nbsp; He uses tau&#39;s 
+appearance on the stage as an excuse to quickly review the whole board 
+once again, having set us up the first time with a critique of Euler&#39;s 
+Formula, arguably the most beautiful in math, but having a flaw, a 
+blemish.&lt;br /&gt;
+&lt;br /&gt;
+I don&#39;t see any either/or here really.&amp;nbsp; Use tau in place of pi when it&#39;s prettier.&amp;nbsp; Why not?&lt;br /&gt;
+&lt;br /&gt;
+However
+ at this juncture it&#39;s worth mentioning another low intensity tug-o-war 
+in which tau is involved.&amp;nbsp; Versus Phi.&amp;nbsp; There&#39;s been some debate about 
+whether tau stands for .618... i.e. the reciprocal of 1.618...&amp;nbsp; &lt;br /&gt;
+&lt;br /&gt;
+Some authors use tau for the latter, however the convention I&#39;m most 
+familiar with assigns Greek letter phi to 1.618... and tau to its 
+reciprocal (0.618...).&amp;nbsp; In English or other romanized (&quot;ascii-fied&quot;) 
+texts, we may use phi in place of the Greek letter.&amp;nbsp; Then comes the low 
+intensity debate whether to pronounce it &quot;fee&quot; or &quot;fie&quot;.&amp;nbsp; A contingent 
+says it both ways.&amp;nbsp; Maybe one should say &quot;fee&quot; on odd days of the week?&lt;br /&gt;
+&lt;br /&gt;
+&lt;div&gt;
+Quoting &lt;a href=&quot;https://en.wikipedia.org/wiki/Golden_ratio&quot;&gt;from Wikipedia&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;
+Since
+ the 20th century, the golden ratio has been represented by the Greek 
+letter φ (phi, after Phidias, a sculptor who is said to have employed 
+it) or less commonly by τ (tau, the first letter of the ancient Greek 
+root τομή—meaning cut).&lt;/blockquote&gt;
+&lt;/div&gt;
+What I suggest coming
+ from a liberal arts background is we remind students of mathematics 
+that debate is a feature (not a bug) of their discipline and circle 
+these simple examples, in preparation for investigating bigger debates 
+in lessons to come.
+&lt;br /&gt;
+&lt;br /&gt;
+When Sal comes back around again, reviewing the board, the trig functions, the unit circle, he shows that 
+Euler&#39;s formula may be made even more beautiful.&amp;nbsp;&amp;nbsp; By that time some of 
+us are ready to vote for Sal&#39;s argument, especially with the caveat that
+ pi is not hereby banned.&amp;nbsp; These constants do not compete so much as 
+reinforce one another.
+&lt;br /&gt;
+&lt;br /&gt;
+As for phi versus tau, I think we&#39;ve pretty much settled on tau being the reciprocal of the golden 
+mean, which golden mean is itself &amp;gt; 1, i.e. is 1.618... or (1 + 
+rt2(5))/2 -- note that I sometimes replace sqrt() with rt2() as I don&#39;t 
+want to push the mental model to favor &quot;squares&quot; too prejudicially, 
+given the triangle-friendly balance of this curriculum (Martian Math 
+inspired)).
+&lt;br /&gt;
+&lt;br /&gt;
+Especially if tau is going of to do 
+yeoman&#39;s service as 2 pi, replacing 2 pi r with tau r in many a Jupyter 
+Notebook, all the more reason, then, to not force it to do double duty 
+as the golden ratio as well.&lt;br /&gt;
+&lt;br /&gt;
+That&#39;d only add to the post Babel 
+confusion, not that I expect any posting by me to serve as an edict.&amp;nbsp; 
+The post Babel confusion (not everyone on the same page) is more what 
+I&#39;m drawing attention to, as another lens for viewing math.&lt;br /&gt;
+&lt;br /&gt;
+Tune in the
+ debates for a change.&amp;nbsp; Listen to arguments.
+&lt;br /&gt;
+&lt;br /&gt;
+Kirby&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://mathforum.org/kb/thread.jspa?threadID=2246748&amp;amp;tstart=0&quot;&gt;Additional reading / links&lt;/a&gt;
+&lt;a href=&quot;http://mathforum.org/kb/thread.jspa?threadID=2246748&amp;amp;tstart=0&quot; target=&quot;_blank&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+[originally a post to mathfuture, a Google Group]&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5743861995111721778'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5743861995111721778'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/03/about-tauism.html' title='About Tauism'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/1jDDfkKKgmc/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-20396097533904400</id><published>2016-03-22T10:44:00.001-07:00</published><updated>2016-03-22T23:29:14.863-07:00</updated><title type='text'>1-2-3 Testing</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x61uUu_amDk?rel=0&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+I just purchased &lt;i&gt;Camtasia for Mac&lt;/i&gt;, a product for making screencasts especially.&lt;br /&gt;
+&lt;br /&gt;
+The above represents my fresh out-of-the-box use of this tool, which I&#39;ve used in a previous incarnation on Windows.&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/20396097533904400'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/20396097533904400'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/03/1-2-3-testing.html' title='1-2-3 Testing'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/x61uUu_amDk/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-5577855373038852353</id><published>2016-03-19T22:32:00.002-07:00</published><updated>2016-03-20T12:55:55.201-07:00</updated><title type='text'>Snake Escape!</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/25818210302/in/dateposted-public/&quot; title=&quot;DSCF3689&quot;&gt;&lt;img alt=&quot;DSCF3689&quot; height=&quot;375&quot; src=&quot;https://farm2.staticflickr.com/1484/25818210302_eb2fe3aa0b.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+The Achilles Heel of a large snake aquarium is the lid, made of some kind of mesh with seams applied to four edges.&amp;nbsp; The other five sides are glass, but the lid has to be porous.&amp;nbsp; If a seam comes loose, good bye secure holding tank.&amp;nbsp; Barry got out.&lt;br /&gt;
+&lt;br /&gt;
+Joel passed the news from Lindsey, staying in the Snake Room, that a python was on the loose near the deck door.&amp;nbsp; I&#39;d cleaned the aquarium Friday before picking up Lindsey &lt;a href=&quot;http://worldgame.blogspot.com/2016/03/equinox-2016.html&quot;&gt;at PDX International&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Fortunately for us, I didn&#39;t have to turn the house upside down searching and had another much smaller aquarium at the ready that I could at least secure.&amp;nbsp; Tomorrow I&#39;ll need to check with the pet store on my options.&amp;nbsp; Barry can spend the night in this smaller tank.&lt;br /&gt;
+&lt;br /&gt;
+In other news, the HTC One M9 came with Lollipop, which sent me into &lt;a href=&quot;https://youtu.be/bwvlbJ0h35A&quot;&gt;a First World Problem&lt;/a&gt; tizzy.&amp;nbsp; I was expecting Marshmallow.&amp;nbsp; Upgrading does not seem that hard.&amp;nbsp; William Brown, a former O&#39;Reilly School student, came by and rescued me from my blue funk, treating me to &lt;i&gt;10 Cloverfield Lane&lt;/i&gt; at &lt;i&gt;The Bagdad&lt;/i&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Sometimes one&#39;s karma gets heavy, like in said movie, wherein disaster is the theme.&amp;nbsp; What if the ETs &lt;i&gt;do&lt;/i&gt; come?&amp;nbsp; They might not be friendly.&amp;nbsp; How friendly would &lt;i&gt;we&lt;/i&gt; be if left to spread unchecked, across the galaxy?&amp;nbsp; Checking historical precedents, one might conclude &quot;not very&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Those who specialize in the &quot;science of worry&quot; (risk management) try to prioritize what to fear.&amp;nbsp; Should we be defending against machines taking over?&amp;nbsp; Depends on what that means.&amp;nbsp; In many dimensions they already have.&lt;br /&gt;
+&lt;br /&gt;
+Taking over where drudgery was the norm is not necessarily a bad thing.&amp;nbsp; But what counts as &quot;drudgery&quot; and so on.&amp;nbsp; Will humans be smart enough to let themselves not work at meaningless tasks, just to &quot;earn the right&quot; to have a life.&lt;br /&gt;
+&lt;br /&gt;
+Engaging in useless tasks for no reason is called &quot;not having a life&quot; where I come from.&lt;br /&gt;
+&lt;br /&gt;
+Lindsey was very calm about the snake on the loose.&amp;nbsp; She asked how long it had been free.&amp;nbsp; &quot;At least a day&quot; I speculated.&amp;nbsp; &quot;Cool&quot; she said.&lt;br /&gt;
+&lt;br /&gt;
+Walker is feeling pretty weak in the meditation department.&amp;nbsp; I transferred her to friends in the FNB network for healing.&amp;nbsp; She needs to recover her strength.&lt;br /&gt;
+&lt;br /&gt;
+Thanks to &lt;a href=&quot;http://controlroom.blogspot.com/2012/05/loneliness.html&quot;&gt;Ron Braithwaite&lt;/a&gt; for dropping by this afternoon and joining me on an errand.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/25818199482/in/dateposted-public/&quot; title=&quot;DSCF3686&quot;&gt;&lt;img alt=&quot;DSCF3686&quot; height=&quot;180&quot; src=&quot;https://farm2.staticflickr.com/1677/25818199482_05a01babb2_m.jpg&quot; width=&quot;240&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5577855373038852353'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5577855373038852353'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/03/snake-escape.html' title='Snake Escape!'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-6003416509724209321</id><published>2016-03-13T08:07:00.002-07:00</published><updated>2016-03-23T15:35:58.596-07:00</updated><title type='text'>Men&#39;s Retreat</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;object height=&quot;375&quot; width=&quot;500&quot;&gt; &lt;param name=&quot;flashvars&quot; value=&quot;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157665814863116%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157665814863116%2F&amp;set_id=72157665814863116&amp;jump_to=&quot;&gt;&lt;/param&gt;
+&lt;param name=&quot;movie&quot; value=&quot;https://www.flickr.com/apps/slideshow/show.swf?v=261948265&quot;&gt;&lt;/param&gt;
+&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;
+&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;https://www.flickr.com/apps/slideshow/show.swf?v=261948265&quot; allowFullScreen=&quot;true&quot; flashvars=&quot;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157665814863116%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fkirbyurner%2Fsets%2F72157665814863116%2F&amp;set_id=72157665814863116&amp;jump_to=&quot; width=&quot;500&quot; height=&quot;375&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;br /&gt;
+I managed to overlap with the Quaker guys, plus the Great Bear Camp owners, all in one day this year.&amp;nbsp; I was rolling out of the driveway at 4:06 AM and back before midnight the same day.&lt;br /&gt;
+&lt;br /&gt;
+Getting some time in the rain forest, seeing the cougar scratching posts, the new bridge and so on, made it worth all that driving.&lt;br /&gt;
+&lt;br /&gt;
+Also, the Quaker men were good at telling life stories, talking about what it&#39;s been like for them to be dads, fathers, husbands, single men, boys, soldiers or whatever roles they&#39;ve played.&lt;br /&gt;
+&lt;br /&gt;
+Thanks to Carl Thatcher and &lt;a href=&quot;http://mybizmo.blogspot.com/2006/04/roller-coaster-diaries.html&quot;&gt;Joe Snyder&lt;/a&gt; for setting the tone.&amp;nbsp; The theme:&amp;nbsp; Making Our Lives Count.&lt;br /&gt;
+&lt;br /&gt;
+Tom Wittick reminded me to study &lt;a href=&quot;http://www.houdinifile.com/2012/02/harry-houdini-theodore-roosevelt.html&quot;&gt;the life of Houdini&lt;/a&gt; more.&amp;nbsp; Houdini knew Lovecraft, Teddy Roosevelt, Arthur Conan Doyle.&amp;nbsp; Tom is a font of interesting historical information.&lt;br /&gt;
+&lt;br /&gt;
+On the way back from our hike to see the cougar scratch posts (trees whereon cougars sharpened their claws), the camp owner joked he was so off the grid that when he turned on the radio, he heard words the broadcasters took for granted, that he&#39;d never heard.&amp;nbsp; Like &quot;meme&quot; (on NPR).&lt;br /&gt;
+&lt;br /&gt;
+We talked about &quot;memes&quot; after that, singing commercial jingles as we emerged from the forest.&amp;nbsp; &quot;Winston tastes good like a cigarette should&quot;.&amp;nbsp; There&#39;s no smoking at Bear Camp.&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/6003416509724209321'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/6003416509724209321'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/03/mens-retreat.html' title='Men&#39;s Retreat'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-731475005884076393</id><published>2016-03-09T09:14:00.002-08:00</published><updated>2016-03-09T09:15:26.538-08:00</updated><title type='text'>Sound Check</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;356&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;https://trinket.io/embed/music/418be8b3bd&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://trinket.io/&quot;&gt;Trinkets&lt;/a&gt; are interactive / editable.&amp;nbsp; We&#39;re sharing about them on edu-sig &lt;a href=&quot;https://mail.python.org/pipermail/edu-sig/2016-March/date.html&quot;&gt;this month&lt;/a&gt;.&amp;nbsp; Naomi and I are the new listowners.&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/731475005884076393'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/731475005884076393'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/03/sound-check.html' title='Sound Check'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-4041040038008713414</id><published>2016-03-01T18:27:00.000-08:00</published><updated>2016-03-01T18:38:46.664-08:00</updated><title type='text'>Smoking Gun?</title><content type='html'>So what about taking the show on the road in a Bizmo (business mobile) and sending a heads up to the hinterlands that &quot;&lt;a href=&quot;http://worldgame.blogspot.com/2016/02/martial-arts-schools-coding-dojos.html&quot;&gt;code school&lt;/a&gt;&quot; might be an option. &amp;nbsp;Consider a future in IT (part of STEM &lt;a href=&quot;http://mybizmo.blogspot.com/2015/02/thirsters-2015226.html&quot;&gt;or STEAM&lt;/a&gt;).&lt;br /&gt;
+&lt;br /&gt;
+I was ready to start with recruiting a couple decades ago at least, and started sharing my designs. &amp;nbsp; Later I started articulating the vision in my on-line journals (blogs), getting it out there.&lt;br /&gt;
+&lt;br /&gt;
+A Control Room, or Dispatching Center, would keep the Bizmos busy. &amp;nbsp;Sounds like fun. &lt;br /&gt;
+&lt;br /&gt;
+On the road with Global Data (or Global Matrix as the case may be).&lt;br /&gt;
+&lt;br /&gt;
+However, the GNU Math meme (a pun on &quot;new math&quot;) was also deeply tied to those stream-linings in spatial geometry, where we get all those pretty &lt;a href=&quot;http://mybizmo.blogspot.com/2007/12/more-makeover.html&quot;&gt;whole number volumes&lt;/a&gt; and a quantum leap in sophistication, in terms of being able to think geospatially, with more than just XYZ as a scaffolding (matrix). &lt;br /&gt;
+&lt;br /&gt;
+We had the IVM (another matrix), we had Quadrays (different basis vectors). &lt;br /&gt;
+&lt;br /&gt;
+Everything &lt;a href=&quot;http://worldgame.blogspot.com/2014/10/recent-lesson-plans.html&quot;&gt;was published&lt;/a&gt;, in color, with animations, including to &lt;a href=&quot;https://en.wikipedia.org/wiki/Quadray_coordinates&quot;&gt;Wikipedia&lt;/a&gt; and &lt;a href=&quot;http://wikieducator.org/Digital_Math&quot;&gt;Wikieducator&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Sources were cited, proofs were made. &lt;br /&gt;
+&lt;br /&gt;
+Even H.S.M. Coxeter, &lt;i&gt;King of Infinite Space&lt;/i&gt;, said the sphere packing formula as worth crowing about. &amp;nbsp;We did &lt;a href=&quot;http://mybizmo.blogspot.com/2016/02/notes-from-hyperspace.html&quot;&gt;some crowing&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+We&#39;ve seen almost no interest, however, in any of the above. &amp;nbsp; Search the web, check if I&#39;m right. &amp;nbsp;No need to take my word for it. &amp;nbsp;My fellow humans have other priorities, no time for follow-through.&lt;br /&gt;
+&lt;br /&gt;
+I shared about Quadrays with PSU&#39;s Math Learning Center (MLC). &lt;br /&gt;
+&lt;br /&gt;
+I delivered talks on the concentric hierarchy to any math class that&#39;d let me in (quite a few did), as well as at Pycons, Europythons etc.&lt;br /&gt;
+&lt;br /&gt;
+But all this flint clicking failed to start a fire apparently. &amp;nbsp;How soggy was the fuel?&lt;br /&gt;
+&lt;br /&gt;
+Lets hope some future student of our time, maybe in a hundred years, comes up with some theories, as to why a promising future was disowned and disavowed. &lt;br /&gt;
+&lt;br /&gt;
+I bet there&#39;s some story to unearth, maybe even a &quot;smoking gun&quot;.</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/4041040038008713414'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/4041040038008713414'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/03/smoking-gun.html' title='Smoking Gun?'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-8572799299851760221</id><published>2016-02-25T13:45:00.002-08:00</published><updated>2016-03-03T10:00:37.826-08:00</updated><title type='text'>Notes From Hyperspace</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/24967014810/in/dateposted-public/&quot; title=&quot;jupyter_window&quot;&gt;&lt;img alt=&quot;jupyter_window&quot; height=&quot;402&quot; src=&quot;https://farm2.staticflickr.com/1564/24967014810_f14df78080.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+Mom uses a walker, I&#39;ve got some ankle problems (not too severe) and the dog can&#39;t walk at all, so our current cast at Blue House might be called a family of Hobbles (versus Hobbits), my lame attempt at some kind of joke.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;ve been haunting magazine racks, the real ones, like at &lt;i&gt;Fred Meyer&#39;s&lt;/i&gt; out by &lt;i&gt;Oregon Clinic&lt;/i&gt; just now, where mom was getting an all clear on a lung spot they&#39;d been watching.&amp;nbsp; Good news.&lt;br /&gt;
+&lt;br /&gt;
+These particular magazine shelves opted out of of carrying the computer mags, other than one &lt;i&gt;Tips for Windows 10&lt;/i&gt; compendium.&amp;nbsp; Other &lt;i&gt;Freddies&lt;/i&gt; have the comp mags.&amp;nbsp; Browsing mags is not a new habit for me.&lt;br /&gt;
+&lt;br /&gt;
+Yes, I&#39;m following the thread about Grunch locking out Uncle Sam while meanwhile planning &lt;a href=&quot;http://www.wired.com/2016/02/facebook-open-source-wireless-gear-forge-5g-world/&quot;&gt;5G global telecomms&lt;/a&gt; all by its lonesome.&amp;nbsp; That&#39;s per &lt;i&gt;Grunch of Giants&lt;/i&gt; predictions.&amp;nbsp; We used to call it the design science revolution.&lt;br /&gt;
+&lt;br /&gt;
+Ms. Coulter and &quot;the Donald&quot; are right that there&#39;s a kind of &quot;adios mentality&quot; regarding some of the older mindsets.&amp;nbsp; They&#39;re stumping for higher voltage across national borders, more electric fences or whatever.&amp;nbsp; China goes through these cycles too.&lt;br /&gt;
+&lt;br /&gt;
+Nationalism pushed to the extreme Coulter envisions has never been tried at the scale any future USA would need to attempt, if truly wishing to seal its borders against those without the proper paperwork.&lt;br /&gt;
+&lt;br /&gt;
+The only reason the USA gets away with projecting itself as a global power is the hope that gives many a foreign national of one day emigrating.&amp;nbsp; The more selfish the USA becomes, the fewer the tenable bases of operation overseas.&amp;nbsp; Supranational corporations know this pattern well.&lt;br /&gt;
+&lt;br /&gt;
+Mindsets go in and out of style, not as frivolously fast as hem lines go up and down maybe, but over much longer cycles, like &lt;a href=&quot;http://michaelsnyder.mensnewsdaily.com/2014/05/if-economic-cycle-theorists-are-correct-2015-to-2020-will-be-pure-hell-for-the-united-states/&quot;&gt;Kondratiev waves&lt;/a&gt; (remember those?).&lt;br /&gt;
+&lt;br /&gt;
+One of my students @ &amp;lt; guild /&amp;gt; ; introduced me to Quantopian, which I also stumbled upon while following &lt;a href=&quot;https://youtu.be/BCLgXjxYONg&quot;&gt;the Jupyter story&lt;/a&gt;.&amp;nbsp; Jupyter is spin-off from the I-Python Notebook project, refactored to be more generalized, with the Python bits separate.&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+&lt;br /&gt;
+I&#39;ve been using nbviewer (Notebook viewer) for it&#39;s intended purpose:&amp;nbsp; to render public Jupyter Notebooks given the URL.&amp;nbsp; I have two examples &lt;a href=&quot;https://github.com/4dsolutions/Python5&quot;&gt;saved at Github&lt;/a&gt;, which I yak about more on mathfuture.&lt;br /&gt;
+&lt;br /&gt;
+Github also renders Jupyter Notebooks natively, but with more restrictions.&amp;nbsp; For example to see the embedded Youtubes in my example, one needs to &lt;a href=&quot;http://nbviewer.jupyter.org/github/4dsolutions/Python5/blob/master/STEM%20Mathematics.ipynb?flush_cache=true&quot;&gt;let nbviewer&lt;/a&gt; do the rendering. &lt;br /&gt;
+&lt;br /&gt;
+O&#39;Reilly, a former employer, has been jumping on &lt;a href=&quot;https://www.oreilly.com/ideas/jupyter-at-oreilly&quot;&gt;the Jupyter bandwagon&lt;/a&gt;, supporting an Open Source project of its own called &lt;a href=&quot;https://oreillymedia.github.io/thebe/&quot;&gt;Thebe&lt;/a&gt;.&amp;nbsp; Jupyter is experimenting with adding workflows that would enable the kind of work cycle we enjoyed at O&#39;Reilly School.&lt;br /&gt;
+&lt;br /&gt;
+However when it comes to learning programming, I don&#39;t see the Notebook as a replacement for the IDE.&amp;nbsp; These are two different genres of software.&amp;nbsp; That&#39;s why the Anaconda distro comes with Spyder (an IDE) and not just I-Python Notebook. &lt;br /&gt;
+&lt;br /&gt;
+I&#39;m upbeat about all this technology and its Open Source foundations and share about it with my bevy of students in California, to whom I recommend the Anaconda distro from &lt;i&gt;Continuum Analytics&lt;/i&gt;.&amp;nbsp; I also share my enthusiasm for PythonAnywhere.&lt;br /&gt;
+&lt;br /&gt;
+I&#39;ve had three posts so far accepted for publication by the &lt;i&gt;CERM Academy&lt;/i&gt;, a risk management focused cyber-place.&lt;br /&gt;
+&lt;br /&gt;
+Thought for the day (TFTD):&amp;nbsp; given we call it &quot;hypertext&quot; as in HTTP and HTML, why not start referring to cyberspace as likewise hyperspace?&lt;br /&gt;
+&lt;br /&gt;
+We reserve hyperspace for science fiction meanings only?&amp;nbsp; As a literary device, it explains near-instantaneous inter-planetary travel.&lt;br /&gt;
+&lt;br /&gt;
+Given we do not really have that physics pinned down, but do have the cyber-thing going, why not loosen the grip of the fiction writers and take a step towards reality?&lt;br /&gt;
+&lt;br /&gt;
+My friend Gene Fowler, the poet / ex-con who discovered Bucky and Synergetics &quot;on the inside&quot; (in San Quentin), thought &quot;hyper&quot; really meant little more than &quot;wow&quot; or &quot;gosh&quot; and so all this hypertext talk was to his ear was somewhat immature-sounding, like &quot;wow-text&quot; or maybe &quot;golly-gee-wiz-text&quot;.&lt;br /&gt;
+&lt;br /&gt;
+I would argue that thanks to science fiction, our meaning for &quot;hyper&quot; had evolved to a more geometric picture, of how locales could all interconnect, by means of &quot;secret tunnels&quot; if you will.&amp;nbsp; That image carries over in this proposed &quot;new&quot; application of the &quot;hyperspace&quot; concept.&lt;br /&gt;
+&lt;br /&gt;
+Anyway it&#39;s not about Uncle Sam being &quot;locked out&quot;, only not having the right to insist on Grunch dumbing itself down just to please the District of Columbia.&lt;br /&gt;
+&lt;br /&gt;
+DC is less powerful than Wall Street according to Bernie Sanders, who oughta know, and Wall Street watches the rest of the world in hopes of seeing its quantopian dreams coming true.&lt;br /&gt;
+&lt;br /&gt;
+A track record of extremist, immoderate policies, both foreign and domestic, has dispelled any illusions that DC is to be given the car keys; too many DUIs, too much driving under the influence of debilitating mindsets.&lt;br /&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/1jknSk9cCLU?rel=0&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8572799299851760221'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8572799299851760221'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/02/notes-from-hyperspace.html' title='Notes From Hyperspace'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/1jknSk9cCLU/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-8999503012169549466</id><published>2016-02-13T18:53:00.000-08:00</published><updated>2016-02-15T09:50:12.641-08:00</updated><title type='text'>Physics Youtubes</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/6082451621/in/photolist-dMGmVw-agu9Xx-8xp2z5-8vatB3-8ti2xi-8thDyL-8oX85J-6Wcvue-5QyKim&quot; title=&quot;Geodesic Sphere&quot;&gt;&lt;img alt=&quot;Geodesic Sphere&quot; height=&quot;375&quot; src=&quot;https://farm7.staticflickr.com/6079/6082451621_d406bb4baa.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+After staring at divided spheres all day, as in carved into triangles (windows), the concept of flux, charge flowing, blowing if you will, like the wind, lends itself to different pictures, than one of squares. &lt;br /&gt;
+&lt;br /&gt;
+Squares are less happy on spheres. &lt;br /&gt;
+&lt;br /&gt;
+The lines of latitude and longitude are not about making squares, much as we might kid ourselves.&lt;br /&gt;
+&lt;br /&gt;
+Oliver Heaviside, same as in &lt;a href=&quot;http://www.famousscientists.org/j-willard-gibbs/&quot;&gt;Heaviside-Gibbs&lt;/a&gt; (they collaborated), gets credit for the cuter form of Maxwell&#39;s Equations. &lt;br /&gt;
+&lt;br /&gt;
+Charge density is the explosive content, which adds up to what emanates through all those triangles (Coulomb, Gauss). &amp;nbsp;Curl (swirl). &amp;nbsp;Magnetic flux (Faraday). &lt;br /&gt;
+&lt;br /&gt;
+No accident early derivatives were named &quot;fluxions&quot; by Sir Isaac.&lt;br /&gt;
+&lt;br /&gt;
+Here&#39;s an excerpt of something I posted to &lt;span class=&quot;gI&quot;&gt;&lt;a href=&quot;https://groups.google.com/d/msg/mathfuture/syi-0CdicbA/jVPNZEhnAwAJ&quot;&gt;The Physics Learning Research List&lt;/a&gt; (&lt;/span&gt;&lt;span class=&quot;gI&quot;&gt;&lt;span class=&quot;gI&quot;&gt;PHYSLRNR-LIST@listserv.buffalo.edu)&lt;/span&gt;&lt;physlrnr-list listserv.buffalo.edu=&quot;&quot;&gt;&lt;/physlrnr-list&gt;&lt;/span&gt;, replying to my own post in this context.&amp;nbsp; One typo fixed (&quot;tries&quot; -&amp;gt; &quot;trees&quot;).&amp;nbsp; &lt;span class=&quot;gI&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;span class=&quot;gI&quot;&gt;Date:&amp;nbsp; Fri, Feb 12, 2016 at 9:12 AM&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;span class=&quot;gI&quot;&gt;&lt;b&gt;Re: entropy video&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;im&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;blockquote class=&quot;gmail_quote&quot; style=&quot;border-left: 1px #ccc solid; margin: 0 0 0 .8ex; padding-left: 1ex;&quot;&gt;
+&lt;div dir=&quot;ltr&quot;&gt;
+&lt;div class=&quot;gmail_extra&quot;&gt;
+&lt;div class=&quot;gmail_quote&quot;&gt;
+&lt;br /&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div&gt;
+I
+ think polling educators in a subject regarding publicly / freely 
+available teaching materials on that subject is a great way to foment 
+productive dialog. &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+I know Entropy is 
+uber-basic to the core concepts the Physics curriculum wants to 
+communicate effectively, so why not sample specimens on that topic in 
+particular? &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div&gt;
+What
+ I&#39;ve noticed is that in contrast to the magnetic field concept, which 
+starts in many cases with the whole Earth being magnetic, there&#39;s no 
+generalization regarding the Entropy of the planet (Earth).&amp;nbsp; Is it (A) 
+increasing &amp;nbsp;(B) decreasing or (C) the question makes no physical sense.&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+We&#39;ve
+ talked about photosynthesis as a means of mass impoundment i.e. the 
+total weight of trees as fixed hydrocarbons (water and carbon both) 
+accounts for a lot of mass in the biosphere, but then the biosphere 
+itself is but a thin film of negligible mass.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+If
+ one were arguing whether Earth was gaining or losing mass on balance, 
+I&#39;d hazard (A) gaining, because of infalling space matter, however 
+miniscule.&amp;nbsp; More matter is coming in than leaving and that&#39;s what 
+matters, or am I wrong?&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+But what about Entropy?&amp;nbsp; It&#39;s not a physical quantity but a measure in a phase space.&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+Clearly
+ Earth is *not* an isolated system, quite the opposite: &amp;nbsp;it&#39;s plugged 
+directly into a star for fusion power energy.&amp;nbsp; So there&#39;s nothing in the
+ equations of thermodynamics that says Earth *has* to be gaining Entropy
+ right now, at this point it its existence.&amp;nbsp; So I see where (B) 
+decreasing *might* be a sensible answer.&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+In any
+ case, the contrast is stark: &amp;nbsp;those topics with a &quot;whole Earth meaning /
+ interpretation&quot; such as &quot;magnetic field&quot; immediately use the whole 
+Earth as an example to anchor the concept. &amp;nbsp; The Youtube videos are 
+notoriously silent on this question of the Entropy of the Earth, that I 
+can find, implying (C) the question makes no physical sense.&amp;nbsp; Too bad if
+ so.&lt;/div&gt;
+&lt;div class=&quot;yj6qo ajU&quot;&gt;
+&lt;div class=&quot;ajR&quot; data-tooltip=&quot;Show trimmed content&quot; id=&quot;:16v&quot; role=&quot;button&quot; tabindex=&quot;0&quot;&gt;
+&lt;img class=&quot;ajT&quot; src=&quot;https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/24140203359/in/dateposted-public/&quot; title=&quot;Divided Spheres&quot;&gt;&lt;img alt=&quot;Divided Spheres&quot; height=&quot;375&quot; src=&quot;https://farm2.staticflickr.com/1530/24140203359_27c8a454ac.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8999503012169549466'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8999503012169549466'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/02/physics-youtubes.html' title='Physics Youtubes'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-8875773520045949405</id><published>2016-01-31T14:52:00.000-08:00</published><updated>2016-01-31T23:19:01.892-08:00</updated><title type='text'>Code School Syllabus</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/N4mEzFDjqtA?rel=0&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+I sent a memo around at work circling this forty-five minute contribution by Derek Banas as an unpretentious quick fly-through of the Python language, minus some bells and whistles like decorators and generators.&lt;br /&gt;
+&lt;br /&gt;
+Some of those parens might come out i.e. keywords &lt;i&gt;while&lt;/i&gt;, &lt;i&gt;if&lt;/i&gt; and &lt;i&gt;not&lt;/i&gt; are not callables, no keyword is, but that doesn&#39;t mean one can&#39;t nestle right up against them, parens keeping the object circled.&amp;nbsp; Two idioms one might say:&lt;br /&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/24379144969/in/dateposted-public/&quot; title=&quot;keywords_not_callable&quot;&gt;&lt;img alt=&quot;keywords_not_callable&quot; height=&quot;294&quot; src=&quot;https://farm2.staticflickr.com/1578/24379144969_26110b1800.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+What is and is not callable takes some time to sink in.&lt;br /&gt;
+&lt;br /&gt;
+Good job Derek, slick editing and nice job slicing off a big helping without worrying about wrapping our minds around each and every keyword.&amp;nbsp; That would come with follow-up clips, now that we&#39;ve enjoyed a quick intro.&lt;br /&gt;
+&lt;br /&gt;
+Additionally, I&#39;d like to recommend the clip below for it&#39;s well-thought-out and communicated views regarding what languages to tackle in 2016.&amp;nbsp; A good list to choose from, but there&#39;s really no reason to limit the field to ten, other than to keep the attention span of the viewer.&amp;nbsp; Like, Scala and Clojure are both warming waters I&#39;d add.&lt;br /&gt;
+&lt;br /&gt;
+Put another way:&amp;nbsp; there&#39;s room for more than one Top Ten list.&amp;nbsp; This is as good a list as any.&amp;nbsp; I like having Python in the best technical schools but yet not having to defend the number one position, stressful in any case.&amp;nbsp; I need to take a look at C++11/14 it sounds like.&amp;nbsp; &lt;a href=&quot;http://www.theguardian.com/books/booksblog/2012/apr/10/encyclopedia-britannica-11th-edition&quot;&gt;&lt;i&gt;Britannica&lt;/i&gt;&#39;s 11th&lt;/a&gt; was one of its best too. &lt;/div&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/Z56GLRXxh88?rel=0&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+
+&lt;br /&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8875773520045949405'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/8875773520045949405'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/01/code-school-syllabus.html' title='Code School Syllabus'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/N4mEzFDjqtA/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-1056566405602932719</id><published>2016-01-23T16:20:00.000-08:00</published><updated>2016-01-23T16:22:16.485-08:00</updated><title type='text'>Cyberia:  A Next Space</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+I was pleased to watch a goodly portion of &lt;a href=&quot;http://www.thegreatcourses.com/courses/cycles-of-american-political-thought.html&quot;&gt;this Southern Methodist University professor&#39;s&lt;/a&gt; lectures, on tap at the local library, Belmont branch.&amp;nbsp; He builds in the thesis that the easy availability of space for expansion is integral within the American psyche, as he defines it.&amp;nbsp; How much is that changing now?&lt;br /&gt;
+&lt;br /&gt;
+Rather than give a facile answer, I do say we need to factor cyberspace into the picture.&amp;nbsp; The fight for land and property was often to get a bigger soap box and command of push media such as radio and TV broadcasting networks.&amp;nbsp; The way to have a voice heard was to emulate Hearst or someone equally powerful.&amp;nbsp; Cyberspace lets the hoi polloi, me one of them, short cut around all that.&amp;nbsp; We stand on the shoulders of giants.&lt;br /&gt;
+&lt;br /&gt;
+In other words, I&#39;m suggesting that Cyberia, which Americans (&lt;a href=&quot;https://en.wiktionary.org/wiki/amerikanski&quot;&gt;Amerikanskis&lt;/a&gt;) helped to pioneer is a factor, that this kind of space is still real.&amp;nbsp; People wanted a place &quot;one mouse click away&quot;, not buried behind a few fat cats, a few hogs.&amp;nbsp; We&#39;re close to getting there.&amp;nbsp; The URLs are turning our pyramids into local anomalies within the graph, blips on the radar, no long so overbearing or in the way of our having a voice as a people.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/1056566405602932719'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/1056566405602932719'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/01/cyberia-next-space.html' title='Cyberia:  A Next Space'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-2726470297370146425</id><published>2016-01-19T08:29:00.001-08:00</published><updated>2016-01-19T08:29:37.796-08:00</updated><title type='text'>For David Bowie</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/24366359252/&quot; title=&quot;for David Bowie&quot;&gt;&lt;img alt=&quot;for David Bowie&quot; height=&quot;640&quot; src=&quot;https://farm2.staticflickr.com/1571/24366359252_cd282daa30_z.jpg&quot; width=&quot;480&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: center;&quot; trbidi=&quot;on&quot;&gt;
+&lt;i&gt;:: a &lt;a href=&quot;http://mybizmo.blogspot.com/2012/06/nature-boy.html&quot;&gt;little man&lt;/a&gt; who fell to earth ::&lt;/i&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/2726470297370146425'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/2726470297370146425'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/01/for-david-bowie.html' title='For David Bowie'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-5394175904510290549</id><published>2016-01-17T18:04:00.002-08:00</published><updated>2016-01-18T15:51:25.889-08:00</updated><title type='text'>The Berlin File (movie review)</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+I chose this pretty much at random from the foreign country shelves at &lt;i&gt;Movie Madness&lt;/i&gt;.&amp;nbsp; I spent probably as much time with &lt;i&gt;The Making Of&lt;/i&gt;.&lt;br /&gt;
+&lt;br /&gt;
+I was maybe curious how a Korean-made film would work with Germany, but it wasn&#39;t that hard to make a seamless blend, as Korea, like Germany, has taken the full brunt of the Cold War.&lt;br /&gt;
+&lt;br /&gt;
+I recall being in Berlin myself when the wall was still a serious obstacle to one&#39;s freedom of movement.&amp;nbsp; Our train from Scandinavia was through East Germany to East Berlin whereas our US passports granted us access to the West.&amp;nbsp; Dad liked crafting obscure itineraries like that.&lt;br /&gt;
+&lt;br /&gt;
+Director Ryu portrays a divided Korea fighting a Spy vs Spy war against the back drop of Berlin.&amp;nbsp; The budget was about $10 million.&amp;nbsp; It&#39;s a full-blown award-winning international action thriller in style, but without the distribution of say a Miramax.&amp;nbsp; The film was made in 2012 on location (in Berlin) but also in Latvia and Korea.&amp;nbsp; Getting the weapons to match in all three places was something of an ordeal.&lt;br /&gt;
+&lt;br /&gt;
+The director imagined the film as contemporary to the point of futuristic by a few years and didn&#39;t want any dated ordnance such as Korean audiences were already used to.&lt;br /&gt;
+&lt;br /&gt;
+As a non-Korean, I miss a lot when it comes to catching any &lt;a href=&quot;http://beyondhallyu.com/film-tv/korean-films-in-review-the-berlin-file/&quot;&gt;nuances about language&lt;/a&gt; and am glad the &lt;i&gt;Making Of&lt;/i&gt; movie was explicit about that aspect of the movie. The elite / elitist spies on the North Korean side apparently spoke with an accent that signified their higher social class, reflective of spoiled brats from oligarchical families.&lt;br /&gt;
+&lt;br /&gt;
+The paradox here is the Communist Republic is ideally class-free (the US value of &quot;equality before the law&quot; i.e no special rights, by dint of birth, is not that different), so having the spies wear their social class on their sleeves, so to speak, made for a more curious effect in the mind of a Korean viewer.&lt;br /&gt;
+&lt;br /&gt;
+Apparently language usage patterns are by now different enough between North and South, that the South Korean actors found affecting realism a challenge&amp;nbsp; (the &quot;bad guy&quot; worried about getting it wrong).&amp;nbsp; Someone in the background was advising for authenticity.&lt;br /&gt;
+&lt;br /&gt;
+Again, I missed a lot, though I did catch the reference to&amp;nbsp;&lt;a href=&quot;http://worldgame.blogspot.com/2004/10/john-le-carr-on-bush.html&quot;&gt;John le Carré&lt;/a&gt; (the book passed between NIS and CIA).&amp;nbsp; Indeed, towards the start of the film I lost track of who was who at first.&lt;br /&gt;
+&lt;br /&gt;
+Being a spy requires keeping track of plots within plots, with the story always taking surprising twists and turns.&amp;nbsp; An inability to either hatch or follow intricate plots is a self-disqualifying trait if you wish espionage as your occupation.&amp;nbsp; Those eager for such a career path need films like this for practice.&lt;br /&gt;
+&lt;br /&gt;
+As one of the narrators points out (the director himself as I recall), the story is about people with concealed identities struggling to find their way in a foreign country and getting left out in the cold, as the wheels turning in the home country power centers get out of sync with what&#39;s going on in the field.&amp;nbsp; Heroes are abandoned or betrayed by their own headquarters, a common theme in spy novels.&lt;br /&gt;
+&lt;br /&gt;
+I was reminded of &lt;i&gt;The Americans&lt;/i&gt;, &lt;a href=&quot;https://youtu.be/cdFVP-lXtAE&quot;&gt;the TV show&lt;/a&gt;, because of the married couple under cover.&amp;nbsp; This Korean couple has given birth to no kids yet however (spoiler alert).&amp;nbsp; Also, Germany is not as much a direct target of the North Koreans&#39; spying, whereas in &lt;i&gt;The Americans&lt;/i&gt; the host country is also the primary country of interest.&lt;br /&gt;
+&lt;br /&gt;
+I was also reminded of &lt;a href=&quot;http://controlroom.blogspot.com/2012/10/farewell-movie-review.html&quot;&gt;&lt;i&gt;Farewell&lt;/i&gt;&lt;/a&gt;, for its centering on a Cold War fought by embassies in a European capital, though not Berlin.&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5394175904510290549'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/5394175904510290549'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/01/the-berlin-file-movie-review.html' title='The Berlin File (movie review)'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-987973837188826984</id><published>2016-01-16T07:47:00.002-08:00</published><updated>2016-01-17T23:00:34.092-08:00</updated><title type='text'>From a Quaker BBS</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; src=&quot;https://www.youtube.com/embed/wsgsQ_1QFBs?rel=0&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;i&gt;:: &quot;guilty dog&quot; compilation ::&lt;/i&gt;&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&quot;http://www.quakerquaker.org/profile/KirbyUrner&quot; target=&quot;_blank&quot; title=&quot;Kirby Urner&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;CToWUd&quot; src=&quot;https://blogger.googleusercontent.com/img/proxy/AVvXsEghJPSngymU2KJt3y7OBVQnWEB4difhtKZUDuTnK6_kdif7xxWTd33EoKKdDwRl7JgEUdHDsUQJWivm6O31-6lkXgolSnh91-MDuZkhVG0G72DQLxFiRg7ngDW92xz6DQ7lN_LeraPOCcEyopbv5JkpX0asIloqd1dx8s9Zg3WR9AsivOJ2A7wQbbXF-trIFOIgn8JkewYZ8GVTqjHy2FBa7T09HtkZJqLI-yWOVu8_mfko68t_r1oLKl0mUXGSPptcoyM2Y9493Je9NMvknuQuPSQmlj-FVBj1kegEfyLvDSE6s2WYWE-xxq4kXqZembJOa7ud3GvgeCZ2aATK-1ZkYyGllg=s0-d-e1-ft*Mv6ubvuUCoVasDQ9Fy2Uxf5aSgpMTEbeqROFeArql4lWm6E-X4BDSxwqnEpiAI9MEWFo3iYqKRQCFzVc4AGu7u/1161299134.png?xgip=0%3A0%3A300%3A300%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; /&gt;&lt;/a&gt;&amp;nbsp;Comment by Kirby Urner yesterday &lt;a href=&quot;http://www.quakerquaker.org/profiles/blogs/is-religion-motivated-by-guilt-trip&quot;&gt;on QuakerQuaker&lt;/a&gt;, one typo fixed, links added:&lt;/dt&gt;
+&lt;dt&gt;&lt;br /&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;div&gt;
+I suppose a starting point
+ is to what extent do we think guilt is built-in chemically, like a 
+hormone, versus cultivated as an institution, a complex social practice,
+ like a game.&amp;nbsp; I know people like to post Youtubes of &quot;dogs looking 
+guilty&quot; however I sense some projection.&amp;nbsp; I&#39;d say the basis for guilt is
+ in mammal behavior but full-blown guilt is reserved for those with 
+significant linguistic abilities.&lt;br /&gt;
+&lt;br /&gt;
+In Nietzsche&#39;s code of ethics, any grudge-keeping, ax-grinding or 
+resentment of any kind within oneself, is a troubling sign of mental 
+weakness, a loss in personal power, a kind of retardation.&amp;nbsp; So in &lt;i&gt;Will to Power&amp;nbsp;&lt;/i&gt;and
+ other works, the aphorisms and meditations are geared towards stamping 
+out such things, as too base for a true&amp;nbsp;Übermensch or whatever.&lt;br /&gt;
+&lt;br /&gt;
+This &lt;a href=&quot;http://controlroom.blogspot.com/2016/01/techno-morality-linus-pauling-memorial.html&quot;&gt;code of ethics&lt;/a&gt; later surfaces in the San Francisco-based &quot;est 
+Training&quot; wherein trainees were sternly warned against any &quot;putting up 
+with&quot; or &quot;trying to change&quot;.&amp;nbsp; Guilt came in for a drubbing as 
+something slavers used to deter our exercise of true freedoms -- 
+something like that (I went through a few of these est Trainings in the 
+late 70s, early 80s, including with overseer responsibilities as a 
+Centers Network volunteer -- like with Quakers! -- but each one was 
+different; it&#39;s called The Forum today (&lt;a href=&quot;http://controlroom.blogspot.com/2015/08/at-landmark-event.html&quot;&gt;Landmark Corporation&lt;/a&gt;)).&lt;/div&gt;
+&lt;/dd&gt;&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/987973837188826984'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/987973837188826984'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/01/from-quaker-bbs.html' title='From a Quaker BBS'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/wsgsQ_1QFBs/default.jpg" height="72" width="72"/></entry><entry><id>tag:blogger.com,1999:blog-10416211.post-1243828896917349438</id><published>2016-01-12T14:02:00.002-08:00</published><updated>2016-01-12T14:02:46.436-08:00</updated><title type='text'>Zombie Dice</title><content type='html'>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/24234913522/in/dateposted-public/&quot; title=&quot;game_site&quot;&gt;&lt;img alt=&quot;game_site&quot; height=&quot;313&quot; src=&quot;https://farm2.staticflickr.com/1494/24234913522_67ba890fd6.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/24234822752/in/dateposted-public/&quot; title=&quot;zombie_dice_2&quot;&gt;&lt;img alt=&quot;zombie_dice_2&quot; height=&quot;314&quot; src=&quot;https://farm2.staticflickr.com/1627/24234822752_bb22202487.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/kirbyurner/23970590999/in/dateposted-public/&quot; title=&quot;zombie_dice&quot;&gt;&lt;img alt=&quot;zombie_dice&quot; height=&quot;314&quot; src=&quot;https://farm2.staticflickr.com/1474/23970590999_d99f67ef96.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/1243828896917349438'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/10416211/posts/default/1243828896917349438'/><link rel='alternate' type='text/html' href='https://mybizmo.blogspot.com/2016/01/zombie-dice.html' title='Zombie Dice'/><author><name>Kirby Urner</name><uri>http://www.blogger.com/profile/12114860457655013242</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry></feed>

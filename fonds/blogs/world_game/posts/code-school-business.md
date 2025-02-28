@@ -1,0 +1,10 @@
+---
+title: Code School Business
+id: 2271210734721389244
+author: Kirby Urner
+published: 2017-05-04T11:51:00.003-07:00
+updated: 2017-05-13T21:07:15.851-07:00
+blog: world_game
+tags: 
+---
+

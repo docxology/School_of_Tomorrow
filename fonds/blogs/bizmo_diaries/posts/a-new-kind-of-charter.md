@@ -1,0 +1,11 @@
+---
+title: A New Kind of Charter
+id: 976221314501558433
+author: Kirby Urner
+published: 2008-08-08T14:00:00.000-07:00
+updated: 2008-08-08T14:08:25.786-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+There's a vague allusion to "a new kind of science" here, plus a little irony, as in my view "all public schools are charter schools" the difference being only [the kind of charter](http://controlroom.blogspot.com/2008/03/recent-chemistry.html) or state mandate, which of course has a lot to do with when a given school was launched, and [how much cruft](http://en.wikipedia.org/wiki/Cruft) has since accumulated.This new drawing board design is for a [new type of public school](http://www.edoptions.pps.k12.or.us/) that specializes in hosting exchange students from other parts of the country and world, meaning there's a host family piece, and also a transfer of credits piece.Under the old system [in Portland](http://www.pps.k12.or.us/), a host family inside the Franklin district cannot host an exchange student going to Grant or Cleveland, plus the schools take very few from out of district to begin with, plus they have no obligation to offer credentials, even to an incoming senior putting in a year's worth, however worthy the work.  So many wasted opportunities.The new charters will have that international school flavor already familiar to expats, and probably a cozy relationship with various State Department bureaus, as this will be a natural recruiting ground for future diplomats, once the appropriate sponsorships (aka scholarships) have been lined up (case by case).The goal is to serve a large number of locally based students (probably at least 50% of the students will be from Portland) plus there's the assumption of [many similar academies](http://mybizmo.blogspot.com/2007/01/public-schools-overseas.html) around the globe, meaning these same PDX-based students will have easier access to opportunities in [remote places](http://worldgame.blogspot.com/2008/02/coyote-academy.html), likewise in an exchange student capacity.

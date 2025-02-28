@@ -1,0 +1,11 @@
+---
+title: Tuning in Martian Math -- from the Silicon Forest
+id: 746043422516497715
+author: Kirby Urner
+published: 2023-10-29T12:28:00.010-07:00
+updated: 2023-11-03T20:44:58.969-07:00
+blog: control_room
+tags: 
+---
+
+You'll hear me talk about Diaspora Nations in passing, and may wonder what "math teacher planet" has to do with bringing more Synergetics into the awareness of high schoolers, a top priority of the World Game (judging from Bucky's own style of play).These curriculum connections (both implicit and explicit) are actually quite obvious in that Fuller was an advocate of the freedom of individuals to travel the planet (as he did so freely), whereas the system of nation-states has a lot to do with [inhibiting travel](https://controlroom.blogspot.com/2023/10/new-gaza.html) and tourism among some classes of individual, namely those minus the proper documentation. The undocumented tended to get herded into camps by the United Nations, and abandoned, contrary to their human rights.Fuller liked to point out that supranational corporations (collectively The Grunch), endowed with the rights of humans by the Supreme Court, per the 14th Amendment (per a spurious argument if we follow [Thom Hartmann's research](https://www.amazon.com/Unequal-Protection-Corporations-Became-People-ebook/dp/B003M5HK4Y)) suffer no such onerous restrictions on their travel, given their elite, transhuman status.From the standpoint of one proffering this enhanced high school curriculum, with an updated American Transcendentalism woven throughout, it's my aim to provide a smooth, well-designed bridge, especially in the area of mathematics.  I don't want teachers coming to me later saying: "we would have been more than happy to adopt some of these reforms you've suggested, but you never spelled out in any detail how all this could be accomplished." I'll aim to see any and all such charges dropped, as [clearly I carried out my duties](https://github.com/4dsolutions/m4w/blob/main/M4WTOC.ipynb) as a curriculum developer. If our planetary civilization overheats and blows itself up, I won't have that on my conscience. I was all for [moving that minute hand](https://mybizmo.blogspot.com/2023/09/brinkmanship.html) farther back from midnight. Other high school teachers might not have been as conscious of our options. NCTM deleted our public forums after all.

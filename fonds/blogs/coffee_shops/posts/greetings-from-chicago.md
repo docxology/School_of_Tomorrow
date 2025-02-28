@@ -1,0 +1,11 @@
+---
+title: Greetings from Chicago
+id: 6418557329742170113
+author: Kirby Urner
+published: 2009-03-25T17:16:00.000-07:00
+updated: 2011-05-24T22:40:51.661-07:00
+blog: coffee_shops
+tags: 
+---
+
+:: pycon 2009 @ hyatt, o'hare ::[I'm here representing](http://www.flickr.com/photos/17157315@N00/3385545777/) the Portland-based [Institute for Science, Engineering and Public Policy](http://isepp.org/) at a Python conference, having some [key meetings](http://www.flickr.com/photos/17157315@N00/3385553967/in/photostream/) with MVPs.Some of our Wanderers have been taking another look at ecological economics recently (thanks again Trevor). If people asked how I got here, I could say "by surfing [the solar gradient](http://worldgame.blogspot.com/2006/07/repositioning-think-tanks.html)", but it's less whimsical to just say Alaska Airlines.CSN is about "right sharing of world resources" as Quakers say. Each shop is a semi-autonomous "world game engine" for positive change, steered by its customers in cahoots with its vendors. Intelligent steering requires buzz, conversation, in addition to times alone.Also while in Chicago, I'm planning to visit Starting with the Universe, the Bucky Fuller retrospective that started at NYC's Whitney Museum of American Art last year. It's now at the Museum of Contemporary Art.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc6z1w2iHG5Ag2YlpJp6YRC-a2yVl-U334RllhYNhSs036bIjEyy9b-3NSxRVWp-JVKPoKIPe-EjtIoWwkHf23QWSZjWMWV_2Y_Jjoxc1FxE4CKhpbBiGvjQmlEm_93h-WVHQLHgUCuYjf/s1600-h/bfuller.png)I've studied the trains map again, see a close-by station. I was here last year for this same conference, with my two daughters. Then we rented a GPS-car and drove to Pennsylvania, to remember Dawn with her family. I often think back to that trip. Tara appreciated the small town of Indiana.Where to go next with this project? Our customers might like to hear more of the history. We could invite faculty to lead some discussions. Tell us what you're thinking about? Help us steer?I also like the idea of offering travel opportunities to those wanting to rotate among shops. One way to add to the buzz, make it more cosmopolitan, is through a staff exchange program.

@@ -1,0 +1,11 @@
+---
+title: The Holy Mountain (movie review)
+id: 4878244925828692050
+author: Kirby Urner
+published: 2008-02-09T09:40:00.000-08:00
+updated: 2008-11-15T02:36:11.922-08:00
+blog: control_room
+tags: 
+---
+
+[This movie](http://www.imdb.com/title/tt0071615/) gets attention for the meta story behind it, appropriate given the finish, wherein Jodorowsky tries to frame the frame, an exercise in self-consciousness for the viewer, who by this time may be fairly drawn in.According to this back story, which adds to its mystique, this Mexican film (1973) was suppressed for the longest time (to avoid scandal), and is still almost impossible to find. Anyway, isn't the collective unconscious supposed to be suppressed? -- that's what makes it unconscious after all.Our protagonist is engaged in a quest for enlightenment, also billed as a search for immortality.  He struggles to escape identification with Jesus, difficult given his crucified appearance (which tourists appreciate), yet he remains within the alchemical tradition, wherein even excrement (raw film) might be turned into gold (through smart editing and enlightened commentary).In the alchemist's lab, each avatar on the team gets to explain his or her planet.On Venus, our Don Juan type makes the accouterments of love, while on Mars it's all about weapons (naturally).  There's a police state planet, with eternal executions and mowings-down, and a another planet (different from Mars) devoted to the manufacture of war toys for kids, always carefully crafted with the next enemy in mind (Peru in this case).  On the architecture planet (Pluto) we find some foreshadowing of those Japanese capsule hotels.[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbykcs84vvGm9qz_jueT-4kxD-mwKVGiaAZlxTF_izK_0BtFBlQy35ZJjBraMugY1DMqfqRRBOX3F5O_5CY4Wo0Sp0qjInfl-oapirMaBfyt57aOJiPzJSJZW5NWzGHBjgOYr_/s1600-h/capsule_hotel.jpg)One could choose to look at all this as an acting troupe, director-alchemist included, in the process of bonding, getting comfortable emoting and disrobing together, clowning around for the benefit of an observer-voyeur -- fun stuff to look back on at the end of the day. Others see it as a "spoof of religion" and indeed the wisdom clichés get thickly applied, like too much makeup.

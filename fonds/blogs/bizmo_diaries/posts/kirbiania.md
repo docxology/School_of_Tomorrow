@@ -1,0 +1,11 @@
+---
+title: Kirbiania
+id: 112198176749553150
+author: Kirby Urner
+published: 2005-07-21T13:51:00.000-07:00
+updated: 2006-11-15T11:43:44.477-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+Hugh Watkins, a Wittgenstein buff based in Copenhagen these days, coined "Kirbiania" to refer to my writings (Kirbinalia might have been an alternative).  Could this be some brand of God-talk from the Book of Narnia perchance, used by some exotic species or being that didn't make the final edit?  Here's the relevant [blog entry](http://bloog2.blogspot.com/2005/07/time-web-radio-originally-aired.html).We've been feeling somewhat out of the woods regarding my wife's medical condition, at least for the interim, but today it finally hit home what they've been trying to tell us:  the MRI was not really negative (although the PET thankfully was), and given the state of the art, that could mean many things.  So an ultra-sound is indicated, and maybe a biopsy.I'm about done programming [my OSCON talk](http://www.4dsolutions.net/ocn/oscon2005.html), which will presumably happen sometime in the first week of August.  Later in the summer, we're hoping to maybe rent a smallish RV and visit Dawn's brother and sister-in-law near Sisters, and Crater Lake.  I'd prefer to field test a real bizmo, but Education Research is less of a budget priority right now.No, civilian programming continues to take a back seat as we prosecute some war on terror ad infinitum.  Granted, life is somewhat terrifying, so there'll always be this need to keep our minds occupied with security concerns.  But [like president Eisenhower](http://www.grunch.net/faq.html), I'd rather opt for better and more global health care, higher living standards, more civilian alternatives.  Livingry is far more effective against terror than killingry. As I wrote to Hugh yesterday:  "In focusing on ordinary language, I think [Wittgenstein] brings us to where the action is, i.e. we need to infuse more science content into ordinary thinking, so that human beings bumble about in less politically-minded language games and spend more time programming their new smart homes and playing world game. "My wife and I are mindful of the fact that the level of medical care we're getting is far above the global average -- and yet is still so dark ages compared to what it could be (the doctors feel this acutely).

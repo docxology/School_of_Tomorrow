@@ -1,0 +1,10 @@
+---
+title: More Social Engineering
+id: 311346713697431660
+author: Kirby Urner
+published: 2011-07-28T11:26:00.001-07:00
+updated: 2011-07-31T08:42:43.887-07:00
+blog: world_game
+tags: 
+---
+

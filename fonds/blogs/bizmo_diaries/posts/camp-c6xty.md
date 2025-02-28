@@ -1,0 +1,13 @@
+---
+title: Camp C6XTY
+id: 1321945316465157377
+author: Kirby Urner
+published: 2020-07-29T19:47:00.004-07:00
+updated: 2020-07-29T20:10:02.182-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+[](https://www.flickr.com/photos/kirbyurner/50167077817/in/dateposted-public/)
+
+Leela and Melody got to social distance in my backyard, much like old times.  We had a breezy summer evening.  Naturally the conversation turned to the protests downtown.  Melody has been studying the emergence of private militias in her neck of the woods.  Privatization has come a long way.I've been continuing to recruit future faculty who might work [Martian Math](https://groups.io/g/synergeo/message/363) into some already favorite set of topics. My approach is to keep my content Humanities flavored (that sounds somewhat cannibalistic I realize), meaning I'm not spinning my home base as a place within STEM territory.  We bridge to STEM, over the C.P. Snow chasm, with our C6XTY bridge (there's a marketing angle). The point of casting it this way is to not make STEM, mathematicians in particular, the bottleneck.  Given their track record, we can expect little to no help from the Mathematics Department on this one.  Philosophy has had to step up to the plate, with links to Literature.  We're more in PATH (Philosophy Anthropology Theater History) than in STEM.You might think the rap above would have nothing to do with the Rastafarian | Pastafarian combo I'd like to see center stage at the Justice Center, once there's some serious equipment.  Why not a full sound and light show, impromptu?  Food carts?  I'm not saying I'd go, because of Covid.  If the actual downtown presence shrinks yet continues to stream the process, I'll have felt part of something.Seriously, I'd turn the downtown scene into a reggae festival, given the Blues Festival was denied us this year.  The link is [the importance of streaming](https://controlroom.blogspot.com/2020/07/shakespeare-in-park.html), and the fact of a larger audience watching from home. That's how our school works as well.  If you were following Lattice Gallery last winter, in downtown Portland, you were probably doing so remotely, perhaps from Japan or Korea.Portlanders are missing all their favorite summer events and have needed to channel some of that disappointment into an already frustrating push for social change.  There's a need to keep it real and focused and not just go for fluff.  My suggestions qualify as "peanut gallery" as I'm more kibbitzer than producer in this picture.Dr. D. and Glenn were also properly ordained for the occasion.  I'll plan to invite DB for the next one. We're still keeping the numbers down.  Blue House has been through many chapters.

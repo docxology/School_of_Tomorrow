@@ -1,0 +1,10 @@
+{
+  "id": "8330129713384938847",
+  "title": "Shape Arithmetic",
+  "published": "2016-04-20T22:29:00.001-07:00",
+  "updated": "2016-04-20T22:37:58.138-07:00",
+  "content": "David Koski was reminding me tonight of the happy mnemonics twixt ancient Greek results and our Synergetics concentric hierarchy. \n\nA cone inscribed in a cylinder of same base and height has 1/3rd its volume. \n\nA cone having half the cylinder's height, its tip at the equator line, has 1/6th its volume.\n\nLets define two cylinders, one twice the height of the other, called \"oil barrel\" and \"tuna can\" respectively. \n\nTwo tuna cans stacked up = one oil barrel. \n\nThen we have the following volumes table:\n\nOil Barrel: \u00a06\nTuna Can: 3\n\nCone in Oil Barrel: 2\nCone in Tuna Can: 1\n\nSphere in Oil Barrel: 4\nTwo Tuna Can Cones: 2\n\nOil Barrel - Two Tuna Can Cones (hourglass looking) = 6 - 2 = 4 = Sphere in Oil Barrel. [[link](https://www.math.hmc.edu/funfacts/ffiles/10003.3.shtml)]\n\nAlso: \u00a0Cone in Oil Barrel + Sphere in Oil Barrel = Oil Barrel (2 + 4 = 6). [[link](https://www.mathsisfun.com/geometry/cone-sphere-cylinder.html)]\n\nWe could make the following identifications and size accordingly:\n\nOil Barrel = Rhombic Dodecahedron (6)\nTuna Cone = Tetrahedron (1)\nSphere = Octahedron (4)\n\nWe could pour sand from objects on the left into corresponding objects on the right.",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "bizmo_diaries"
+}

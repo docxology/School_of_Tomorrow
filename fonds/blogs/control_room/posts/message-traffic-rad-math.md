@@ -1,0 +1,11 @@
+---
+title: Message Traffic (rad math)
+id: 5588188779245424840
+author: Kirby Urner
+published: 2011-09-02T22:26:00.000-07:00
+updated: 2011-09-04T13:59:42.125-07:00
+blog: control_room
+tags: 
+---
+
+From:Kirby UrnerTo:pdxfnbDate:Fri, Sep 2, 2011 at 2:21 PMSubject:Re: SE chapter: starting Thurs Sept 1 prep  Our new cook, just finding work, was glad to get Corrina's bike,pulled Satya's trailer to the park. [http://www.flickr.com/photos/17157315@N00/6104537430/in/photostream](http://www.flickr.com/photos/17157315@N00/6104537430/in/photostream)  ( bike in basement, plus lock, with David's replacement knives --unopened boxes) He was eager for updates on our SE comic strip (silly sit com, PG-13)as he'd been away for days. Lindsey announced her no-gossip-about-others policy while proceedingto gossip about herself at great liberty. I was glad Satya came by and reminded me about adding vinegar and/orlemon to lentils. We must have had over 200 red peppers to play with.  Expect to seesome today (they're in prime condition -- thanks OTY). I have this dynamite recipe I'm hoping to use for FnB one day, butdon't mind sharing ahead of time: [http://mybizmo.blogspot.com/2008/07/together-friends.html](http://mybizmo.blogspot.com/2008/07/together-friends.html)  The molasses would be too sweet for some of our associates, and theonion verboten. However it does have sour ingredients.  Thumbs up.  Not my invention(not taking credit). I might just make it a side dish instead of an entre. We were semi-silently marking one year of service where MultnomahFriends are concerned. [http://worldgame.blogspot.com/2011/09/quaker-doings.html](http://worldgame.blogspot.com/2011/09/quaker-doings.html)  I saw David's new flyer, verbose / micro-print, took it off to myperch (where I sometimes go when on duty). Again, we all have active imaginations so if you have a different ideaof PR, shake your booty. I've got my daughter Tara, recently returned from Managua, advising meon aesthetic possibilities (and/or traps to avoid). Kirby- Hide quoted text -  On Thu, Sep 1, 2011 at 3:16 PM, kirby urner wrote:> Opening 3:30 today.  Heading over...>> See ya'll.>> [http://worldgame.blogspot.com/2011/09/quaker-doings.html](http://worldgame.blogspot.com/2011/09/quaker-doings.html) >> Kirby>

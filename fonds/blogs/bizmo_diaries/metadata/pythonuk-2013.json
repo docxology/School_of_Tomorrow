@@ -1,0 +1,10 @@
+{
+  "id": "3383383212931958171",
+  "title": "PythonUK 2013",
+  "published": "2013-09-28T20:09:00.004-07:00",
+  "updated": "2013-09-28T20:31:00.035-07:00",
+  "content": "Drones, er, quadcopters, were a big hit this year, [like at OSCON](http://worldgame.blogspot.com/2013/07/oscon-xv.html).\n\nControlling a quadcopter from within Minecraft, using Python on a Raspberry Py (alternate spelling):\u00a0 that was a theme on the education track.\u00a0 The whole Python + Minecraft thing is fun with or without the quadcopter element.\n\nJudging from video clips, kids loved the event, as did their parents and teachers, including mentors from Bank of America, an event sponsor.\n\nSource:\u00a0 [PyconUK 2013 Roundup](http://ntoll.org/article/pyconuk2013-roundup)\n\nDon't have a Raspberry Pi but want to play with Python bindings anyway?\u00a0 Lost Bear Labs has [a solution](http://blog.lostbearlabs.com/2013/04/25/using-the-minecraft-api-without-a-raspberry-pi-craftbukkit-and-raspberryjuice/) you might try.",
+  "categories": [],
+  "author": "Kirby Urner",
+  "blog_name": "bizmo_diaries"
+}

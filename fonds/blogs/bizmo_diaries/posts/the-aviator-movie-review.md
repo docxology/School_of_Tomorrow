@@ -1,0 +1,11 @@
+---
+title: The Aviator (movie review)
+id: 111625504897157389
+author: Kirby Urner
+published: 2005-05-16T07:23:00.000-07:00
+updated: 2006-11-15T11:43:43.761-08:00
+blog: bizmo_diaries
+tags: 
+---
+
+As in A Beautiful Mind, the screenwriters here have the daunting task of projecting the protagonist's psychic tailspin on the big screen. We see many foreshadowings that he'll be losing his grip, but not before he takes on the world and changes it significantly, and for the better.To keep the storyline manageable, and maybe because the yet youthful DiCaprio would not seem quite believable as an old man, we never get to the concluding chapters in Las Vegas.Congressman [Brewster](http://www.bangornews.com/news/templates/?a=109262&z=224), well played by Alan Alda, was actually banking on Hughes snapping under pressure, making a public spectacle of his managerial incompetence. But this plan backfires. Fighting to keeping TWA on the map, versus a greedy Pan Am, contributes mightily to Howard's sanity. Here's a simple game with obvious villains. Hughes is restored to health by fighting in this political arena.The movie-star women, though more complex than the greedy guys, are still a source of sanity in his life, though his mother takes a hit for maybe contributing to his ill-defined germ phobia (I understand Tesla had a similar problem -- or was it a fear of being poisoned?). My favorite line in the film: Ava Gardner walks into this apartment he's been flipping out in, sees tape connecting everything to everything (I'll guess this was a screenwriter fiction) and says with droll humor as she pours herself a drink: "I love what you've done with the place."And then of course we have the airplanes, the simplest creatures of all (which the screenwriters compare with the women at least superficially -- both sleek). The planes are Howard's chief conduit to the exhilarating world of unforgiving physical principles versus human engineering and a desire to master them. When the plane, the woman, and bottled milk all come together (Katherine Hepburn at the wheel, high above Hollywood), he's in his element at last.

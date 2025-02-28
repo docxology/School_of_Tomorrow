@@ -1,0 +1,27 @@
+---
+title: Giant Domes
+id: 2408628892020386276
+author: Kirby Urner
+published: 2024-01-03T08:17:00.000-08:00
+updated: 2024-01-03T08:17:51.518-08:00
+blog: control_room
+tags: 
+---
+
+[](https://www.flickr.com/photos/kirbyurner/52955167567/)
+
+I was surprised to learn that modern computer models have shown geodesic domes to be unstable. This was the word from Princeton that time, a TrimTabber meetup. However I think the speaker suggested workarounds. How reliable is software alone, when it comes to anticipating synergetic properties?
+
+You'd think more experimentation with giant domes would be some university's business, just for the opportunities it'd create for its students, to experiment with such advanced engineering. Are we talking a one mile diameter dome or what? How tall would it be? Would it be heated?
+
+The idea was: if voluminous enough, and effective as a weather shield, then the interior could be designed imaginatively. If people want a more rectilinear scaffolding with a surrounding climatron, so much the better, but how far could we push such designs into extremes of hot and cold weather patterns? Would the software model tell the whole story? How much would that software cost, versus simply building the thing and taking real world measurements?
+
+The problem was Bucky had a lot of charisma and could get the wheels turning, such that universities inviting him to campus could expect its students to co-create one or more novelties, many of which could be kept for various practical purposes, such as PR.  "Come to University X where we make giant domes in the desert!" the billboard might say, with some alluring pictures. Why leave it all to burners at Burning Man to prototype tomorrow experimentally?
+
+I'd like to see the real deal (a giant dome) and the software model side by side. Is the Tacoma Dome unstable? Our speaker sounded anti standardized parts, as modern architecture always celebrates the "one off" versus the industrially repeatable. 
+
+Designs that repeat (clone) put architects out of work, as now you're sheltering millions of people with one standard design. Yet the car industry thinks nothing (or everything) of standardization, and yet also comes with many makes and models. Then customize all you like with aftermarket products. Ditto for airplanes.
+
+Fuller permitted himself this critique of architecture, such that his recognition and awards in that area were sometimes begrudged. He was critical of other disciplines too, and many developed chips on their shoulders, and had axes to grind. We've had to thread the needle in such a way as to take all this professional jealousy into account. We being like some invisible army of die hard Buckynauts.
+
+The Cornwall pillow domes were daring and are no doubt a source of useful data, for those wishing to continue with this type of experiment. You might think Florida would take the initiative, given The Mouse in Orlando, but various culture wars seem to be sending us off on a detour. The whole "livingry" business held up by people uptight about "livingry" even being a word, whereas "weaponry" is to them a no brainer.

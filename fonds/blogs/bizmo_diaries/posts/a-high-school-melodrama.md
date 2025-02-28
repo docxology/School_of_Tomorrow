@@ -1,0 +1,11 @@
+---
+title: A High School Melodrama
+id: 5184708309268910824
+author: Kirby Urner
+published: 2009-03-06T23:03:00.000-08:00
+updated: 2009-03-15T13:45:51.527-07:00
+blog: bizmo_diaries
+tags: 
+---
+
+Having [high schoolers](http://worldgame.blogspot.com/2008/05/elephant-movie-review.html) stage Romeo & Juliet is completely age appropriate, as this was the age group these romantics represented.The story is as accessible as it is absorbing to teens, unlike polyhedra maybe, however colorful ("I'll bet none of these kids knows [what a MITE is](http://worldgame.blogspot.com/2009/03/re-nkg.html)" I found myself thinking, given my teacherly obsessions).This play took me back.We all learn in English class how the actors were all male in Shakespeare's day, even when cast in female roles.  How refreshing then, to have Tybalt be this fearsome "mean girl" (a real one) complete with leather skirt, fishnets and boots.I'd forgotten how hormonal our Romeo was already being for Rosalyn (always off camera) when suddenly Juliet gains his attention.  He's mocked for this from all angles but is too self-absorbed to really see their point.I was pleased to encounter the play's co-director [Johnny Stallings](http://mybizmo.blogspot.com/2006/12/another-day-in-rose-city.html) (& angel) at this venue, so appropriate given his stellar status in [Shakespearean circles](http://worldgame.blogspot.com/2004/10/king-lear-play-review.html), not to mention [his street cred](http://mybizmo.blogspot.com/2006/04/once-there-was.html) as [a transcendentalist](http://mybizmo.blogspot.com/2007/06/hb2y.html).  We compared notes on Dr. Nick, expected in town this coming week.My thanks to Tara for dragging me out to this [enjoyable production](http://www.flickr.com/photos/17157315@N00/3337048300/) (even after the drive home from Seattle) which she needed to take in as an honors assignment for Cleveland High.She's read and seen the play a few times already, had no trouble following, nor did the rest of the Catlin Gabel audience, which caught most of the jokes it seemed.The set was starkly polyhedral, minimal, skeletal, like a jungle gym (monkey bars).  Every "scene change" was a mere rotation of the scaffolding by silhouetted stage hands with head sets.
