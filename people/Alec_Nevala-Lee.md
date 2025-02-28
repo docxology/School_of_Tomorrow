@@ -81,7 +81,7 @@ graph TD
 ## Fuller Scholarship
 
 ### Research Contributions
-1. [[Inventor of the Future]]
+1. [[Inventor_of_the_Future]]
    - First comprehensive Fuller biography
    - Extensive Chronofile research
    - New historical insights

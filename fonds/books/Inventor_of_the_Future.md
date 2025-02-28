@@ -14,7 +14,7 @@ related: [R._Buckminster_Fuller, Chronofile, Design_Science, Synergetics]
 
 # Inventor of the Future: The Visionary Life of Buckminster Fuller
 
-A comprehensive biography by [[Alec Nevala-Lee]] that examines the life, work, and legacy of [[R. Buckminster Fuller]], drawing on extensive archival research and previously unpublished materials.
+A comprehensive biography by [[Alec Nevala-Lee]] that examines the life, work, and legacy of [[Buckminster_Fuller]], drawing on extensive archival research and previously unpublished materials.
 
 ## Overview
 
