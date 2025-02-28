@@ -11,8 +11,10 @@ aliases: [CADS, Design Science, Anticipatory Design]
 
 # Comprehensive Anticipatory Design Science
 
-Comprehensive Anticipatory Design Science (CADS) is R. Buckminster Fuller's methodological framework for solving global problems through systematic, anticipatory, and comprehensive design thinking.
+Comprehensive Anticipatory Design Science (CADS) is [[Buckminster_Fuller|Bucky Fuller]] 's methodological framework for solving global problems through systematic, anticipatory, and comprehensive design thinking.
 
+Modern teachers include [[Curt_McNamara]] and ....
+ 
 ## Overview
 
 ### Definition
